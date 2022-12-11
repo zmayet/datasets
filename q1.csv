@@ -1,1181 +1,5154 @@
-id,cohort,session,attendance
-1,PG Cyber Sec,1,0
-1,PG Cyber Sec,2,0
-1,PG Cyber Sec,3,0
-1,PG Cyber Sec,4,1
-1,PG Cyber Sec,5,0
-1,PG Cyber Sec,6,0
-1,PG Cyber Sec,7,0
-1,PG Cyber Sec,8,1
-1,PG Cyber Sec,9,1
-1,PG Cyber Sec,10,0
-2,PG Cyber Sec,1,1
-2,PG Cyber Sec,2,1
-2,PG Cyber Sec,3,0
-2,PG Cyber Sec,4,1
-2,PG Cyber Sec,5,0
-2,PG Cyber Sec,6,0
-2,PG Cyber Sec,7,1
-2,PG Cyber Sec,8,0
-2,PG Cyber Sec,9,0
-2,PG Cyber Sec,10,0
-3,PG Cyber Sec,1,1
-3,PG Cyber Sec,2,1
-3,PG Cyber Sec,3,1
-3,PG Cyber Sec,4,1
-3,PG Cyber Sec,5,0
-3,PG Cyber Sec,6,1
-3,PG Cyber Sec,7,0
-3,PG Cyber Sec,8,0
-3,PG Cyber Sec,9,1
-3,PG Cyber Sec,10,1
-4,PG Cyber Sec,1,1
-4,PG Cyber Sec,2,1
-4,PG Cyber Sec,3,1
-4,PG Cyber Sec,4,1
-4,PG Cyber Sec,5,1
-4,PG Cyber Sec,6,1
-4,PG Cyber Sec,7,1
-4,PG Cyber Sec,8,1
-4,PG Cyber Sec,9,1
-4,PG Cyber Sec,10,1
-5,PG Cyber Sec,1,1
-5,PG Cyber Sec,2,1
-5,PG Cyber Sec,3,1
-5,PG Cyber Sec,4,1
-5,PG Cyber Sec,5,0
-5,PG Cyber Sec,6,0
-5,PG Cyber Sec,7,1
-5,PG Cyber Sec,8,0
-5,PG Cyber Sec,9,0
-5,PG Cyber Sec,10,1
-6,PG Cyber Sec,1,1
-6,PG Cyber Sec,2,1
-6,PG Cyber Sec,3,1
-6,PG Cyber Sec,4,0
-6,PG Cyber Sec,5,0
-6,PG Cyber Sec,6,0
-6,PG Cyber Sec,7,0
-6,PG Cyber Sec,8,1
-6,PG Cyber Sec,9,0
-6,PG Cyber Sec,10,0
-7,PG Cyber Sec,1,1
-7,PG Cyber Sec,2,1
-7,PG Cyber Sec,3,1
-7,PG Cyber Sec,4,1
-7,PG Cyber Sec,5,1
-7,PG Cyber Sec,6,1
-7,PG Cyber Sec,7,1
-7,PG Cyber Sec,8,1
-7,PG Cyber Sec,9,1
-7,PG Cyber Sec,10,1
-8,PG Cyber Sec,1,1
-8,PG Cyber Sec,2,1
-8,PG Cyber Sec,3,1
-8,PG Cyber Sec,4,1
-8,PG Cyber Sec,5,1
-8,PG Cyber Sec,6,0
-8,PG Cyber Sec,7,0
-8,PG Cyber Sec,8,1
-8,PG Cyber Sec,9,1
-8,PG Cyber Sec,10,1
-9,PG Cyber Sec,1,1
-9,PG Cyber Sec,2,1
-9,PG Cyber Sec,3,1
-9,PG Cyber Sec,4,1
-9,PG Cyber Sec,5,0
-9,PG Cyber Sec,6,1
-9,PG Cyber Sec,7,1
-9,PG Cyber Sec,8,1
-9,PG Cyber Sec,9,1
-9,PG Cyber Sec,10,1
-10,PG Cyber Sec,1,0
-10,PG Cyber Sec,2,1
-10,PG Cyber Sec,3,0
-10,PG Cyber Sec,4,0
-10,PG Cyber Sec,5,0
-10,PG Cyber Sec,6,0
-10,PG Cyber Sec,7,0
-10,PG Cyber Sec,8,0
-10,PG Cyber Sec,9,1
-10,PG Cyber Sec,10,0
-11,PG Cyber Sec,1,0
-11,PG Cyber Sec,2,1
-11,PG Cyber Sec,3,1
-11,PG Cyber Sec,4,0
-11,PG Cyber Sec,5,1
-11,PG Cyber Sec,6,0
-11,PG Cyber Sec,7,1
-11,PG Cyber Sec,8,1
-11,PG Cyber Sec,9,0
-11,PG Cyber Sec,10,1
-12,PG Cyber Sec,1,1
-12,PG Cyber Sec,2,1
-12,PG Cyber Sec,3,1
-12,PG Cyber Sec,4,1
-12,PG Cyber Sec,5,1
-12,PG Cyber Sec,6,1
-12,PG Cyber Sec,7,0
-12,PG Cyber Sec,8,1
-12,PG Cyber Sec,9,1
-12,PG Cyber Sec,10,1
-13,PG Cyber Sec,1,1
-13,PG Cyber Sec,2,1
-13,PG Cyber Sec,3,1
-13,PG Cyber Sec,4,1
-13,PG Cyber Sec,5,1
-13,PG Cyber Sec,6,1
-13,PG Cyber Sec,7,0
-13,PG Cyber Sec,8,1
-13,PG Cyber Sec,9,0
-13,PG Cyber Sec,10,1
-14,PG Cyber Sec,1,1
-14,PG Cyber Sec,2,0
-14,PG Cyber Sec,3,0
-14,PG Cyber Sec,4,0
-14,PG Cyber Sec,5,0
-14,PG Cyber Sec,6,0
-14,PG Cyber Sec,7,1
-14,PG Cyber Sec,8,1
-14,PG Cyber Sec,9,1
-14,PG Cyber Sec,10,0
-15,PG Cyber Sec,1,1
-15,PG Cyber Sec,2,1
-15,PG Cyber Sec,3,1
-15,PG Cyber Sec,4,1
-15,PG Cyber Sec,5,1
-15,PG Cyber Sec,6,1
-15,PG Cyber Sec,7,1
-15,PG Cyber Sec,8,1
-15,PG Cyber Sec,9,1
-15,PG Cyber Sec,10,1
-16,PG Data Sci,1,1
-16,PG Data Sci,2,1
-16,PG Data Sci,3,0
-16,PG Data Sci,4,1
-16,PG Data Sci,5,1
-16,PG Data Sci,6,1
-16,PG Data Sci,7,1
-16,PG Data Sci,8,0
-16,PG Data Sci,9,1
-16,PG Data Sci,10,1
-17,PG Data Sci,1,1
-17,PG Data Sci,2,0
-17,PG Data Sci,3,1
-17,PG Data Sci,4,1
-17,PG Data Sci,5,1
-17,PG Data Sci,6,1
-17,PG Data Sci,7,1
-17,PG Data Sci,8,0
-17,PG Data Sci,9,0
-17,PG Data Sci,10,1
-18,PG Data Sci,1,1
-18,PG Data Sci,2,1
-18,PG Data Sci,3,1
-18,PG Data Sci,4,0
-18,PG Data Sci,5,0
-18,PG Data Sci,6,0
-18,PG Data Sci,7,0
-18,PG Data Sci,8,0
-18,PG Data Sci,9,0
-18,PG Data Sci,10,0
-19,PG Data Sci,1,1
-19,PG Data Sci,2,1
-19,PG Data Sci,3,1
-19,PG Data Sci,4,1
-19,PG Data Sci,5,1
-19,PG Data Sci,6,1
-19,PG Data Sci,7,1
-19,PG Data Sci,8,1
-19,PG Data Sci,9,1
-19,PG Data Sci,10,1
-20,PG Data Sci,1,0
-20,PG Data Sci,2,1
-20,PG Data Sci,3,0
-20,PG Data Sci,4,1
-20,PG Data Sci,5,1
-20,PG Data Sci,6,1
-20,PG Data Sci,7,0
-20,PG Data Sci,8,0
-20,PG Data Sci,9,0
-20,PG Data Sci,10,0
-21,PG Data Sci,1,1
-21,PG Data Sci,2,1
-21,PG Data Sci,3,0
-21,PG Data Sci,4,0
-21,PG Data Sci,5,0
-21,PG Data Sci,6,1
-21,PG Data Sci,7,0
-21,PG Data Sci,8,0
-21,PG Data Sci,9,0
-21,PG Data Sci,10,0
-22,PG Data Sci,1,1
-22,PG Data Sci,2,1
-22,PG Data Sci,3,1
-22,PG Data Sci,4,1
-22,PG Data Sci,5,0
-22,PG Data Sci,6,1
-22,PG Data Sci,7,1
-22,PG Data Sci,8,1
-22,PG Data Sci,9,0
-22,PG Data Sci,10,1
-23,PG Data Sci,1,1
-23,PG Data Sci,2,0
-23,PG Data Sci,3,0
-23,PG Data Sci,4,0
-23,PG Data Sci,5,0
-23,PG Data Sci,6,1
-23,PG Data Sci,7,1
-23,PG Data Sci,8,0
-23,PG Data Sci,9,1
-23,PG Data Sci,10,0
-24,PG Data Sci,1,1
-24,PG Data Sci,2,1
-24,PG Data Sci,3,1
-24,PG Data Sci,4,1
-24,PG Data Sci,5,0
-24,PG Data Sci,6,1
-24,PG Data Sci,7,1
-24,PG Data Sci,8,1
-24,PG Data Sci,9,1
-24,PG Data Sci,10,1
-25,PG Data Sci,1,1
-25,PG Data Sci,2,0
-25,PG Data Sci,3,0
-25,PG Data Sci,4,1
-25,PG Data Sci,5,1
-25,PG Data Sci,6,1
-25,PG Data Sci,7,1
-25,PG Data Sci,8,0
-25,PG Data Sci,9,0
-25,PG Data Sci,10,1
-26,PG Data Sci,1,1
-26,PG Data Sci,2,1
-26,PG Data Sci,3,1
-26,PG Data Sci,4,1
-26,PG Data Sci,5,1
-26,PG Data Sci,6,1
-26,PG Data Sci,7,1
-26,PG Data Sci,8,1
-26,PG Data Sci,9,1
-26,PG Data Sci,10,1
-27,PG Data Sci,1,1
-27,PG Data Sci,2,1
-27,PG Data Sci,3,1
-27,PG Data Sci,4,1
-27,PG Data Sci,5,1
-27,PG Data Sci,6,1
-27,PG Data Sci,7,0
-27,PG Data Sci,8,1
-27,PG Data Sci,9,1
-27,PG Data Sci,10,1
-28,PG Data Sci,1,1
-28,PG Data Sci,2,1
-28,PG Data Sci,3,1
-28,PG Data Sci,4,1
-28,PG Data Sci,5,1
-28,PG Data Sci,6,1
-28,PG Data Sci,7,1
-28,PG Data Sci,8,0
-28,PG Data Sci,9,0
-28,PG Data Sci,10,1
-29,PG Data Sci,1,1
-29,PG Data Sci,2,0
-29,PG Data Sci,3,1
-29,PG Data Sci,4,1
-29,PG Data Sci,5,1
-29,PG Data Sci,6,1
-29,PG Data Sci,7,0
-29,PG Data Sci,8,0
-29,PG Data Sci,9,0
-29,PG Data Sci,10,1
-30,PG Data Sci,1,0
-30,PG Data Sci,2,1
-30,PG Data Sci,3,1
-30,PG Data Sci,4,1
-30,PG Data Sci,5,1
-30,PG Data Sci,6,1
-30,PG Data Sci,7,1
-30,PG Data Sci,8,1
-30,PG Data Sci,9,0
-30,PG Data Sci,10,1
-31,PG Data Sci,1,0
-31,PG Data Sci,2,0
-31,PG Data Sci,3,1
-31,PG Data Sci,4,1
-31,PG Data Sci,5,1
-31,PG Data Sci,6,0
-31,PG Data Sci,7,1
-31,PG Data Sci,8,1
-31,PG Data Sci,9,1
-31,PG Data Sci,10,1
-32,PG Data Sci,1,1
-32,PG Data Sci,2,1
-32,PG Data Sci,3,0
-32,PG Data Sci,4,1
-32,PG Data Sci,5,0
-32,PG Data Sci,6,1
-32,PG Data Sci,7,1
-32,PG Data Sci,8,0
-32,PG Data Sci,9,0
-32,PG Data Sci,10,1
-33,PG Data Sci,1,1
-33,PG Data Sci,2,0
-33,PG Data Sci,3,0
-33,PG Data Sci,4,0
-33,PG Data Sci,5,0
-33,PG Data Sci,6,0
-33,PG Data Sci,7,0
-33,PG Data Sci,8,0
-33,PG Data Sci,9,0
-33,PG Data Sci,10,0
-34,PG Data Sci,1,1
-34,PG Data Sci,2,0
-34,PG Data Sci,3,1
-34,PG Data Sci,4,1
-34,PG Data Sci,5,1
-34,PG Data Sci,6,1
-34,PG Data Sci,7,1
-34,PG Data Sci,8,1
-34,PG Data Sci,9,0
-34,PG Data Sci,10,1
-35,PG Data Sci,1,1
-35,PG Data Sci,2,1
-35,PG Data Sci,3,1
-35,PG Data Sci,4,1
-35,PG Data Sci,5,1
-35,PG Data Sci,6,1
-35,PG Data Sci,7,1
-35,PG Data Sci,8,1
-35,PG Data Sci,9,1
-35,PG Data Sci,10,1
-36,PG Data Sci,1,1
-36,PG Data Sci,2,1
-36,PG Data Sci,3,1
-36,PG Data Sci,4,0
-36,PG Data Sci,5,1
-36,PG Data Sci,6,1
-36,PG Data Sci,7,1
-36,PG Data Sci,8,0
-36,PG Data Sci,9,1
-36,PG Data Sci,10,1
-37,PG Data Sci,1,1
-37,PG Data Sci,2,1
-37,PG Data Sci,3,1
-37,PG Data Sci,4,1
-37,PG Data Sci,5,0
-37,PG Data Sci,6,1
-37,PG Data Sci,7,1
-37,PG Data Sci,8,1
-37,PG Data Sci,9,0
-37,PG Data Sci,10,1
-38,PG Data Sci,1,1
-38,PG Data Sci,2,1
-38,PG Data Sci,3,1
-38,PG Data Sci,4,0
-38,PG Data Sci,5,0
-38,PG Data Sci,6,1
-38,PG Data Sci,7,0
-38,PG Data Sci,8,0
-38,PG Data Sci,9,0
-38,PG Data Sci,10,0
-39,PG Data Sci,1,1
-39,PG Data Sci,2,1
-39,PG Data Sci,3,0
-39,PG Data Sci,4,1
-39,PG Data Sci,5,1
-39,PG Data Sci,6,1
-39,PG Data Sci,7,0
-39,PG Data Sci,8,1
-39,PG Data Sci,9,1
-39,PG Data Sci,10,1
-40,PG Data Sci,1,0
-40,PG Data Sci,2,1
-40,PG Data Sci,3,1
-40,PG Data Sci,4,1
-40,PG Data Sci,5,0
-40,PG Data Sci,6,0
-40,PG Data Sci,7,1
-40,PG Data Sci,8,0
-40,PG Data Sci,9,0
-40,PG Data Sci,10,0
-41,PG Data Sci,1,1
-41,PG Data Sci,2,1
-41,PG Data Sci,3,1
-41,PG Data Sci,4,1
-41,PG Data Sci,5,1
-41,PG Data Sci,6,1
-41,PG Data Sci,7,1
-41,PG Data Sci,8,1
-41,PG Data Sci,9,1
-41,PG Data Sci,10,1
-42,PG Data Sci,1,1
-42,PG Data Sci,2,0
-42,PG Data Sci,3,1
-42,PG Data Sci,4,1
-42,PG Data Sci,5,0
-42,PG Data Sci,6,0
-42,PG Data Sci,7,1
-42,PG Data Sci,8,0
-42,PG Data Sci,9,0
-42,PG Data Sci,10,0
-43,PG Data Sci,1,1
-43,PG Data Sci,2,1
-43,PG Data Sci,3,1
-43,PG Data Sci,4,1
-43,PG Data Sci,5,1
-43,PG Data Sci,6,1
-43,PG Data Sci,7,1
-43,PG Data Sci,8,1
-43,PG Data Sci,9,1
-43,PG Data Sci,10,1
-44,PG Data Sci,1,1
-44,PG Data Sci,2,0
-44,PG Data Sci,3,1
-44,PG Data Sci,4,0
-44,PG Data Sci,5,0
-44,PG Data Sci,6,0
-44,PG Data Sci,7,0
-44,PG Data Sci,8,0
-44,PG Data Sci,9,0
-44,PG Data Sci,10,0
-45,PG Data Sci,1,0
-45,PG Data Sci,2,0
-45,PG Data Sci,3,1
-45,PG Data Sci,4,1
-45,PG Data Sci,5,0
-45,PG Data Sci,6,0
-45,PG Data Sci,7,1
-45,PG Data Sci,8,0
-45,PG Data Sci,9,0
-45,PG Data Sci,10,0
-46,PG Data Sci,1,1
-46,PG Data Sci,2,1
-46,PG Data Sci,3,1
-46,PG Data Sci,4,1
-46,PG Data Sci,5,1
-46,PG Data Sci,6,1
-46,PG Data Sci,7,1
-46,PG Data Sci,8,0
-46,PG Data Sci,9,1
-46,PG Data Sci,10,1
-47,PG Data Sci,1,1
-47,PG Data Sci,2,1
-47,PG Data Sci,3,1
-47,PG Data Sci,4,1
-47,PG Data Sci,5,1
-47,PG Data Sci,6,0
-47,PG Data Sci,7,1
-47,PG Data Sci,8,0
-47,PG Data Sci,9,0
-47,PG Data Sci,10,1
-48,PG Data Sci,1,1
-48,PG Data Sci,2,0
-48,PG Data Sci,3,1
-48,PG Data Sci,4,1
-48,PG Data Sci,5,0
-48,PG Data Sci,6,1
-48,PG Data Sci,7,1
-48,PG Data Sci,8,0
-48,PG Data Sci,9,0
-48,PG Data Sci,10,1
-49,PG Data Sci,1,1
-49,PG Data Sci,2,1
-49,PG Data Sci,3,1
-49,PG Data Sci,4,1
-49,PG Data Sci,5,1
-49,PG Data Sci,6,1
-49,PG Data Sci,7,0
-49,PG Data Sci,8,1
-49,PG Data Sci,9,1
-49,PG Data Sci,10,1
-50,PG Data Sci,1,1
-50,PG Data Sci,2,0
-50,PG Data Sci,3,0
-50,PG Data Sci,4,0
-50,PG Data Sci,5,0
-50,PG Data Sci,6,0
-50,PG Data Sci,7,0
-50,PG Data Sci,8,0
-50,PG Data Sci,9,0
-50,PG Data Sci,10,0
-51,PG Data Sci,1,1
-51,PG Data Sci,2,1
-51,PG Data Sci,3,1
-51,PG Data Sci,4,1
-51,PG Data Sci,5,0
-51,PG Data Sci,6,1
-51,PG Data Sci,7,1
-51,PG Data Sci,8,0
-51,PG Data Sci,9,1
-51,PG Data Sci,10,1
-52,PG Data Sci,1,1
-52,PG Data Sci,2,1
-52,PG Data Sci,3,0
-52,PG Data Sci,4,0
-52,PG Data Sci,5,0
-52,PG Data Sci,6,0
-52,PG Data Sci,7,0
-52,PG Data Sci,8,0
-52,PG Data Sci,9,0
-52,PG Data Sci,10,0
-53,PG Data Sci,1,1
-53,PG Data Sci,2,1
-53,PG Data Sci,3,1
-53,PG Data Sci,4,1
-53,PG Data Sci,5,1
-53,PG Data Sci,6,1
-53,PG Data Sci,7,1
-53,PG Data Sci,8,1
-53,PG Data Sci,9,1
-53,PG Data Sci,10,1
-54,PG Data Sci,1,1
-54,PG Data Sci,2,1
-54,PG Data Sci,3,1
-54,PG Data Sci,4,1
-54,PG Data Sci,5,1
-54,PG Data Sci,6,1
-54,PG Data Sci,7,1
-54,PG Data Sci,8,1
-54,PG Data Sci,9,1
-54,PG Data Sci,10,1
-55,PG Data Sci,1,1
-55,PG Data Sci,2,1
-55,PG Data Sci,3,1
-55,PG Data Sci,4,1
-55,PG Data Sci,5,0
-55,PG Data Sci,6,1
-55,PG Data Sci,7,1
-55,PG Data Sci,8,1
-55,PG Data Sci,9,1
-55,PG Data Sci,10,1
-56,PG Data Sci,1,1
-56,PG Data Sci,2,1
-56,PG Data Sci,3,1
-56,PG Data Sci,4,1
-56,PG Data Sci,5,1
-56,PG Data Sci,6,0
-56,PG Data Sci,7,1
-56,PG Data Sci,8,1
-56,PG Data Sci,9,1
-56,PG Data Sci,10,1
-57,PG Data Sci,1,1
-57,PG Data Sci,2,1
-57,PG Data Sci,3,1
-57,PG Data Sci,4,1
-57,PG Data Sci,5,1
-57,PG Data Sci,6,1
-57,PG Data Sci,7,1
-57,PG Data Sci,8,1
-57,PG Data Sci,9,1
-57,PG Data Sci,10,1
-58,PG Data Sci,1,1
-58,PG Data Sci,2,1
-58,PG Data Sci,3,1
-58,PG Data Sci,4,1
-58,PG Data Sci,5,0
-58,PG Data Sci,6,1
-58,PG Data Sci,7,1
-58,PG Data Sci,8,1
-58,PG Data Sci,9,0
-58,PG Data Sci,10,1
-59,PG Data Sci,1,1
-59,PG Data Sci,2,0
-59,PG Data Sci,3,1
-59,PG Data Sci,4,0
-59,PG Data Sci,5,1
-59,PG Data Sci,6,0
-59,PG Data Sci,7,0
-59,PG Data Sci,8,0
-59,PG Data Sci,9,1
-59,PG Data Sci,10,0
-60,PG Data Sci,1,1
-60,PG Data Sci,2,1
-60,PG Data Sci,3,0
-60,PG Data Sci,4,1
-60,PG Data Sci,5,1
-60,PG Data Sci,6,1
-60,PG Data Sci,7,0
-60,PG Data Sci,8,0
-60,PG Data Sci,9,1
-60,PG Data Sci,10,1
-61,PG Data Sci,1,1
-61,PG Data Sci,2,1
-61,PG Data Sci,3,1
-61,PG Data Sci,4,1
-61,PG Data Sci,5,1
-61,PG Data Sci,6,1
-61,PG Data Sci,7,1
-61,PG Data Sci,8,1
-61,PG Data Sci,9,1
-61,PG Data Sci,10,1
-62,PG Data Sci,1,0
-62,PG Data Sci,2,1
-62,PG Data Sci,3,1
-62,PG Data Sci,4,1
-62,PG Data Sci,5,0
-62,PG Data Sci,6,1
-62,PG Data Sci,7,1
-62,PG Data Sci,8,1
-62,PG Data Sci,9,0
-62,PG Data Sci,10,1
-63,PG HCID,1,1
-63,PG HCID,2,1
-63,PG HCID,3,1
-63,PG HCID,4,1
-63,PG HCID,5,1
-63,PG HCID,6,1
-63,PG HCID,7,1
-63,PG HCID,8,1
-63,PG HCID,9,1
-63,PG HCID,10,1
-64,PG HCID,1,0
-64,PG HCID,2,1
-64,PG HCID,3,1
-64,PG HCID,4,1
-64,PG HCID,5,1
-64,PG HCID,6,1
-64,PG HCID,7,1
-64,PG HCID,8,1
-64,PG HCID,9,1
-64,PG HCID,10,1
-65,PG HCID,1,1
-65,PG HCID,2,1
-65,PG HCID,3,1
-65,PG HCID,4,0
-65,PG HCID,5,0
-65,PG HCID,6,0
-65,PG HCID,7,1
-65,PG HCID,8,0
-65,PG HCID,9,0
-65,PG HCID,10,0
-66,PG HCID,1,1
-66,PG HCID,2,1
-66,PG HCID,3,1
-66,PG HCID,4,1
-66,PG HCID,5,1
-66,PG HCID,6,1
-66,PG HCID,7,1
-66,PG HCID,8,1
-66,PG HCID,9,1
-66,PG HCID,10,1
-67,PG HCID,1,1
-67,PG HCID,2,0
-67,PG HCID,3,1
-67,PG HCID,4,1
-67,PG HCID,5,1
-67,PG HCID,6,1
-67,PG HCID,7,0
-67,PG HCID,8,1
-67,PG HCID,9,0
-67,PG HCID,10,1
-68,PG HCID,1,1
-68,PG HCID,2,0
-68,PG HCID,3,1
-68,PG HCID,4,1
-68,PG HCID,5,0
-68,PG HCID,6,0
-68,PG HCID,7,1
-68,PG HCID,8,0
-68,PG HCID,9,0
-68,PG HCID,10,0
-69,PG HCID,1,1
-69,PG HCID,2,0
-69,PG HCID,3,0
-69,PG HCID,4,0
-69,PG HCID,5,1
-69,PG HCID,6,1
-69,PG HCID,7,1
-69,PG HCID,8,1
-69,PG HCID,9,1
-69,PG HCID,10,1
-70,PG HCID,1,1
-70,PG HCID,2,1
-70,PG HCID,3,1
-70,PG HCID,4,1
-70,PG HCID,5,1
-70,PG HCID,6,1
-70,PG HCID,7,1
-70,PG HCID,8,1
-70,PG HCID,9,1
-70,PG HCID,10,1
-71,PG HCID,1,1
-71,PG HCID,2,1
-71,PG HCID,3,1
-71,PG HCID,4,0
-71,PG HCID,5,1
-71,PG HCID,6,0
-71,PG HCID,7,1
-71,PG HCID,8,1
-71,PG HCID,9,0
-71,PG HCID,10,1
-72,PG HCID,1,1
-72,PG HCID,2,1
-72,PG HCID,3,1
-72,PG HCID,4,1
-72,PG HCID,5,1
-72,PG HCID,6,1
-72,PG HCID,7,1
-72,PG HCID,8,1
-72,PG HCID,9,1
-72,PG HCID,10,1
-73,PG HCID,1,1
-73,PG HCID,2,1
-73,PG HCID,3,1
-73,PG HCID,4,1
-73,PG HCID,5,0
-73,PG HCID,6,1
-73,PG HCID,7,0
-73,PG HCID,8,1
-73,PG HCID,9,1
-73,PG HCID,10,1
-74,PG HCID,1,1
-74,PG HCID,2,1
-74,PG HCID,3,0
-74,PG HCID,4,0
-74,PG HCID,5,0
-74,PG HCID,6,0
-74,PG HCID,7,0
-74,PG HCID,8,0
-74,PG HCID,9,0
-74,PG HCID,10,0
-75,PG HCID,1,1
-75,PG HCID,2,1
-75,PG HCID,3,1
-75,PG HCID,4,1
-75,PG HCID,5,1
-75,PG HCID,6,1
-75,PG HCID,7,1
-75,PG HCID,8,1
-75,PG HCID,9,1
-75,PG HCID,10,1
-76,PG HCID,1,1
-76,PG HCID,2,0
-76,PG HCID,3,1
-76,PG HCID,4,1
-76,PG HCID,5,1
-76,PG HCID,6,1
-76,PG HCID,7,0
-76,PG HCID,8,1
-76,PG HCID,9,0
-76,PG HCID,10,1
-77,PG HCID,1,1
-77,PG HCID,2,0
-77,PG HCID,3,1
-77,PG HCID,4,0
-77,PG HCID,5,0
-77,PG HCID,6,0
-77,PG HCID,7,0
-77,PG HCID,8,0
-77,PG HCID,9,0
-77,PG HCID,10,0
-78,PG HCID,1,1
-78,PG HCID,2,1
-78,PG HCID,3,0
-78,PG HCID,4,1
-78,PG HCID,5,1
-78,PG HCID,6,0
-78,PG HCID,7,0
-78,PG HCID,8,1
-78,PG HCID,9,1
-78,PG HCID,10,1
-79,PG HCID,1,0
-79,PG HCID,2,1
-79,PG HCID,3,1
-79,PG HCID,4,1
-79,PG HCID,5,1
-79,PG HCID,6,1
-79,PG HCID,7,1
-79,PG HCID,8,1
-79,PG HCID,9,1
-79,PG HCID,10,1
-80,PG HCID,1,1
-80,PG HCID,2,1
-80,PG HCID,3,1
-80,PG HCID,4,1
-80,PG HCID,5,0
-80,PG HCID,6,1
-80,PG HCID,7,1
-80,PG HCID,8,1
-80,PG HCID,9,0
-80,PG HCID,10,1
-81,PG HCID,1,0
-81,PG HCID,2,0
-81,PG HCID,3,1
-81,PG HCID,4,1
-81,PG HCID,5,1
-81,PG HCID,6,1
-81,PG HCID,7,1
-81,PG HCID,8,1
-81,PG HCID,9,0
-81,PG HCID,10,1
-82,PG HCID,1,0
-82,PG HCID,2,1
-82,PG HCID,3,0
-82,PG HCID,4,1
-82,PG HCID,5,0
-82,PG HCID,6,0
-82,PG HCID,7,0
-82,PG HCID,8,0
-82,PG HCID,9,0
-82,PG HCID,10,0
-83,PG HCID,1,1
-83,PG HCID,2,1
-83,PG HCID,3,1
-83,PG HCID,4,1
-83,PG HCID,5,1
-83,PG HCID,6,1
-83,PG HCID,7,1
-83,PG HCID,8,1
-83,PG HCID,9,1
-83,PG HCID,10,1
-84,PG HCID,1,1
-84,PG HCID,2,1
-84,PG HCID,3,1
-84,PG HCID,4,1
-84,PG HCID,5,1
-84,PG HCID,6,0
-84,PG HCID,7,1
-84,PG HCID,8,1
-84,PG HCID,9,0
-84,PG HCID,10,1
-85,PG HCID,1,1
-85,PG HCID,2,1
-85,PG HCID,3,1
-85,PG HCID,4,1
-85,PG HCID,5,1
-85,PG HCID,6,1
-85,PG HCID,7,1
-85,PG HCID,8,1
-85,PG HCID,9,1
-85,PG HCID,10,1
-86,PG HCID,1,1
-86,PG HCID,2,1
-86,PG HCID,3,1
-86,PG HCID,4,1
-86,PG HCID,5,1
-86,PG HCID,6,1
-86,PG HCID,7,1
-86,PG HCID,8,1
-86,PG HCID,9,1
-86,PG HCID,10,1
-87,PG HCID,1,1
-87,PG HCID,2,1
-87,PG HCID,3,1
-87,PG HCID,4,1
-87,PG HCID,5,1
-87,PG HCID,6,0
-87,PG HCID,7,0
-87,PG HCID,8,0
-87,PG HCID,9,0
-87,PG HCID,10,1
-88,PG HCID,1,1
-88,PG HCID,2,1
-88,PG HCID,3,1
-88,PG HCID,4,1
-88,PG HCID,5,1
-88,PG HCID,6,1
-88,PG HCID,7,1
-88,PG HCID,8,1
-88,PG HCID,9,1
-88,PG HCID,10,1
-89,PG Info Sci,1,0
-89,PG Info Sci,2,0
-89,PG Info Sci,3,0
-89,PG Info Sci,4,0
-89,PG Info Sci,5,0
-89,PG Info Sci,6,0
-89,PG Info Sci,7,0
-89,PG Info Sci,8,0
-89,PG Info Sci,9,0
-89,PG Info Sci,10,0
-90,PG Info Sci,1,1
-90,PG Info Sci,2,1
-90,PG Info Sci,3,1
-90,PG Info Sci,4,1
-90,PG Info Sci,5,0
-90,PG Info Sci,6,1
-90,PG Info Sci,7,1
-90,PG Info Sci,8,0
-90,PG Info Sci,9,1
-90,PG Info Sci,10,1
-91,PG Info Sci,1,1
-91,PG Info Sci,2,1
-91,PG Info Sci,3,1
-91,PG Info Sci,4,0
-91,PG Info Sci,5,1
-91,PG Info Sci,6,1
-91,PG Info Sci,7,1
-91,PG Info Sci,8,0
-91,PG Info Sci,9,1
-91,PG Info Sci,10,1
-92,PG Info Sci,1,1
-92,PG Info Sci,2,1
-92,PG Info Sci,3,1
-92,PG Info Sci,4,0
-92,PG Info Sci,5,0
-92,PG Info Sci,6,0
-92,PG Info Sci,7,0
-92,PG Info Sci,8,0
-92,PG Info Sci,9,0
-92,PG Info Sci,10,0
-93,PG IST,1,1
-93,PG IST,2,1
-93,PG IST,3,1
-93,PG IST,4,1
-93,PG IST,5,1
-93,PG IST,6,1
-93,PG IST,7,1
-93,PG IST,8,1
-93,PG IST,9,1
-93,PG IST,10,1
-94,PG SE,1,1
-94,PG SE,2,1
-94,PG SE,3,1
-94,PG SE,4,0
-94,PG SE,5,1
-94,PG SE,6,1
-94,PG SE,7,1
-94,PG SE,8,1
-94,PG SE,9,0
-94,PG SE,10,1
-95,PG SE,1,1
-95,PG SE,2,1
-95,PG SE,3,1
-95,PG SE,4,0
-95,PG SE,5,1
-95,PG SE,6,1
-95,PG SE,7,1
-95,PG SE,8,1
-95,PG SE,9,0
-95,PG SE,10,1
-96,PG SE,1,1
-96,PG SE,2,0
-96,PG SE,3,0
-96,PG SE,4,0
-96,PG SE,5,0
-96,PG SE,6,0
-96,PG SE,7,0
-96,PG SE,8,0
-96,PG SE,9,0
-96,PG SE,10,0
-97,PG SE,1,1
-97,PG SE,2,1
-97,PG SE,3,1
-97,PG SE,4,1
-97,PG SE,5,1
-97,PG SE,6,1
-97,PG SE,7,1
-97,PG SE,8,1
-97,PG SE,9,0
-97,PG SE,10,1
-98,PG SE,1,1
-98,PG SE,2,1
-98,PG SE,3,1
-98,PG SE,4,1
-98,PG SE,5,1
-98,PG SE,6,1
-98,PG SE,7,1
-98,PG SE,8,1
-98,PG SE,9,1
-98,PG SE,10,1
-99,UG,1,1
-99,UG,2,1
-99,UG,3,1
-99,UG,4,0
-99,UG,5,0
-99,UG,6,1
-99,UG,7,0
-99,UG,8,0
-99,UG,9,0
-99,UG,10,0
-100,UG,1,1
-100,UG,2,0
-100,UG,3,1
-100,UG,4,0
-100,UG,5,0
-100,UG,6,0
-100,UG,7,0
-100,UG,8,1
-100,UG,9,0
-100,UG,10,0
-101,UG,1,1
-101,UG,2,0
-101,UG,3,0
-101,UG,4,0
-101,UG,5,0
-101,UG,6,0
-101,UG,7,0
-101,UG,8,0
-101,UG,9,0
-101,UG,10,0
-102,UG,1,1
-102,UG,2,1
-102,UG,3,1
-102,UG,4,1
-102,UG,5,1
-102,UG,6,0
-102,UG,7,0
-102,UG,8,0
-102,UG,9,0
-102,UG,10,1
-103,UG,1,1
-103,UG,2,1
-103,UG,3,0
-103,UG,4,0
-103,UG,5,0
-103,UG,6,0
-103,UG,7,0
-103,UG,8,0
-103,UG,9,0
-103,UG,10,0
-104,UG,1,1
-104,UG,2,1
-104,UG,3,1
-104,UG,4,1
-104,UG,5,1
-104,UG,6,1
-104,UG,7,0
-104,UG,8,1
-104,UG,9,0
-104,UG,10,1
-105,UG,1,1
-105,UG,2,0
-105,UG,3,0
-105,UG,4,0
-105,UG,5,0
-105,UG,6,0
-105,UG,7,0
-105,UG,8,0
-105,UG,9,0
-105,UG,10,0
-106,UG,1,0
-106,UG,2,1
-106,UG,3,1
-106,UG,4,1
-106,UG,5,1
-106,UG,6,0
-106,UG,7,1
-106,UG,8,0
-106,UG,9,0
-106,UG,10,1
-107,UG,1,0
-107,UG,2,1
-107,UG,3,1
-107,UG,4,1
-107,UG,5,1
-107,UG,6,0
-107,UG,7,1
-107,UG,8,1
-107,UG,9,1
-107,UG,10,1
-108,UG,1,1
-108,UG,2,1
-108,UG,3,1
-108,UG,4,1
-108,UG,5,1
-108,UG,6,1
-108,UG,7,1
-108,UG,8,1
-108,UG,9,1
-108,UG,10,1
-109,UG,1,1
-109,UG,2,1
-109,UG,3,1
-109,UG,4,1
-109,UG,5,1
-109,UG,6,0
-109,UG,7,1
-109,UG,8,1
-109,UG,9,1
-109,UG,10,1
-110,UG,1,1
-110,UG,2,1
-110,UG,3,1
-110,UG,4,1
-110,UG,5,1
-110,UG,6,1
-110,UG,7,1
-110,UG,8,1
-110,UG,9,1
-110,UG,10,1
-111,UG,1,1
-111,UG,2,0
-111,UG,3,1
-111,UG,4,0
-111,UG,5,0
-111,UG,6,0
-111,UG,7,0
-111,UG,8,0
-111,UG,9,0
-111,UG,10,0
-112,UG,1,1
-112,UG,2,0
-112,UG,3,0
-112,UG,4,0
-112,UG,5,0
-112,UG,6,0
-112,UG,7,0
-112,UG,8,0
-112,UG,9,0
-112,UG,10,0
-113,UG,1,1
-113,UG,2,1
-113,UG,3,1
-113,UG,4,1
-113,UG,5,1
-113,UG,6,1
-113,UG,7,1
-113,UG,8,1
-113,UG,9,1
-113,UG,10,1
-114,UG,1,0
-114,UG,2,0
-114,UG,3,0
-114,UG,4,0
-114,UG,5,0
-114,UG,6,0
-114,UG,7,0
-114,UG,8,1
-114,UG,9,0
-114,UG,10,0
-115,UG,1,1
-115,UG,2,0
-115,UG,3,0
-115,UG,4,0
-115,UG,5,0
-115,UG,6,0
-115,UG,7,0
-115,UG,8,0
-115,UG,9,0
-115,UG,10,0
-116,UG,1,0
-116,UG,2,1
-116,UG,3,1
-116,UG,4,1
-116,UG,5,1
-116,UG,6,0
-116,UG,7,1
-116,UG,8,0
-116,UG,9,0
-116,UG,10,1
-117,UG,1,1
-117,UG,2,1
-117,UG,3,1
-117,UG,4,1
-117,UG,5,1
-117,UG,6,0
-117,UG,7,1
-117,UG,8,1
-117,UG,9,0
-117,UG,10,1
-118,UG,1,1
-118,UG,2,0
-118,UG,3,0
-118,UG,4,0
-118,UG,5,1
-118,UG,6,0
-118,UG,7,0
-118,UG,8,0
-118,UG,9,0
-118,UG,10,0
+id,genre,score,year
+1,Drama,8.4,1980
+2,Adventure,5.8,1980
+3,Action,8.7,1980
+4,Crime,7.2,1980
+5,Crime,6.2,1980
+6,Comedy,7.1,1980
+7,Horror,5.4,1980
+8,Action,5.3,1980
+9,Drama,6.1,1980
+10,Comedy,6.7,1980
+11,Comedy,6.2,1980
+12,Comedy,6.3,1980
+13,Comedy,6,1980
+14,Drama,5.9,1980
+15,Biography,7.5,1980
+16,Family,6.3,1980
+17,Drama,7.9,1980
+18,Action,7.1,1980
+19,Biography,6.6,1980
+20,Horror,4.8,1980
+21,Comedy,6.1,1980
+22,Action,5.3,1980
+23,Horror,4.6,1980
+24,Action,5.1,1980
+25,Biography,8.3,1980
+26,Comedy,7.3,1980
+27,Comedy,6.8,1980
+28,Biography,4.2,1980
+29,Action,6.1,1980
+30,Comedy,7,1980
+31,Comedy,6.7,1980
+32,Action,4.6,1980
+33,Comedy,5.4,1980
+34,Action,5.1,1980
+35,Sci-Fi,5.3,1980
+36,Adventure,5,1980
+37,Drama,6.7,1980
+38,Comedy,5.5,1980
+39,Drama,6.3,1980
+40,Drama,7.3,1980
+41,Comedy,6.3,1980
+42,Comedy,8.1,1980
+43,Comedy,5.1,1980
+44,Comedy,6.6,1980
+45,Comedy,6,1980
+46,Comedy,4.7,1980
+47,Animation,7.3,1980
+48,Comedy,5.5,1980
+49,Comedy,5.2,1980
+50,Comedy,5.5,1980
+51,Adventure,5.8,1980
+52,Comedy,6.3,1980
+53,Comedy,5.9,1980
+54,Drama,7.4,1980
+55,Adventure,6.9,1980
+56,Drama,4,1980
+57,Drama,4.8,1980
+58,Comedy,5.2,1980
+59,Animation,7.9,1980
+60,Comedy,5.2,1980
+61,Comedy,6.5,1980
+62,Comedy,5.8,1980
+63,Comedy,4.3,1980
+64,Comedy,6.8,1980
+65,Comedy,6.5,1980
+66,Comedy,4.3,1980
+67,Action,6.7,1980
+68,Action,8.4,1981
+69,Crime,7.4,1981
+70,Comedy,7.5,1981
+71,Action,7.2,1981
+72,Horror,7.5,1981
+73,Comedy,6.2,1981
+74,Crime,7.4,1981
+75,Action,6.9,1981
+76,Adventure,7.4,1981
+77,Action,7.6,1981
+78,Adventure,8.3,1981
+79,Comedy,6.9,1981
+80,Drama,7.4,1981
+81,Action,6.2,1981
+82,Action,7.4,1981
+83,Drama,4.9,1981
+84,Adventure,7,1981
+85,Comedy,6.8,1981
+86,Horror,6.1,1981
+87,Horror,6.8,1981
+88,Action,6.7,1981
+89,Horror,6.5,1981
+90,Drama,6.8,1981
+91,Biography,7.3,1981
+92,Drama,7.6,1981
+93,Animation,7.3,1981
+94,Biography,7.2,1981
+95,Drama,6.9,1981
+96,Adventure,3.4,1981
+97,Drama,6.7,1981
+98,Comedy,6.9,1981
+99,Biography,7.8,1981
+100,Comedy,5.8,1981
+101,Horror,6.6,1981
+102,Comedy,6.9,1981
+103,Horror,6.6,1981
+104,Action,6.7,1981
+105,Crime,6.9,1981
+106,Adventure,7.3,1981
+107,Horror,5.6,1981
+108,Biography,6.7,1981
+109,Comedy,5.2,1981
+110,Crime,6.6,1981
+111,Drama,7.3,1981
+112,Horror,5.6,1981
+113,Crime,6,1981
+114,Adventure,7.4,1981
+115,Action,6.6,1981
+116,Action,7.2,1981
+117,Comedy,6.4,1981
+118,Horror,6.8,1981
+119,Drama,6.3,1981
+120,Horror,6.3,1981
+121,Horror,5.9,1981
+122,Drama,6.5,1981
+123,Drama,7,1981
+124,Adventure,7.2,1981
+125,Crime,6.3,1981
+126,Drama,6.1,1981
+127,Action,6.4,1981
+128,Comedy,6.2,1981
+129,Action,6.3,1981
+130,Comedy,5.6,1981
+131,Comedy,5.9,1981
+132,Romance,7.1,1981
+133,Horror,6.3,1981
+134,Comedy,5.5,1981
+135,Crime,7.5,1981
+136,Drama,5.5,1981
+137,Comedy,6.2,1981
+138,Music,7.2,1981
+139,Horror,5.8,1981
+140,Crime,6.7,1981
+141,Horror,6,1981
+142,Action,6.2,1981
+143,Comedy,5.4,1981
+144,Comedy,5.6,1981
+145,Comedy,5.5,1981
+146,Drama,6,1981
+147,Drama,6.3,1981
+148,Horror,4.9,1981
+149,Comedy,5.1,1981
+150,Drama,6.5,1981
+151,Animation,7.2,1981
+152,Action,5.1,1981
+153,Adventure,5.2,1981
+154,Horror,5.6,1981
+155,Action,5.5,1981
+156,Drama,6.8,1981
+157,Drama,5.9,1981
+158,Comedy,6.5,1981
+159,Comedy,6.1,1981
+160,Comedy,7,1981
+161,Comedy,4.3,1981
+162,Adventure,5.6,1981
+163,Comedy,5,1981
+164,Drama,6.8,1981
+165,Comedy,7.3,1981
+166,Drama,2.7,1981
+167,Comedy,5.5,1981
+168,Adventure,5.6,1981
+169,Animation,5.1,1984
+170,Comedy,5.1,1984
+171,Comedy,6.2,1984
+172,Comedy,6.6,1985
+173,Adventure,7.8,1985
+174,Adventure,8.5,1985
+175,Action,7.3,1985
+176,Comedy,7.3,1985
+177,Comedy,7.8,1985
+178,Comedy,6.7,1985
+179,Action,6.5,1985
+180,Biography,7.2,1985
+181,Adventure,6.4,1985
+182,Comedy,7.3,1985
+183,Drama,6.4,1985
+184,Drama,7.9,1985
+185,Drama,7.3,1985
+186,Comedy,6.1,1985
+187,Comedy,7,1985
+188,Action,6.7,1985
+189,Crime,7.4,1985
+190,Drama,7.8,1985
+191,Action,7.2,1985
+192,Drama,6.9,1985
+193,Comedy,7.1,1985
+194,Action,8.2,1985
+195,Adventure,7,1985
+196,Drama,7.3,1985
+197,Action,5.1,1985
+198,Fantasy,7.1,1985
+199,Adventure,6.5,1985
+200,Adventure,6.7,1985
+201,Action,6.3,1985
+202,Comedy,7.7,1985
+203,Action,6.3,1985
+204,Comedy,6.9,1985
+205,Drama,4.5,1985
+206,Horror,5.5,1985
+207,Comedy,6.3,1985
+208,Action,6.2,1985
+209,Adventure,7,1985
+210,Biography,7.2,1985
+211,Horror,7.1,1985
+212,Comedy,6.5,1985
+213,Adventure,6.2,1985
+214,Adventure,6.4,1985
+215,Comedy,6.2,1985
+216,Comedy,5.8,1985
+217,Animation,6.4,1985
+218,Horror,4.8,1985
+219,Action,7.2,1985
+220,Comedy,7.2,1985
+221,Comedy,6.5,1985
+222,Action,6.9,1985
+223,Action,6.6,1985
+224,Comedy,6,1985
+225,Comedy,6,1985
+226,Drama,6.6,1985
+227,Drama,6.5,1985
+228,Action,6.9,1985
+229,Action,6.1,1985
+230,Adventure,5.5,1985
+231,Action,6.1,1985
+232,Comedy,5.5,1985
+233,Comedy,5.3,1985
+234,Action,7.6,1985
+235,Action,6.5,1985
+236,Comedy,7,1985
+237,Drama,6.7,1985
+238,Comedy,6.5,1985
+239,Horror,6.4,1985
+240,Drama,7.4,1985
+241,Comedy,6.9,1985
+242,Adventure,6.8,1985
+243,Drama,6.5,1985
+244,Comedy,4.8,1985
+245,Action,6.9,1985
+246,Comedy,6.7,1985
+247,Drama,6.8,1985
+248,Comedy,8,1985
+249,Horror,4.3,1985
+250,Comedy,6.6,1985
+251,Action,5.7,1985
+252,Family,6.3,1985
+253,Biography,8,1985
+254,Drama,6.2,1985
+255,Comedy,6.3,1985
+256,Comedy,7,1985
+257,Comedy,6.9,1985
+258,Drama,6.5,1985
+259,Adventure,7,1985
+260,Comedy,6.5,1985
+261,Comedy,6.7,1985
+262,Action,6.2,1985
+263,Action,5.9,1985
+264,Action,5.2,1985
+265,Action,5.5,1985
+266,Action,6.9,1985
+267,Action,5.7,1985
+268,Biography,6.8,1985
+269,Comedy,5,1985
+270,Drama,7,1985
+271,Comedy,6.3,1985
+272,Comedy,7.7,1985
+273,Comedy,5.7,1985
+274,Drama,7.6,1985
+275,Action,6,1985
+276,Comedy,6.1,1985
+277,Comedy,5.3,1985
+278,Crime,6.1,1985
+279,Comedy,4.7,1985
+280,Action,5.5,1985
+281,Adventure,5.3,1985
+282,Comedy,7,1985
+283,Thriller,6.6,1985
+284,Comedy,5.7,1985
+285,Horror,5.3,1985
+286,Drama,6.1,1985
+287,Adventure,5.1,1985
+288,Action,6.1,1985
+289,Comedy,5.7,1985
+290,Action,4.4,1985
+291,Biography,7.1,1985
+292,Comedy,4.5,1985
+293,Action,4.8,1985
+294,Adventure,6.3,1985
+295,Crime,6.2,1985
+296,Drama,6.6,1985
+297,Comedy,6.5,1985
+298,Animation,7.4,1985
+299,Action,5.7,1985
+300,Fantasy,5.3,1985
+301,Comedy,4.5,1985
+302,Action,6.2,1985
+303,Drama,6,1985
+304,Adventure,5.3,1985
+305,Drama,7.5,1985
+306,Action,5.3,1985
+307,Action,5.7,1985
+308,Crime,6.1,1985
+309,Comedy,6,1985
+310,Drama,7.8,1985
+311,Comedy,6.5,1985
+312,Animation,7.3,1985
+313,Drama,6.1,1985
+314,Comedy,6.2,1985
+315,Drama,7.7,1985
+316,Drama,7.8,1985
+317,Adventure,5.5,1985
+318,Animation,6.5,1985
+319,Comedy,5.4,1985
+320,Action,4.5,1985
+321,Animation,5.7,1985
+322,Drama,6.4,1985
+323,Action,5.6,1985
+324,Drama,6.5,1985
+325,Biography,6.7,1985
+326,Adventure,6.1,1985
+327,Family,6.5,1985
+328,Comedy,5.8,1985
+329,Comedy,5.4,1985
+330,Drama,6.2,1985
+331,Drama,4.1,1985
+332,Crime,6.1,1985
+333,Comedy,5.4,1985
+334,Drama,7,1985
+335,Biography,6.8,1985
+336,Thriller,6.5,1985
+337,Comedy,4.6,1985
+338,Drama,6.8,1985
+339,Comedy,5.9,1985
+340,Animation,6.9,1985
+341,Action,6,1985
+342,Comedy,6.6,1985
+343,Action,5.1,1985
+344,Drama,4.1,1985
+345,Drama,7.6,1985
+346,Action,5.2,1985
+347,Comedy,6.9,1985
+348,Action,5.9,1985
+349,Biography,7.5,1985
+350,Action,5,1985
+351,Biography,6.7,1985
+352,Comedy,4.2,1985
+353,Comedy,4.7,1985
+354,Drama,6.1,1985
+355,Comedy,6.9,1985
+356,Comedy,6.4,1985
+357,Comedy,5.3,1985
+358,Action,4.8,1985
+359,Comedy,5.1,1985
+360,Comedy,6.6,1985
+361,Drama,6.8,1985
+362,Comedy,6.3,1985
+363,Animation,6.9,1985
+364,Adventure,6.6,1985
+365,Drama,6.5,1985
+366,Comedy,6.6,1985
+367,Thriller,4.6,1985
+368,Drama,6.9,1985
+369,Comedy,6.4,1985
+370,Drama,5.4,1985
+371,Drama,5.6,1985
+372,Action,6.9,1986
+373,Action,8.3,1986
+374,Adventure,8.1,1986
+375,Comedy,7.8,1986
+376,Action,6.6,1986
+377,Adventure,7.4,1986
+378,Action,7.1,1986
+379,Action,7.3,1986
+380,Comedy,6.8,1986
+381,Drama,8.1,1986
+382,Drama,7.7,1986
+383,Crime,7.2,1986
+384,Action,4.7,1986
+385,Drama,7.6,1986
+386,Comedy,7,1986
+387,Adventure,6.6,1986
+388,Action,6.1,1986
+389,Crime,7,1986
+390,Drama,6,1986
+391,Action,6,1986
+392,Action,7.3,1986
+393,Comedy,6.7,1986
+394,Action,5.6,1986
+395,Crime,7.7,1986
+396,Action,6,1986
+397,Drama,7,1986
+398,Drama,7.5,1986
+399,Drama,6.9,1986
+400,Adventure,6.9,1986
+401,Action,5.8,1986
+402,Comedy,6.4,1986
+403,Adventure,7.4,1986
+404,Drama,6.6,1986
+405,Drama,6.2,1986
+406,Comedy,6.5,1986
+407,Action,5.5,1986
+408,Comedy,6.9,1986
+409,Horror,6,1986
+410,Comedy,6.4,1986
+411,Comedy,6.6,1986
+412,Drama,7.4,1986
+413,Comedy,6.2,1986
+414,Comedy,6.1,1986
+415,Comedy,5.6,1986
+416,Action,5.5,1986
+417,Comedy,6.4,1986
+418,Horror,6.7,1986
+419,Biography,7,1986
+420,Biography,7,1986
+421,Crime,7.3,1986
+422,Comedy,5.4,1986
+423,Comedy,6.8,1986
+424,Drama,8.1,1986
+425,Action,7.2,1986
+426,Drama,6.9,1986
+427,Animation,6.9,1986
+428,Adventure,5.7,1986
+429,Action,5.6,1986
+430,Comedy,7.9,1986
+431,Animation,7.2,1986
+432,Comedy,6.9,1986
+433,Animation,7.3,1986
+434,Comedy,6.1,1986
+435,Comedy,4.5,1986
+436,Crime,7,1986
+437,Drama,6.5,1986
+438,Comedy,6.9,1986
+439,Comedy,6.1,1986
+440,Drama,7.1,1986
+441,Adventure,5.4,1986
+442,Comedy,6.8,1986
+443,Action,6.5,1986
+444,Action,5.8,1986
+445,Comedy,5.3,1986
+446,Comedy,7.7,1986
+447,Horror,5.7,1986
+448,Crime,7.3,1986
+449,Horror,5.4,1986
+450,Action,4.6,1986
+451,Adventure,7,1986
+452,Biography,6.6,1986
+453,Drama,7.2,1986
+454,Horror,5.6,1986
+455,Drama,7,1986
+456,Comedy,6.2,1986
+457,Horror,6.2,1986
+458,Comedy,6.5,1986
+459,Action,6.1,1986
+460,Crime,5.7,1986
+461,Biography,7.1,1986
+462,Comedy,5.1,1986
+463,Drama,8,1986
+464,Drama,5.7,1986
+465,Action,5.7,1986
+466,Action,6.7,1986
+467,Action,3.9,1986
+468,Adventure,5.8,1986
+469,Comedy,5.7,1986
+470,Action,4.8,1986
+471,Sci-Fi,6.2,1986
+472,Comedy,5.8,1986
+473,Comedy,5.2,1986
+474,Comedy,5.9,1986
+475,Drama,6.5,1986
+476,Comedy,6.3,1986
+477,Comedy,7.2,1986
+478,Animation,7.7,1986
+479,Action,6,1986
+480,Drama,5.6,1986
+481,Comedy,8,1986
+482,Crime,5.4,1986
+483,Action,6.2,1986
+484,Comedy,5.9,1986
+485,Comedy,5.9,1986
+486,Comedy,5.7,1986
+487,Crime,5.7,1986
+488,Crime,6.4,1986
+489,Action,5.5,1986
+490,Drama,6.3,1986
+491,Drama,4.7,1986
+492,Comedy,5.7,1986
+493,Drama,7.7,1986
+494,Comedy,6.2,1986
+495,Action,4.9,1986
+496,Comedy,6,1986
+497,Action,5.1,1986
+498,Comedy,5.8,1986
+499,Horror,5.7,1986
+500,Comedy,6.6,1986
+501,Comedy,6,1986
+502,Horror,5.9,1986
+503,Biography,6.4,1986
+504,Action,6,1986
+505,Drama,4.8,1986
+506,Crime,6,1986
+507,Comedy,6.4,1986
+508,Comedy,5,1986
+509,Comedy,7.1,1986
+510,Comedy,3.5,1986
+511,Drama,5.8,1986
+512,Drama,5.6,1986
+513,Comedy,4.7,1986
+514,Action,5.8,1986
+515,Action,5.6,1986
+516,Comedy,5.8,1986
+517,Comedy,5.1,1986
+518,Action,5.4,1986
+519,Crime,5.7,1986
+520,Adventure,3.2,1986
+521,Drama,5.7,1986
+522,Action,4.7,1986
+523,Action,5.2,1986
+524,Comedy,5.6,1986
+525,Adventure,5.7,1986
+526,Drama,5.4,1986
+527,Drama,5.9,1986
+528,Comedy,7.2,1986
+529,Comedy,3.2,1986
+530,Biography,5.3,1986
+531,Comedy,6.8,1986
+532,Comedy,5.4,1986
+533,Comedy,5.6,1986
+534,Comedy,7.3,1986
+535,Drama,7.4,1986
+536,Drama,5.9,1986
+537,Drama,7.2,1986
+538,Comedy,5.9,1986
+539,Adventure,5.6,1986
+540,Animation,6,1986
+541,Comedy,4.2,1986
+542,Drama,7.6,1986
+543,Action,5.2,1986
+544,Action,5.2,1986
+545,Action,4.4,1986
+546,Comedy,6,1986
+547,Action,4.6,1986
+548,Comedy,7,1986
+549,Crime,4.9,1986
+550,Action,5.6,1986
+551,Thriller,6.2,1986
+552,Animation,5.5,1986
+553,Action,4.8,1986
+554,Action,4.1,1986
+555,Drama,6.6,1986
+556,Comedy,5.7,1986
+557,Drama,7.7,1986
+558,Family,7.2,1986
+559,Drama,6.7,1986
+560,Drama,5.9,1986
+561,Biography,6,1986
+562,Action,5,1986
+563,Action,5,1986
+564,Drama,6.8,1986
+565,Action,5.3,1986
+566,Drama,5.8,1986
+567,Drama,7.2,1986
+568,Comedy,5.5,1986
+569,Drama,3.7,1986
+570,Action,4,1986
+571,Drama,5.9,1986
+572,Adventure,8.1,1987
+573,Comedy,7.3,1987
+574,Drama,8.3,1987
+575,Action,7.8,1987
+576,Action,7.5,1987
+577,Drama,7,1987
+578,Adventure,6.9,1987
+579,Crime,7.9,1987
+580,Adventure,7.1,1987
+581,Comedy,7.3,1987
+582,Action,7.6,1987
+583,Action,7,1987
+584,Comedy,5.9,1987
+585,Action,5.4,1987
+586,Drama,6.9,1987
+587,Horror,7,1987
+588,Action,7.7,1987
+589,Action,7.1,1987
+590,Comedy,6.6,1987
+591,Drama,7.1,1987
+592,Action,6.7,1987
+593,Crime,6.4,1987
+594,Horror,7.3,1987
+595,Comedy,7.1,1987
+596,Adventure,3,1987
+597,Crime,7.4,1987
+598,Biography,7.3,1987
+599,Fantasy,6.6,1987
+600,Comedy,7.6,1987
+601,Comedy,6.8,1987
+602,Comedy,6.9,1987
+603,Action,6.5,1987
+604,Action,7.6,1990
+605,Action,6.1,1990
+606,Biography,7.8,1990
+607,Drama,6,1990
+608,Comedy,7.2,1990
+609,Action,6.3,1990
+610,Action,5.8,1990
+611,Adventure,6.9,1990
+612,Drama,7.5,1990
+613,Adventure,7.4,1990
+614,Action,6.4,1990
+615,Crime,6.4,1990
+616,Comedy,6.5,1990
+617,Mystery,6.9,1990
+618,Comedy,6.4,1990
+619,Action,6.1,1990
+620,Crime,7,1990
+621,Comedy,6.4,1990
+622,Drama,5.3,1990
+623,Action,6.5,1990
+624,Crime,7.7,1990
+625,Action,6.2,1990
+626,Adventure,6.4,1990
+627,Action,7.3,1990
+628,Comedy,6.7,1990
+629,Horror,5.9,1990
+630,Comedy,5.8,1990
+631,Comedy,7.1,1990
+632,Drama,6.6,1990
+633,Crime,7.5,1990
+634,Drama,6.4,1990
+635,Action,6.9,1990
+636,Action,6.5,1990
+637,Crime,6.2,1990
+638,Action,6.2,1990
+639,Crime,6.5,1990
+640,Comedy,5.5,1990
+641,Comedy,5.4,1990
+642,Crime,6.9,1990
+643,Comedy,6.3,1990
+644,Animation,6.9,1990
+645,Comedy,6.5,1990
+646,Action,5.9,1990
+647,Horror,6.9,1990
+648,Thriller,6.4,1990
+649,Comedy,6.7,1990
+650,Biography,6.3,1990
+651,Action,5.8,1990
+652,Comedy,7.2,1990
+653,Drama,6.7,1990
+654,Adventure,5.2,1990
+655,Action,6,1990
+656,Horror,5.1,1990
+657,Biography,7.2,1990
+658,Comedy,6.2,1990
+659,Action,7.2,1990
+660,Action,6,1990
+661,Action,6.9,1990
+662,Action,6.4,1990
+663,Action,6,1990
+664,Comedy,4.6,1990
+665,Drama,7.8,1990
+666,Action,5.8,1990
+667,Comedy,6.4,1990
+668,Action,5.9,1990
+669,Action,5.7,1990
+670,Drama,6.5,1990
+671,Biography,8.3,1990
+672,Comedy,6.8,1990
+673,Sci-Fi,6,1990
+674,Comedy,6.4,1990
+675,Comedy,6.5,1990
+676,Action,5.7,1990
+677,Biography,6.6,1990
+678,Action,5.6,1990
+679,Horror,4.9,1990
+680,Adventure,6.8,1990
+681,Action,6.1,1990
+682,Drama,6.3,1990
+683,Drama,6.6,1990
+684,Comedy,5.9,1990
+685,Drama,6.3,1990
+686,Comedy,4.7,1990
+687,Comedy,7.4,1990
+688,Comedy,6.3,1990
+689,Action,5.9,1990
+690,Comedy,6.2,1990
+691,Comedy,7.4,1990
+692,Drama,7.6,1990
+693,Comedy,7.5,1990
+694,Comedy,5.6,1990
+695,Drama,5.1,1990
+696,Comedy,7.2,1990
+697,Drama,6.1,1990
+698,Animation,6.9,1990
+699,Drama,6.1,1990
+700,Comedy,7.5,1990
+701,Animation,5.6,1990
+702,Adventure,6.6,1990
+703,Drama,7.2,1990
+704,Action,6.6,1990
+705,Comedy,5.7,1990
+706,Comedy,6.5,1990
+707,Drama,6,1990
+708,Drama,5.4,1990
+709,Comedy,4.8,1990
+710,Action,4.8,1990
+711,Comedy,6.4,1990
+712,Drama,7.4,1990
+713,Crime,6.6,1990
+714,Comedy,6.6,1990
+715,Comedy,5.5,1990
+716,Crime,5.7,1990
+717,Action,4.9,1990
+718,Action,5.4,1990
+719,Drama,7.7,1990
+720,Drama,6.5,1990
+721,Horror,6,1990
+722,Comedy,7.3,1990
+723,Comedy,5.4,1990
+724,Comedy,5.5,1990
+725,Action,5.6,1990
+726,Drama,7.3,1990
+727,Adventure,7.2,1990
+728,Horror,6.1,1990
+729,Drama,6.6,1990
+730,Comedy,7.4,1990
+731,Comedy,6,1990
+732,Comedy,6.7,1990
+733,Comedy,5.8,1990
+734,Drama,5.5,1990
+735,Comedy,6,1990
+736,Crime,6.6,1990
+737,Biography,7.5,1990
+738,Drama,6.4,1990
+739,Action,6.2,1990
+740,Comedy,6.7,1990
+741,Action,5.2,1990
+742,Comedy,4.4,1990
+743,Comedy,6.2,1990
+744,Drama,6.9,1990
+745,Drama,7.7,1990
+746,Adventure,5.3,1990
+747,Comedy,5.5,1990
+748,Comedy,5.6,1990
+749,Horror,4.7,1990
+750,Comedy,5.6,1990
+751,Adventure,7.6,1990
+752,Biography,6.9,1990
+753,Action,5.7,1990
+754,Drama,6.2,1990
+755,Drama,3.9,1990
+756,Action,4.9,1990
+757,Comedy,7.2,1990
+758,Drama,7.2,1990
+759,Comedy,6,1990
+760,Comedy,5.7,1990
+761,Action,6.8,1990
+762,Action,5.7,1990
+763,Comedy,6.4,1990
+764,Action,4,1990
+765,Fantasy,4.8,1990
+766,Drama,6.7,1990
+767,Drama,6.4,1990
+768,Drama,3.5,1990
+769,Comedy,5.7,1990
+770,Comedy,7.3,1990
+771,Action,5.8,1990
+772,Drama,7.7,1990
+773,Comedy,6,1990
+774,Comedy,4.9,1990
+775,Drama,4.5,1990
+776,Comedy,6.7,1990
+777,Comedy,5.4,1990
+778,Drama,5.4,1990
+779,Drama,4.3,1990
+780,Horror,4.4,1990
+781,Drama,5.6,1990
+782,Comedy,6.2,1990
+783,Crime,5.7,1990
+784,Drama,7,1990
+785,Action,7,1990
+786,Crime,5.8,1990
+787,Drama,7.6,1990
+788,Comedy,7.3,1990
+789,Comedy,6.5,1990
+790,Action,8.5,1991
+791,Action,7.3,1991
+792,Crime,8.6,1991
+793,Adventure,6.8,1991
+794,Crime,7.8,1991
+795,Crime,7.3,1991
+796,Comedy,5.9,1991
+797,Comedy,6.9,1991
+798,Adventure,7.5,1991
+799,Horror,4.6,1998
+800,Horror,5.8,1998
+801,Horror,5.6,1998
+802,Action,6.1,1998
+803,Crime,7.7,1998
+804,Drama,6.7,1998
+805,Comedy,6.7,1998
+806,Drama,6.9,1998
+807,Animation,6.5,1998
+808,Crime,7.5,1998
+809,Action,6.1,1998
+810,Drama,7,1998
+811,Crime,7.5,1998
+812,Crime,7.4,1998
+813,Drama,6.8,1998
+814,Action,3.8,1998
+815,Drama,8.1,1998
+816,Horror,4.7,1998
+817,Action,6.4,1998
+818,Comedy,7.6,1998
+819,Action,6,1998
+820,Comedy,6.2,1998
+821,Biography,6.4,1998
+822,Drama,7,1998
+823,Comedy,6.5,1998
+824,Action,6.6,1998
+825,Romance,6.1,1998
+826,Comedy,7.4,1998
+827,Action,6.2,1998
+828,Action,7,1998
+829,Crime,7.1,1998
+830,Comedy,6.8,1998
+831,Comedy,6.4,1998
+832,Crime,6.7,1998
+833,Comedy,5.4,1998
+834,Action,4.4,1998
+835,Comedy,6.3,1998
+836,Comedy,6.3,1998
+837,Comedy,6,1998
+838,Comedy,6.7,1998
+839,Action,6.1,1998
+840,Action,4.9,1998
+841,Biography,7.4,1998
+842,Drama,7.6,1998
+843,Action,5.7,1998
+844,Comedy,6,1998
+845,Crime,6.2,1998
+846,Animation,6.3,1998
+847,Crime,6.2,1998
+848,Crime,7.4,1998
+849,Comedy,7.4,1998
+850,Adventure,5.8,1998
+851,Drama,7.9,1998
+852,Comedy,6.7,1998
+853,Animation,6.3,1998
+854,Comedy,7.5,1998
+855,Action,5.9,1998
+856,Comedy,6.7,1998
+857,Comedy,7.3,1998
+858,Action,6.1,1998
+859,Drama,5.1,1998
+860,Comedy,6.9,1998
+861,Comedy,6.8,1998
+862,Action,7.2,1998
+863,Comedy,8.1,1998
+864,Drama,5.9,1998
+865,Comedy,5.4,1998
+866,Drama,5.5,1998
+867,Comedy,5.7,1998
+868,Adventure,5.8,1998
+869,Comedy,4.7,1998
+870,Drama,6.6,1998
+871,Drama,6.6,1998
+872,Comedy,7,1998
+873,Animation,5.9,1998
+874,Comedy,5.9,1998
+875,Comedy,6,1998
+876,Comedy,6.1,1998
+877,Action,5.4,1998
+878,Biography,7.2,1998
+879,Action,6.1,1998
+880,Drama,8,1998
+881,Comedy,6.4,1998
+882,Biography,7.2,1998
+883,Comedy,5.9,1998
+884,Drama,6.9,1998
+885,Comedy,5.6,1998
+886,Action,6.1,1998
+887,Crime,6.1,1998
+888,Adventure,6.1,1998
+889,Horror,5.4,1998
+890,Comedy,7.2,1998
+891,Drama,6,1998
+892,Action,3,1998
+893,Drama,7.7,1998
+894,Drama,7,1998
+895,Action,4.8,1998
+896,Comedy,6.6,1998
+897,Crime,6.1,1998
+898,Horror,5.1,1998
+899,Comedy,7.7,1998
+900,Adventure,6.5,1998
+901,Drama,7.6,1998
+902,Adventure,3.2,1998
+903,Biography,6.2,1998
+904,Comedy,4.1,1998
+905,Crime,5.7,1998
+906,Drama,7.3,1998
+907,Comedy,7,1998
+908,Adventure,6.5,1998
+909,Animation,6.6,1998
+910,Drama,6.9,1998
+911,Comedy,6.6,1998
+912,Action,4.9,1998
+913,Comedy,5.5,1998
+914,Comedy,6.8,1998
+915,Comedy,5,1998
+916,Comedy,3.2,1998
+917,Biography,7.3,1998
+918,Comedy,6.3,1998
+919,Crime,6.5,1998
+920,Comedy,5.6,1998
+921,Drama,6.2,1998
+922,Comedy,5.8,1998
+923,Comedy,7,1998
+924,Drama,6.3,1998
+925,Crime,6.3,1998
+926,Drama,6.3,1998
+927,Comedy,4.9,1998
+928,Comedy,6.3,1998
+929,Comedy,6.9,1998
+930,Comedy,5,1998
+931,Crime,4.7,1998
+932,Comedy,5.8,1998
+933,Comedy,5.9,1998
+934,Comedy,5.1,1998
+935,Drama,7,1998
+936,Action,8.7,1999
+937,Drama,8.8,1999
+938,Crime,7.4,1999
+939,Drama,7.4,1999
+940,Action,7,1999
+941,Comedy,7,1999
+942,Crime,8.6,1999
+943,Drama,8.3,1999
+944,Action,6.5,1999
+945,Comedy,7.3,1999
+946,Drama,8.1,1999
+947,Action,6.6,1999
+948,Comedy,7.7,1999
+949,Adventure,7.3,1999
+950,Comedy,7.1,1999
+951,Drama,6.8,1999
+952,Horror,6.5,1999
+953,Drama,7.2,1999
+954,Drama,8,1999
+955,Biography,7.3,1999
+956,Adventure,5.9,1999
+957,Action,5.9,1999
+958,Action,7.8,1999
+959,Comedy,6.5,1999
+960,Comedy,5.9,1999
+961,Fantasy,7.3,1999
+962,Action,5.7,1999
+963,Animation,7.9,1999
+964,Adventure,7.3,1999
+965,Animation,7.3,1999
+966,Comedy,7.2,1999
+967,Comedy,7.7,1999
+968,Animation,8,1999
+969,Action,6.4,1999
+970,Drama,5.3,1999
+971,Action,6.1,1999
+972,Action,4.9,1999
+973,Comedy,6.4,1999
+974,Mystery,6.7,1999
+975,Crime,6.5,1999
+976,Biography,7.8,1999
+977,Comedy,5.7,1999
+978,Action,6.6,1999
+979,Comedy,6.8,1999
+980,Action,5.8,1999
+981,Crime,6.9,1999
+982,Comedy,6.6,1999
+983,Biography,7.5,1999
+984,Crime,6.5,1999
+985,Crime,5.6,1999
+986,Comedy,6.7,1999
+987,Comedy,6.1,1999
+988,Comedy,5.6,1999
+989,Crime,6.7,1999
+990,Drama,6.9,1999
+991,Drama,6.6,1999
+992,Crime,6.7,1999
+993,Drama,7.4,1999
+994,Biography,7.8,1999
+995,Fantasy,5,1999
+996,Horror,6.8,1999
+997,Drama,6.6,1999
+998,Drama,6.8,1999
+999,Action,7.1,1999
+1000,Comedy,7.2,1999
+1001,Action,7.1,1999
+1002,Animation,7.7,1999
+1003,Biography,8,1999
+1004,Comedy,6.2,1999
+1005,Comedy,6.4,1999
+1006,Comedy,6.9,1999
+1007,Crime,6.4,1999
+1008,Adventure,6.4,1999
+1009,Biography,7.4,1999
+1010,Drama,7.5,1999
+1011,Adventure,7,1999
+1012,Action,6.3,1999
+1013,Comedy,7.1,1999
+1014,Horror,7,1999
+1015,Drama,5.8,1999
+1016,Action,7.5,1999
+1017,Comedy,5.3,1999
+1018,Comedy,6.9,1999
+1019,Comedy,5.6,1999
+1020,Mystery,7.1,1999
+1021,Action,4.2,1999
+1022,Action,7.2,1999
+1023,Biography,7.6,1999
+1024,Drama,7.9,1999
+1025,Comedy,5.8,1999
+1026,Action,6.3,1999
+1027,Crime,7,1999
+1028,Drama,6.2,1999
+1029,Horror,6.2,1999
+1030,Comedy,6.4,1999
+1031,Comedy,6.5,1999
+1032,Comedy,6.7,1999
+1033,Comedy,7.1,1999
+1034,Drama,6.5,1999
+1035,Comedy,5.9,1999
+1036,Action,5,1999
+1037,Comedy,5.1,1999
+1038,Comedy,6.8,1999
+1039,Comedy,6.2,1999
+1040,Drama,7.3,1999
+1041,Crime,6.6,1999
+1042,Drama,7.1,1999
+1043,Comedy,5.4,1999
+1044,Comedy,6.1,1999
+1045,Drama,4.9,1999
+1046,Biography,7.3,1999
+1047,Action,4.2,1999
+1048,Drama,6.7,1999
+1049,Drama,6.9,1999
+1050,Drama,7.1,1999
+1051,Comedy,6.7,1999
+1052,Comedy,2.7,1999
+1053,Comedy,5.1,1999
+1054,Drama,7.4,1999
+1055,Comedy,6.2,1999
+1056,Drama,6.7,1999
+1057,Comedy,6,1999
+1058,Comedy,6.1,1999
+1059,Drama,7.5,1999
+1060,Drama,5.2,1999
+1061,Comedy,5.9,1999
+1062,Adventure,6,1999
+1063,Animation,7.2,1999
+1064,Horror,4.7,1999
+1065,Drama,5.4,1999
+1066,Adventure,6.3,1999
+1067,Drama,7.5,1999
+1068,Drama,5,1999
+1069,Comedy,7,1999
+1070,Comedy,6.5,1999
+1071,Comedy,5.8,1999
+1072,Comedy,6,1999
+1073,Adventure,5.8,1999
+1074,Drama,5.5,1999
+1075,Biography,7.4,1999
+1076,Drama,6.6,1999
+1077,Comedy,3.9,1999
+1078,Drama,6.4,1999
+1079,Comedy,6.4,1999
+1080,Drama,7.8,1999
+1081,Comedy,5.3,1999
+1082,Action,6.1,1999
+1083,Comedy,6,1999
+1084,Comedy,6.9,1999
+1085,Animation,6.1,1999
+1086,Comedy,7.2,1999
+1087,Horror,3.9,1999
+1088,Drama,6,1999
+1089,Comedy,6.8,1999
+1090,Comedy,4.4,1999
+1091,Comedy,6.9,1999
+1092,Crime,5.2,1999
+1093,Comedy,6.9,1999
+1094,Comedy,6.8,1999
+1095,Comedy,6.1,1999
+1096,Drama,6.8,1999
+1097,Animation,7.4,1999
+1098,Comedy,6.8,1999
+1099,Action,4.3,1999
+1100,Action,6.1,1999
+1101,Drama,6.8,1999
+1102,Drama,6.8,1999
+1103,Comedy,5.5,1999
+1104,Comedy,5.1,1999
+1105,Crime,6.3,1999
+1106,Crime,4.9,1999
+1107,Comedy,6.2,1999
+1108,Comedy,5.1,1999
+1109,Romance,7.8,1999
+1110,Action,4.3,1999
+1111,Crime,6.1,1999
+1112,Comedy,5.5,1999
+1113,Drama,6.5,1999
+1114,Drama,6.8,1999
+1115,Action,6.4,1999
+1116,Comedy,4.6,1999
+1117,Drama,7.3,1999
+1118,Comedy,7,1999
+1119,Drama,8.2,1999
+1120,Drama,7.5,1999
+1121,Comedy,7.2,1999
+1122,Comedy,7.6,1999
+1123,Drama,7.1,1999
+1124,Drama,5.4,1999
+1125,Biography,7.2,1999
+1126,Comedy,5.5,1999
+1127,Drama,6.6,1999
+1128,Crime,6.1,1999
+1129,Comedy,6.2,1999
+1130,Comedy,5.8,1999
+1131,Animation,4.5,1999
+1132,Drama,6.9,1999
+1133,Comedy,6.3,1999
+1134,Comedy,7.5,1999
+1135,Crime,6.7,1999
+1136,Adventure,7.9,2000
+1137,Comedy,7.6,2000
+1138,Action,8.5,2000
+1139,Comedy,8.3,2000
+1140,Drama,8.3,2000
+1141,Mystery,8.4,2000
+1142,Comedy,7.5,2000
+1143,Adventure,7.8,2000
+1144,Comedy,6.2,2000
+1145,Action,6.4,2000
+1146,Comedy,5.7,2000
+1147,Action,7.4,2000
+1148,Action,6.4,2000
+1149,Action,7.2,2000
+1150,Biography,7.4,2000
+1151,Drama,7.3,2000
+1152,Action,5.6,2000
+1153,Comedy,6.4,2000
+1154,Adventure,6.7,2000
+1155,Comedy,6,2000
+1156,Biography,7.8,2000
+1157,Action,6.1,2000
+1158,Adventure,7.7,2000
+1159,Action,5.9,2000
+1160,Animation,7,2000
+1161,Crime,6.4,2000
+1162,Horror,6.7,2000
+1163,Crime,7.6,2000
+1164,Crime,7.3,2000
+1165,Drama,8.1,2000
+1166,Drama,6.6,2000
+1167,Animation,7.4,2000
+1168,Action,7.8,2000
+1169,Action,6.5,2000
+1170,Comedy,5.5,2000
+1171,Comedy,7,2000
+1172,Action,7.1,2000
+1173,Action,5.8,2000
+1174,Drama,6.8,2000
+1175,Action,6.3,2000
+1176,Comedy,7.5,2000
+1177,Action,2.5,2000
+1178,Horror,5.6,2000
+1179,Comedy,7.5,2000
+1180,Comedy,6.7,2000
+1181,Drama,7.2,2000
+1182,Drama,7.7,2000
+1183,Drama,8.1,2000
+1184,Comedy,6.6,2000
+1185,Action,6.6,2000
+1186,Comedy,6,2000
+1187,Animation,6.9,2000
+1188,Drama,5,2000
+1189,Animation,6.5,2000
+1190,Comedy,6.2,2000
+1191,Crime,8,2000
+1192,Comedy,6.4,2000
+1193,Drama,6.7,2000
+1194,Comedy,6.8,2000
+1195,Adventure,5.7,2000
+1196,Comedy,6.6,2000
+1197,Comedy,6.2,2000
+1198,Crime,6.5,2000
+1199,Comedy,5.3,2000
+1200,Crime,7,2000
+1201,Comedy,6.7,2000
+1202,Crime,7.3,2000
+1203,Biography,7.2,2000
+1204,Comedy,6.1,2000
+1205,Drama,7.2,2000
+1206,Action,6.6,2000
+1207,Adventure,5.8,2000
+1208,Biography,7.3,2000
+1209,Drama,7.2,2000
+1210,Action,5.9,2000
+1211,Comedy,3.7,2000
+1212,Crime,4.5,2000
+1213,Action,5.8,2000
+1214,Action,4.9,2000
+1215,Adventure,4.9,2000
+1216,Action,5.7,2000
+1217,Action,3.7,2000
+1218,Action,5.2,2000
+1219,Comedy,7.3,2000
+1220,Action,6,2000
+1221,Drama,7.3,2000
+1222,Drama,6.7,2000
+1223,Animation,6.6,2000
+1224,Adventure,5.1,2000
+1225,Crime,5.3,2000
+1226,Action,5.6,2000
+1227,Action,6.1,2000
+1228,Action,5.2,2000
+1229,Comedy,5.7,2000
+1230,Biography,7.2,2000
+1231,Comedy,6.4,2000
+1232,Drama,6.7,2000
+1233,Drama,5.7,2000
+1234,Adventure,4,2000
+1235,Drama,6.4,2000
+1236,Drama,7.3,2000
+1237,Drama,7.5,2000
+1238,Comedy,6.1,2000
+1239,Drama,5.8,2000
+1240,Comedy,4.9,2000
+1241,Drama,8.2,2000
+1242,Comedy,7.2,2000
+1243,Horror,4.9,2000
+1244,Comedy,5.3,2000
+1245,Comedy,5,2000
+1246,Action,6.7,2000
+1247,Animation,4.2,2000
+1248,Comedy,6.2,2000
+1249,Comedy,4.4,2000
+1250,Crime,6.9,2000
+1251,Action,6.3,2000
+1252,Comedy,6.6,2000
+1253,Drama,6.9,2000
+1254,Adventure,4.2,2000
+1255,Drama,7,2000
+1256,Comedy,6.9,2000
+1257,Comedy,5.4,2000
+1258,Comedy,5.5,2000
+1259,Comedy,6.6,2000
+1260,Drama,5.6,2000
+1261,Biography,7,2000
+1262,Action,5.7,2000
+1263,Biography,7.2,2000
+1264,Action,4.5,2000
+1265,Comedy,6.2,2000
+1266,Comedy,6.2,2000
+1267,Action,5.8,2000
+1268,Comedy,6.9,2000
+1269,Drama,6,2000
+1270,Drama,7,2000
+1271,Comedy,6.8,2000
+1272,Comedy,6.8,2000
+1273,Action,4.6,2000
+1274,Comedy,4.6,2000
+1275,Crime,6.4,2000
+1276,Horror,4.3,2000
+1277,Comedy,5.3,2000
+1278,Comedy,5.4,2000
+1279,Animation,7.7,2000
+1280,Drama,8.2,2000
+1281,Comedy,5.2,2000
+1282,Drama,6.9,2000
+1283,Crime,7.9,2000
+1284,Comedy,7,2000
+1285,Drama,4.7,2000
+1286,Drama,6.8,2000
+1287,Comedy,5.8,2000
+1288,Drama,5.9,2000
+1289,Drama,6.5,2000
+1290,Comedy,7,2000
+1291,Drama,7.1,2000
+1292,Drama,5.8,2000
+1293,Crime,7.9,2000
+1294,Comedy,6.1,2000
+1295,Crime,5.9,2000
+1296,Comedy,5,2000
+1297,Crime,6.6,2000
+1298,Crime,5.1,2000
+1299,Drama,6.2,2000
+1300,Comedy,6.8,2000
+1301,Animation,6.2,2000
+1302,Drama,7.2,2000
+1303,Drama,6.9,2000
+1304,Crime,6.7,2000
+1305,Action,6.5,2000
+1306,Comedy,6.7,2000
+1307,Comedy,7.6,2000
+1308,Drama,5.7,2000
+1309,Comedy,7.3,2000
+1310,Crime,7.1,2000
+1311,Comedy,6.5,2000
+1312,Comedy,6.2,2000
+1313,Romance,7,2000
+1314,Comedy,5.6,2000
+1315,Drama,5.2,2000
+1316,Drama,5.9,2000
+1317,Animation,6.4,2000
+1318,Comedy,5.6,2000
+1319,Biography,6.1,2000
+1320,Comedy,5.1,2000
+1321,Comedy,7.4,2000
+1322,Drama,7.1,2000
+1323,Action,5.8,2000
+1324,Romance,6,2000
+1325,Drama,4.8,2000
+1326,Drama,5.9,2000
+1327,Animation,6.1,2000
+1328,Action,6.9,2000
+1329,Comedy,6.8,2000
+1330,Crime,5.1,2000
+1331,Drama,7.4,2000
+1332,Comedy,4.7,2000
+1333,Biography,5.5,2000
+1334,Comedy,5.7,2000
+1335,Comedy,7.3,2000
+1336,Adventure,7.6,2001
+1337,Action,6.8,2001
+1338,Action,8.8,2001
+1339,Comedy,6.3,2001
+1340,Drama,7.9,2001
+1341,Animation,8.1,2001
+1342,Animation,8.6,2001
+1343,Drama,8,2001
+1344,Comedy,5.7,2001
+1345,Comedy,5.3,2001
+1346,Crime,7.7,2001
+1347,Animation,7.9,2001
+1348,Drama,7.7,2001
+1349,Biography,8.2,2001
+1350,Action,6.4,2001
+1351,Action,6.2,2001
+1352,Comedy,7.6,2001
+1353,Comedy,8.3,2001
+1354,Crime,7.7,2001
+1355,Drama,7.2,2001
+1356,Comedy,7.3,2001
+1357,Comedy,7.1,2001
+1358,Action,6.9,2001
+1359,Biography,7.6,2001
+1360,Crime,6.8,2001
+1361,Comedy,6.4,2001
+1362,Drama,7.6,2001
+1363,Fantasy,6.9,2001
+1364,Fantasy,5.6,2001
+1365,Action,5.7,2001
+1366,Horror,7.6,2001
+1367,Adventure,6,2001
+1368,Animation,6.9,2001
+1369,Action,6.4,2001
+1370,Comedy,5.1,2001
+1371,Comedy,6.6,2001
+1372,Comedy,5.9,2001
+1373,Comedy,6.5,2001
+1374,Action,5.9,2001
+1375,Drama,7.6,2001
+1376,Comedy,7.2,2001
+1377,Action,6.5,2001
+1378,Horror,6.2,2001
+1379,Drama,7.1,2001
+1380,Drama,6.4,2001
+1381,Comedy,6.1,2001
+1382,Drama,6.1,2001
+1383,Drama,7,2001
+1384,Action,5.5,2001
+1385,Action,6.4,2001
+1386,Drama,6.1,2001
+1387,Biography,6.9,2001
+1388,Comedy,6.7,2001
+1389,Drama,7.6,2001
+1390,Action,7,2001
+1391,Drama,7.5,2001
+1392,Action,7.1,2001
+1393,Action,5.8,2001
+1394,Comedy,6.4,2001
+1395,Crime,7.2,2001
+1396,Drama,6.4,2001
+1397,Action,6.6,2001
+1398,Drama,6.2,2001
+1399,Crime,5.6,2001
+1400,Biography,6.5,2001
+1401,Comedy,4.8,2001
+1402,Comedy,6.3,2001
+1403,Action,6.6,2001
+1404,Action,6,2001
+1405,Action,6.8,2001
+1406,Action,4.4,2001
+1407,Comedy,6.8,2001
+1408,Adventure,6.1,2001
+1409,Horror,6.8,2001
+1410,Action,4.8,2001
+1411,Action,6.5,2001
+1412,Comedy,6.9,2001
+1413,Action,7,2001
+1414,Crime,6.8,2001
+1415,Action,6,2001
+1416,Action,4.9,2001
+1417,Crime,7.5,2001
+1418,Drama,6.3,2001
+1419,Animation,6.3,2001
+1420,Drama,6.5,2001
+1421,Comedy,5.9,2001
+1422,Crime,5.8,2001
+1423,Comedy,5.3,2001
+1424,Comedy,6.2,2001
+1425,Horror,6.4,2001
+1426,Comedy,6.3,2001
+1427,Comedy,7.7,2001
+1428,Crime,6.4,2001
+1429,Drama,7.4,2001
+1430,Comedy,4.6,2001
+1431,Horror,6.6,2001
+1432,Drama,6.7,2001
+1433,Comedy,6.4,2001
+1434,Drama,6.3,2001
+1435,Biography,6.8,2001
+1436,Drama,7.5,2001
+1437,Action,7,2001
+1438,Comedy,5.4,2001
+1439,Comedy,6.5,2001
+1440,Animation,4.8,2001
+1441,Crime,7.4,2001
+1442,Action,5.3,2001
+1443,Animation,7.8,2001
+1444,Adventure,5.6,2001
+1445,Comedy,5.5,2001
+1446,Drama,7.4,2001
+1447,Action,7.3,2001
+1448,Animation,6,2001
+1449,Action,4.6,2001
+1450,Comedy,5.7,2001
+1451,Animation,7.9,2001
+1452,Drama,6.7,2001
+1453,Action,5.6,2001
+1454,Drama,7.2,2001
+1455,Drama,8.1,2001
+1456,Drama,6.9,2001
+1457,Horror,4.8,2001
+1458,Animation,6.4,2001
+1459,Action,5.9,2001
+1460,Drama,6.9,2001
+1461,Comedy,5.7,2001
+1462,Action,5.1,2001
+1463,Drama,6.9,2001
+1464,Comedy,5.7,2001
+1465,Action,6.6,2001
+1466,Drama,5.9,2001
+1467,Drama,7.1,2001
+1468,Comedy,8.1,2001
+1469,Comedy,6.1,2001
+1470,Comedy,6.5,2001
+1471,Drama,6.4,2001
+1472,Drama,7.7,2001
+1473,Animation,7.9,2001
+1474,Comedy,6.2,2001
+1475,Action,6.3,2001
+1476,Action,6.1,2001
+1477,Biography,7,2001
+1478,Biography,7.5,2001
+1479,Drama,6.4,2001
+1480,Drama,5.6,2001
+1481,Comedy,7.9,2001
+1482,Drama,7.4,2001
+1483,Comedy,6.8,2001
+1484,Comedy,6.3,2001
+1485,Comedy,6.3,2001
+1486,Action,4.8,2001
+1487,Drama,6.1,2001
+1488,Comedy,6.1,2001
+1489,Comedy,6.4,2001
+1490,Comedy,6.4,2001
+1491,Comedy,6.1,2001
+1492,Comedy,4.7,2001
+1493,Drama,6,2001
+1494,Comedy,5.4,2001
+1495,Drama,5.8,2001
+1496,Action,6.7,2001
+1497,Horror,3.9,2001
+1498,Adventure,4.9,2001
+1499,Drama,6.7,2001
+1500,Crime,6.6,2001
+1501,Drama,7.3,2001
+1502,Comedy,6.5,2001
+1503,Action,6.1,2001
+1504,Adventure,5.8,2001
+1505,Crime,6.1,2001
+1506,Comedy,7.4,2001
+1507,Drama,7.3,2001
+1508,Crime,7.1,2001
+1509,Comedy,4.8,2001
+1510,Crime,4.3,2001
+1511,Comedy,5,2001
+1512,Action,5.2,2001
+1513,Comedy,5.5,2001
+1514,Comedy,5.5,2001
+1515,Drama,2.3,2001
+1516,Comedy,5.4,2001
+1517,Drama,7.2,2001
+1518,Action,5.4,2001
+1519,Comedy,6.2,2001
+1520,Drama,6.2,2001
+1521,Comedy,6.8,2001
+1522,Animation,7.2,2001
+1523,Comedy,6.7,2001
+1524,Comedy,6.7,2001
+1525,Drama,6.1,2001
+1526,Comedy,6.8,2001
+1527,Comedy,7.1,2001
+1528,Comedy,4.7,2001
+1529,Crime,7.3,2001
+1530,Animation,6.6,2001
+1531,Adventure,6.4,2001
+1532,Drama,7,2001
+1533,Comedy,5.8,2001
+1534,Drama,6.4,2001
+1535,Comedy,6.7,2001
+1536,Action,7.3,2002
+1537,Action,6.4,2002
+1538,Drama,7.1,2002
+1539,Biography,8.5,2002
+1540,Adventure,7.4,2002
+1541,Action,8.7,2002
+1542,Crime,7.7,2002
+1543,Action,6.7,2002
+1544,Biography,8.1,2002
+1545,Drama,7.6,2002
+1546,Crime,8.6,2002
+1547,Crime,7.4,2002
+1548,Horror,7.1,2002
+1549,Drama,6.7,2002
+1550,Action,7.9,2002
+1551,Action,6.5,2002
+1552,Comedy,7,2002
+1553,Adventure,5.1,2002
+1554,Action,6.2,2002
+1555,Action,7.6,2002
+1556,Action,6.2,2002
+1557,Crime,7.2,2002
+1558,Crime,7.5,2002
+1559,Comedy,6.8,2002
+1560,Comedy,6.2,2002
+1561,Action,7.7,2002
+1562,Comedy,5.5,2002
+1563,Comedy,7.7,2002
+1564,Drama,6.7,2002
+1565,Animation,7.5,2002
+1566,Crime,6.8,2002
+1567,Drama,7.2,2002
+1568,Action,6.2,2002
+1569,Animation,7.3,2002
+1570,Comedy,7.2,2002
+1571,Drama,7.3,2002
+1572,Animation,7.2,2002
+1573,Comedy,6.6,2002
+1574,Action,7.2,2002
+1575,Comedy,5.2,2002
+1576,Action,5.9,2002
+1577,Action,7.4,2002
+1578,Action,5.5,2002
+1579,Comedy,7.3,2002
+1580,Action,6.1,2002
+1581,Action,6,2002
+1582,Comedy,6.6,2002
+1583,Action,6.8,2002
+1584,Drama,5.7,2002
+1585,Horror,5.5,2002
+1586,Comedy,6.4,2002
+1587,Comedy,5.3,2002
+1588,Animation,7.2,2002
+1589,Action,6.7,2002
+1590,Biography,7.4,2002
+1591,Crime,7,2002
+1592,Comedy,7.1,2002
+1593,Biography,7,2002
+1594,Action,6.2,2002
+1595,Action,7.9,2002
+1596,Action,6.4,2002
+1597,Action,5.4,2002
+1598,Drama,5.3,2002
+1599,Crime,6.2,2002
+1600,Drama,7.5,2002
+1601,Comedy,5.6,2002
+1602,Drama,6.8,2002
+1603,Horror,5.6,2002
+1604,Comedy,6.1,2002
+1605,Comedy,5.9,2002
+1606,Comedy,6.2,2002
+1607,Comedy,5.8,2002
+1608,Drama,7.6,2002
+1609,Crime,7.1,2002
+1610,Comedy,3.6,2002
+1611,Drama,7.6,2002
+1612,Action,8,2002
+1613,Drama,6.2,2002
+1614,Comedy,5.3,2002
+1615,Comedy,6.6,2002
+1616,Action,5.4,2002
+1617,Drama,6.4,2002
+1618,Biography,7.3,2002
+1619,Drama,6.4,2002
+1620,Comedy,6.8,2002
+1621,Crime,7.6,2002
+1622,Crime,5.8,2002
+1623,Crime,6.4,2002
+1624,Comedy,6.1,2002
+1625,Comedy,6.3,2002
+1626,Action,6.5,2002
+1627,Crime,7,2002
+1628,Adventure,5.5,2002
+1629,Comedy,7.1,2002
+1630,Adventure,3.3,2002
+1631,Comedy,5.9,2002
+1632,Horror,4,2002
+1633,Action,6.1,2002
+1634,Comedy,5.8,2002
+1635,Crime,5.3,2002
+1636,Action,5.9,2002
+1637,Action,5.2,2002
+1638,Drama,6.6,2002
+1639,Drama,6.9,2002
+1640,Crime,6.2,2002
+1641,Drama,6.3,2002
+1642,Adventure,6.7,2002
+1643,Comedy,3.6,2002
+1644,Comedy,6.6,2002
+1645,Drama,6.1,2002
+1646,Comedy,4.6,2002
+1647,Drama,6.1,2002
+1648,Crime,7.3,2002
+1649,Action,7.1,2002
+1650,Action,5.4,2002
+1651,Drama,5.1,2002
+1652,Drama,7.9,2002
+1653,Crime,7.8,2002
+1654,Comedy,5.3,2002
+1655,Drama,6.7,2002
+1656,Animation,5.5,2002
+1657,Comedy,6.9,2002
+1658,Biography,7.3,2002
+1659,Action,3.1,2002
+1660,Drama,6.5,2002
+1661,Drama,7.1,2002
+1662,Action,6.2,2002
+1663,Comedy,6.5,2002
+1664,Drama,7.4,2002
+1665,Comedy,7,2002
+1666,Comedy,6.1,2002
+1667,Biography,6.6,2002
+1668,Action,6.4,2002
+1669,Action,5.5,2002
+1670,Action,6.2,2002
+1671,Crime,7.1,2002
+1672,Horror,6.7,2002
+1673,Comedy,6.3,2002
+1674,Drama,7.5,2002
+1675,Adventure,7.4,2002
+1676,Action,6.2,2002
+1677,Crime,7.1,2002
+1678,Drama,7.7,2002
+1679,Crime,6.6,2002
+1680,Biography,5.6,2002
+1681,Comedy,4.9,2002
+1682,Drama,7.7,2002
+1683,Adventure,7.1,2002
+1684,Action,5.6,2002
+1685,Comedy,7.1,2002
+1686,Drama,6.8,2002
+1687,Adventure,5.2,2002
+1688,Drama,7.1,2002
+1689,Comedy,5.7,2002
+1690,Drama,6.4,2002
+1691,Comedy,5.4,2002
+1692,Comedy,5.5,2002
+1693,Comedy,4.2,2002
+1694,Action,5.9,2002
+1695,Drama,4.9,2002
+1696,Adventure,6.1,2002
+1697,Comedy,7.3,2002
+1698,Action,5.2,2002
+1699,Comedy,6.1,2002
+1700,Animation,5.8,2002
+1701,Drama,7.4,2002
+1702,Comedy,6.9,2002
+1703,Crime,3.4,2002
+1704,Drama,6.8,2002
+1705,Crime,5.4,2002
+1706,Horror,5.4,2002
+1707,Comedy,5.9,2002
+1708,Comedy,5.6,2002
+1709,Drama,5.9,2002
+1710,Animation,5.6,2002
+1711,Action,3.8,2002
+1712,Drama,7.6,2002
+1713,Animation,5.3,2002
+1714,Comedy,4.7,2002
+1715,Drama,6.6,2002
+1716,Action,4.6,2002
+1717,Comedy,5.8,2002
+1718,Action,5.5,2002
+1719,Drama,7.5,2002
+1720,Biography,5.8,2002
+1721,Comedy,5.6,2002
+1722,Action,3.7,2002
+1723,Comedy,6.5,2002
+1724,Action,5.6,2002
+1725,Comedy,4.4,2002
+1726,Drama,6.9,2002
+1727,Drama,7.5,2002
+1728,Crime,7.4,2002
+1729,Comedy,6.9,2002
+1730,Action,5.4,2002
+1731,Drama,6.3,2002
+1732,Crime,6.1,2002
+1733,Crime,7,2002
+1734,Drama,5.9,2002
+1735,Crime,5.6,2002
+1736,Action,8.1,2003
+1737,Action,8,2003
+1738,Action,8.9,2003
+1739,Comedy,7.1,2003
+1740,Crime,7.9,2003
+1741,Comedy,7.6,2003
+1742,Crime,7.5,2003
+1743,Action,5.9,2003
+1744,Action,7,2003
+1745,Action,8.4,2003
+1746,Comedy,7.7,2003
+1747,Animation,5.7,2003
+1748,Adventure,8,2003
+1749,Action,7.2,2003
+1750,Drama,7.2,2003
+1751,Crime,8.1,2003
+1752,Animation,8.1,2003
+1753,Action,5.6,2003
+1754,Comedy,7.1,2003
+1755,Drama,6.8,2003
+1756,Horror,6.1,2003
+1757,Action,7,2003
+1758,Action,6.3,2003
+1759,Adventure,6.8,2003
+1760,Biography,7.3,2003
+1761,Action,6.7,2003
+1762,Action,5.3,2003
+1763,Action,7.4,2003
+1764,Adventure,6.5,2003
+1765,Drama,3.7,2003
+1766,Crime,6.2,2003
+1767,Action,6,2003
+1768,Action,7.7,2003
+1769,Adventure,7,2003
+1770,Action,5.7,2003
+1771,Action,7.4,2003
+1772,Action,6.7,2003
+1773,Horror,6.1,2003
+1774,Mystery,7.3,2003
+1775,Action,6.4,2003
+1776,Crime,6.7,2003
+1777,Adventure,7.2,2003
+1778,Comedy,5.9,2003
+1779,Mystery,5.3,2003
+1780,Comedy,7.5,2003
+1781,Comedy,5.5,2003
+1782,Comedy,6.4,2003
+1783,Action,5.8,2003
+1784,Comedy,5.8,2003
+1785,Action,6.6,2003
+1786,Action,7.4,2003
+1787,Drama,6.5,2003
+1788,Action,5.7,2003
+1789,Comedy,6.7,2003
+1790,Crime,8,2003
+1791,Adventure,7,2003
+1792,Comedy,6.2,2003
+1793,Action,4.9,2003
+1794,Comedy,4.8,2003
+1795,Comedy,5.6,2003
+1796,Comedy,6.2,2003
+1797,Adventure,5.7,2003
+1798,Comedy,6.7,2003
+1799,Biography,6.9,2003
+1800,Adventure,4,2003
+1801,Animation,6.8,2003
+1802,Drama,5,2003
+1803,Action,6.6,2003
+1804,Horror,6.2,2003
+1805,Crime,7.6,2003
+1806,Comedy,6.2,2003
+1807,Action,6.2,2003
+1808,Action,6.1,2003
+1809,Comedy,7.3,2003
+1810,Comedy,6.8,2003
+1811,Drama,7.3,2003
+1812,Comedy,6.3,2003
+1813,Comedy,5.5,2003
+1814,Horror,6.8,2003
+1815,Action,5.6,2003
+1816,Crime,7.2,2003
+1817,Fantasy,5,2003
+1818,Action,4.3,2003
+1819,Comedy,2.5,2003
+1820,Crime,6.5,2003
+1821,Action,5.5,2003
+1822,Comedy,3.4,2003
+1823,Crime,7.1,2003
+1824,Horror,5.6,2003
+1825,Action,6.2,2003
+1826,Drama,5.5,2003
+1827,Drama,8,2003
+1828,Comedy,5.6,2003
+1829,Action,6.3,2003
+1830,Comedy,5.9,2003
+1831,Drama,5.4,2003
+1832,Crime,6.6,2003
+1833,Comedy,5.1,2003
+1834,Animation,6.7,2003
+1835,Action,2.1,2003
+1836,Biography,6.3,2003
+1837,Crime,7.5,2003
+1838,Action,6.1,2003
+1839,Comedy,7.6,2003
+1840,Comedy,7.7,2003
+1841,Action,6.5,2003
+1842,Drama,6.3,2003
+1843,Adventure,6,2003
+1844,Horror,5.8,2003
+1845,Action,5.1,2003
+1846,Action,7.2,2003
+1847,Comedy,7,2003
+1848,Drama,7.1,2003
+1849,Adventure,5.5,2003
+1850,Drama,6.9,2003
+1851,Action,5.8,2003
+1852,Comedy,6.2,2003
+1853,Comedy,7.2,2003
+1854,Drama,5,2003
+1855,Comedy,6.9,2003
+1856,Comedy,7.9,2003
+1857,Comedy,5.3,2003
+1858,Comedy,5.2,2003
+1859,Action,4.4,2003
+1860,Drama,8,2003
+1861,Biography,6.9,2003
+1862,Action,6.6,2003
+1863,Comedy,7.1,2003
+1864,Crime,6.4,2003
+1865,Action,5.3,2003
+1866,Drama,7.8,2003
+1867,Action,5.6,2003
+1868,Animation,7.8,2003
+1869,Drama,6.9,2003
+1870,Drama,5.2,2003
+1871,Comedy,5.7,2003
+1872,Action,6.5,2003
+1873,Animation,7.8,2003
+1874,Comedy,4.6,2003
+1875,Action,7.5,2003
+1876,Comedy,6.6,2003
+1877,Comedy,7.6,2003
+1878,Action,5.5,2003
+1879,Comedy,6.3,2003
+1880,Action,4.7,2003
+1881,Comedy,7.3,2003
+1882,Action,5.3,2003
+1883,Biography,7.4,2003
+1884,Comedy,6.7,2003
+1885,Biography,6.3,2003
+1886,Comedy,5.6,2003
+1887,Drama,6.1,2003
+1888,Comedy,5.2,2003
+1889,Drama,8.5,2003
+1890,Action,5.7,2003
+1891,Crime,6.7,2003
+1892,Comedy,7,2003
+1893,Adventure,6.5,2003
+1894,Comedy,5.6,2003
+1895,Comedy,4.8,2003
+1896,Comedy,5.6,2003
+1897,Comedy,6.3,2003
+1898,Drama,6.9,2003
+1899,Comedy,6.2,2003
+1900,Animation,5.4,2003
+1901,Comedy,4.7,2003
+1902,Comedy,5.6,2003
+1903,Comedy,6.8,2003
+1904,Drama,6.8,2003
+1905,Comedy,2.1,2003
+1906,Crime,7.1,2003
+1907,Comedy,5.5,2003
+1908,Comedy,5.5,2003
+1909,Comedy,7,2003
+1910,Drama,6.2,2003
+1911,Drama,6.6,2003
+1912,Comedy,4.7,2003
+1913,Drama,6.3,2003
+1914,Horror,5.2,2003
+1915,Crime,7,2003
+1916,Biography,6.9,2003
+1917,Crime,6.3,2003
+1918,Drama,6.8,2003
+1919,Biography,6.3,2003
+1920,Animation,5.6,2003
+1921,Comedy,4.9,2003
+1922,Biography,6.6,2003
+1923,Comedy,5.1,2003
+1924,Action,6.7,2003
+1925,Drama,7.6,2003
+1926,Action,5.8,2003
+1927,Drama,7.5,2003
+1928,Drama,6.3,2003
+1929,Comedy,7.6,2003
+1930,Comedy,5.1,2003
+1931,Drama,7,2003
+1932,Comedy,5.6,2003
+1933,Drama,5.4,2003
+1934,Comedy,5.4,2003
+1935,Comedy,7.6,2003
+1936,Comedy,6.7,2004
+1937,Comedy,6.6,2004
+1938,Comedy,6.7,2004
+1939,Comedy,5.6,2004
+1940,Comedy,7,2004
+1941,Adventure,7.9,2004
+1942,Drama,7.2,2004
+1943,Drama,8.3,2004
+1944,Action,8,2004
+1945,Drama,7.8,2004
+1946,Comedy,7.4,2004
+1947,Action,6.1,2004
+1948,Animation,8,2004
+1949,Horror,7.6,2004
+1950,Crime,7.5,2004
+1951,Biography,7.5,2004
+1952,Action,7.3,2004
+1953,Action,6.4,2004
+1954,Action,7.1,2004
+1955,Animation,8.2,2004
+1956,Comedy,6.4,2004
+1957,Drama,8.1,2004
+1958,Comedy,7.9,2004
+1959,Drama,6.5,2004
+1960,Drama,6.7,2004
+1961,Drama,7.6,2004
+1962,Action,6.4,2004
+1963,Action,7.3,2004
+1964,Comedy,6.9,2004
+1965,Comedy,6.8,2004
+1966,Action,7.7,2004
+1967,Biography,8.2,2004
+1968,Comedy,6.2,2004
+1969,Animation,7.2,2004
+1970,Crime,7.7,2004
+1971,Action,7.7,2004
+1972,Action,7.3,2004
+1973,Drama,7.2,2004
+1974,Action,6.2,2004
+1975,Action,6.8,2004
+1976,Comedy,7.2,2004
+1977,Action,6.3,2004
+1978,Action,7.3,2004
+1979,Adventure,6.8,2004
+1980,Drama,7.7,2004
+1981,Drama,7.2,2004
+1982,Drama,7.2,2004
+1983,Action,6.9,2004
+1984,Action,5.6,2004
+1985,Action,6.7,2004
+1986,Drama,4.8,2004
+1987,Drama,6.6,2004
+1988,Action,6.3,2004
+1989,Crime,6.5,2004
+1990,Adventure,7,2004
+1991,Action,5.8,2004
+1992,Action,5.6,2004
+1993,Comedy,6.3,2004
+1994,Comedy,7.5,2004
+1995,Action,7.2,2004
+1996,Comedy,6.1,2004
+1997,Animation,6,2004
+1998,Drama,8.1,2004
+1999,Comedy,6.3,2004
+2000,Drama,6.9,2004
+2001,Comedy,5.9,2004
+2002,Comedy,6,2004
+2003,Drama,6.7,2004
+2004,Animation,7.1,2004
+2005,Adventure,5.1,2004
+2006,Comedy,6.2,2004
+2007,Biography,8.1,2004
+2008,Crime,6.2,2004
+2009,Action,7.7,2004
+2010,Comedy,5.7,2004
+2011,Comedy,7.4,2004
+2012,Comedy,5.8,2004
+2013,Crime,5.3,2004
+2014,Action,3.4,2004
+2015,Comedy,4.8,2004
+2016,Drama,7.4,2004
+2017,Action,4.1,2004
+2018,Biography,7.7,2004
+2019,Comedy,6.1,2004
+2020,Drama,6.5,2004
+2021,Comedy,6.2,2004
+2022,Biography,7.7,2004
+2023,Action,7.2,2004
+2024,Comedy,5.4,2004
+2025,Horror,5.9,2004
+2026,Action,5.9,2004
+2027,Comedy,6.3,2004
+2028,Action,3.7,2004
+2029,Animation,6.6,2004
+2030,Adventure,5.9,2004
+2031,Biography,7.5,2004
+2032,Crime,6.4,2004
+2033,Drama,7.6,2004
+2034,Comedy,5.9,2004
+2035,Action,4.5,2004
+2036,Drama,7,2004
+2037,Action,6.5,2004
+2038,Biography,7.1,2004
+2039,Action,4.7,2004
+2040,Drama,6.4,2004
+2041,Comedy,4.7,2004
+2042,Comedy,6,2004
+2043,Comedy,4.3,2004
+2044,Action,6,2004
+2045,Drama,6.2,2004
+2046,Comedy,5.3,2004
+2047,Comedy,6.1,2004
+2048,Action,7.5,2004
+2049,Action,7.1,2004
+2050,Crime,7.6,2004
+2051,Action,6.3,2004
+2052,Drama,7.6,2004
+2053,Drama,5.8,2004
+2054,Action,6.1,2004
+2055,Comedy,6.7,2004
+2056,Animation,5,2004
+2057,Comedy,6.4,2004
+2058,Comedy,5.1,2004
+2059,Comedy,6.2,2004
+2060,Drama,6,2004
+2061,Drama,7.1,2004
+2062,Family,5.9,2004
+2063,Action,6.7,2004
+2064,Comedy,6,2004
+2065,Crime,7.2,2004
+2066,Drama,6,2004
+2067,Action,5.3,2004
+2068,Adventure,7.8,2004
+2069,Comedy,5.7,2004
+2070,Drama,6,2004
+2071,Crime,7.4,2004
+2072,Comedy,4.5,2004
+2073,Crime,8,2004
+2074,Action,4.3,2004
+2075,Comedy,5,2004
+2076,Drama,6.2,2004
+2077,Drama,6.2,2004
+2078,Horror,5.1,2004
+2079,Comedy,5.1,2004
+2080,Drama,8.2,2004
+2081,Comedy,6.6,2004
+2082,Biography,8,2004
+2083,Comedy,6.7,2004
+2084,Comedy,5.5,2004
+2085,Comedy,4.8,2004
+2086,Comedy,6.2,2004
+2087,Comedy,1.9,2004
+2088,Drama,8.1,2004
+2089,Action,8.5,2004
+2090,Comedy,4.5,2004
+2091,Comedy,7.9,2004
+2092,Drama,7.2,2004
+2093,Horror,7,2004
+2094,Action,6.5,2004
+2095,Animation,5.4,2004
+2096,Comedy,5.4,2004
+2097,Comedy,5.6,2004
+2098,Action,6.4,2004
+2099,Drama,7,2004
+2100,Action,6.5,2004
+2101,Biography,6.3,2004
+2102,Drama,5.1,2004
+2103,Drama,3.9,2004
+2104,Drama,6.5,2004
+2105,Biography,6.7,2004
+2106,Drama,7,2004
+2107,Comedy,6.5,2004
+2108,Drama,7.4,2004
+2109,Comedy,7.4,2004
+2110,Comedy,4.9,2004
+2111,Drama,7.8,2004
+2112,Comedy,5.3,2004
+2113,Comedy,5.9,2004
+2114,Drama,6.6,2004
+2115,Drama,6.6,2004
+2116,Crime,7.4,2004
+2117,Crime,7.6,2004
+2118,Comedy,6.9,2004
+2119,Biography,7.3,2004
+2120,Action,5.2,2004
+2121,Action,7.9,2004
+2122,Action,7,2004
+2123,Action,8,2004
+2124,Crime,6.9,2004
+2125,Drama,6.6,2004
+2126,Comedy,5.3,2004
+2127,Animation,7.8,2004
+2128,Comedy,7.5,2004
+2129,Comedy,6.7,2004
+2130,Action,6.7,2004
+2131,Comedy,5.2,2004
+2132,Animation,7.5,2004
+2133,Animation,5.4,2004
+2134,Comedy,7.2,2004
+2135,Comedy,6.4,2004
+2136,Adventure,7.7,2005
+2137,Comedy,7.1,2005
+2138,Drama,7.3,2005
+2139,Drama,7.8,2005
+2140,Action,8.2,2005
+2141,Adventure,7.2,2005
+2142,Drama,7.7,2005
+2143,Crime,8,2005
+2144,Adventure,6.6,2005
+2145,Action,8.1,2005
+2146,Adventure,6.9,2005
+2147,Comedy,6.9,2005
+2148,Adventure,6.5,2005
+2149,Action,7.2,2005
+2150,Action,7,2005
+2151,Action,7.5,2005
+2152,Action,7.2,2005
+2153,Adventure,6.7,2005
+2154,Action,5.7,2005
+2155,Crime,7.4,2005
+2156,Action,7.8,2005
+2157,Action,6.5,2005
+2158,Action,6.8,2005
+2159,Comedy,6.7,2005
+2160,Drama,7.6,2005
+2161,Horror,5.9,2005
+2162,Adventure,6.2,2005
+2163,Action,6.3,2005
+2164,Animation,6.9,2005
+2165,Drama,7.1,2005
+2166,Comedy,6.5,2005
+2167,Comedy,6.4,2005
+2168,Thriller,6.5,2005
+2169,Horror,5.4,2005
+2170,Action,6.8,2005
+2171,Comedy,5.1,2005
+2172,Crime,6.4,2005
+2173,Biography,7.8,2005
+2174,Biography,7.1,2005
+2175,Action,7.5,2005
+2176,Comedy,7.5,2005
+2177,Drama,7.4,2005
+2178,Action,5.6,2005
+2179,Drama,7.4,2005
+2180,Horror,6.8,2005
+2181,Comedy,6.6,2005
+2182,Adventure,6.8,2005
+2183,Drama,6.9,2005
+2184,Animation,6.3,2005
+2185,Action,7,2005
+2186,Action,5.9,2005
+2187,Horror,6.6,2005
+2188,Action,6.4,2005
+2189,Drama,6.3,2005
+2190,Biography,7.3,2005
+2191,Drama,5.6,2005
+2192,Action,7.6,2005
+2193,Action,6.2,2005
+2194,Crime,6.2,2005
+2195,Horror,6,2005
+2196,Comedy,5.6,2005
+2197,Comedy,6.2,2005
+2198,Comedy,5.5,2005
+2199,Biography,8,2005
+2200,Comedy,6.6,2005
+2201,Action,5.9,2005
+2202,Action,6,2005
+2203,Animation,7.3,2005
+2204,Action,6.3,2005
+2205,Crime,6.3,2005
+2206,Biography,6.7,2005
+2207,Action,7.3,2005
+2208,Horror,6.2,2005
+2209,Comedy,7.2,2005
+2210,Drama,6.7,2005
+2211,Action,4.7,2005
+2212,Action,5.2,2005
+2213,Action,6,2005
+2214,Adventure,5.5,2005
+2215,Action,5.5,2005
+2216,Comedy,2.2,2005
+2217,Comedy,5.5,2005
+2218,Comedy,6.3,2005
+2219,Comedy,5.8,2005
+2220,Comedy,5.6,2005
+2221,Action,5.1,2005
+2222,Crime,7.6,2005
+2223,Comedy,7.2,2005
+2224,Comedy,6.2,2005
+2225,Comedy,6.8,2005
+2226,Comedy,6.3,2005
+2227,Comedy,6.7,2005
+2228,Biography,7.3,2005
+2229,Drama,6.5,2005
+2230,Comedy,7.3,2005
+2231,Horror,6.2,2005
+2232,Comedy,5.4,2005
+2233,Comedy,6.4,2005
+2234,Animation,5.7,2005
+2235,Comedy,5.6,2005
+2236,Action,5.9,2005
+2237,Horror,5.4,2005
+2238,Drama,6.5,2005
+2239,Comedy,4.7,2005
+2240,Action,6.9,2005
+2241,Comedy,5.8,2005
+2242,Adventure,4.8,2005
+2243,Animation,7.4,2005
+2244,Adventure,6.5,2005
+2245,Drama,7.1,2005
+2246,Comedy,6.2,2005
+2247,Comedy,7.6,2005
+2248,Drama,6,2005
+2249,Comedy,5,2005
+2250,Action,5.1,2005
+2251,Comedy,5.8,2005
+2252,Comedy,6.2,2005
+2253,Comedy,7.1,2005
+2254,Action,4.5,2005
+2255,Drama,6.9,2005
+2256,Drama,7.3,2005
+2257,Crime,6.6,2005
+2258,Comedy,6.2,2005
+2259,Comedy,5.5,2005
+2260,Action,7,2005
+2261,Action,6.5,2005
+2262,Biography,7.4,2005
+2263,Drama,7.3,2005
+2264,Biography,5.4,2005
+2265,Comedy,4.8,2005
+2266,Animation,6.4,2005
+2267,Comedy,7.8,2005
+2268,Action,2.9,2005
+2269,Adventure,7.4,2005
+2270,Action,6.3,2005
+2271,Adventure,6.7,2005
+2272,Biography,6.5,2005
+2273,Action,4,2005
+2274,Biography,7.4,2005
+2275,Comedy,6,2005
+2276,Comedy,6.6,2005
+2277,Drama,5.8,2005
+2278,Crime,7.3,2005
+2279,Biography,7.8,2005
+2280,Action,5.1,2005
+2281,Crime,7.3,2005
+2282,Comedy,6.7,2005
+2283,Comedy,6.4,2005
+2284,Horror,3.7,2005
+2285,Comedy,6.3,2005
+2286,Crime,6.5,2005
+2287,Comedy,5.9,2005
+2288,Comedy,5.9,2005
+2289,Drama,6.6,2005
+2290,Drama,6.8,2005
+2291,Action,6.7,2005
+2292,Horror,4.6,2005
+2293,Drama,6.5,2005
+2294,Comedy,6.2,2005
+2295,Action,2.4,2005
+2296,Drama,5.1,2005
+2297,Action,4.3,2005
+2298,Crime,6.8,2005
+2299,Drama,5.5,2005
+2300,Adventure,4.7,2005
+2301,Action,7.1,2005
+2302,Drama,6.7,2005
+2303,Drama,5.8,2005
+2304,Adventure,5.2,2005
+2305,Action,4.2,2005
+2306,Comedy,6.5,2005
+2307,Comedy,6.8,2005
+2308,Comedy,7.1,2005
+2309,Drama,7,2005
+2310,Drama,4.2,2005
+2311,Drama,6.5,2005
+2312,Drama,6.1,2005
+2313,Comedy,7.3,2005
+2314,Adventure,7.4,2005
+2315,Drama,6.6,2005
+2316,Comedy,5.6,2005
+2317,Comedy,6.8,2005
+2318,Comedy,6.9,2005
+2319,Action,5.6,2005
+2320,Animation,5.5,2005
+2321,Comedy,6.2,2005
+2322,Drama,7.3,2005
+2323,Comedy,6.9,2005
+2324,Drama,5.2,2005
+2325,Crime,5.6,2005
+2326,Comedy,7.5,2005
+2327,Drama,6.8,2005
+2328,Drama,8.2,2005
+2329,Comedy,6.6,2005
+2330,Action,5.8,2005
+2331,Drama,7.7,2005
+2332,Comedy,3.6,2005
+2333,Comedy,7.4,2005
+2334,Comedy,6.6,2005
+2335,Comedy,5.2,2005
+2336,Crime,8.5,2006
+2337,Action,6,2006
+2338,Comedy,6.6,2006
+2339,Drama,8.5,2006
+2340,Animation,7.1,2006
+2341,Action,7.6,2006
+2342,Comedy,6.9,2006
+2343,Action,8,2006
+2344,Drama,8.2,2006
+2345,Action,7.3,2006
+2346,Adventure,6.6,2006
+2347,Action,7.8,2006
+2348,Comedy,6.3,2006
+2349,Drama,7.5,2006
+2350,Adventure,7.9,2006
+2351,Mystery,6.6,2006
+2352,Biography,8,2006
+2353,Comedy,7.8,2006
+2354,Biography,7.7,2006
+2355,Adventure,8,2006
+2356,Drama,8.4,2006
+2357,Adventure,6.4,2006
+2358,Action,6.9,2006
+2359,Biography,6.5,2006
+2360,Crime,7.6,2006
+2361,Action,7.3,2006
+2362,Comedy,6.4,2006
+2363,Action,6,2006
+2364,Comedy,6.5,2006
+2365,Comedy,5.8,2006
+2366,Action,5.3,2006
+2367,Horror,6.4,2006
+2368,Drama,7.2,2006
+2369,Action,6.7,2006
+2370,Action,6.7,2006
+2371,Comedy,6.4,2006
+2372,Comedy,6.9,2006
+2373,Horror,6.5,2006
+2374,Drama,4.3,2006
+2375,Crime,5.6,2006
+2376,Crime,7.5,2006
+2377,Crime,7.7,2006
+2378,Action,6.7,2006
+2379,Crime,7.7,2006
+2380,Comedy,7.1,2006
+2381,Action,7,2006
+2382,Comedy,7,2006
+2383,Adventure,5.5,2006
+2384,Adventure,6.8,2006
+2385,Drama,7.7,2006
+2386,Comedy,6.4,2006
+2387,Crime,6.5,2006
+2388,Action,7.1,2006
+2389,Comedy,7.3,2006
+2390,Action,5.4,2006
+2391,Drama,5.5,2006
+2392,Action,6.9,2006
+2393,Drama,7.6,2006
+2394,Animation,6.7,2006
+2395,Horror,5.8,2006
+2396,Comedy,7.5,2006
+2397,Biography,6.9,2006
+2398,Comedy,5.4,2006
+2399,Comedy,5.1,2006
+2400,Adventure,7.9,2006
+2401,Comedy,5.8,2006
+2402,Drama,6.7,2006
+2403,Action,7.1,2006
+2404,Action,5.1,2006
+2405,Drama,6.5,2006
+2406,Biography,7.3,2006
+2407,Drama,7.4,2006
+2408,Comedy,7,2006
+2409,Action,6,2006
+2410,Crime,6.2,2006
+2411,Animation,6.4,2006
+2412,Horror,5.8,2006
+2413,Drama,6.9,2006
+2414,Animation,7.7,2006
+2415,Animation,6.6,2006
+2416,Comedy,6.6,2006
+2417,Drama,5.9,2006
+2418,Comedy,5.5,2006
+2419,Comedy,4.5,2006
+2420,Comedy,5.5,2006
+2421,Action,5.7,2006
+2422,Animation,6.6,2006
+2423,Action,6.9,2006
+2424,Action,7.3,2006
+2425,Horror,5.1,2006
+2426,Animation,7.1,2006
+2427,Action,4.8,2006
+2428,Comedy,6.4,2006
+2429,Comedy,6,2006
+2430,Comedy,5.8,2006
+2431,Crime,7.5,2006
+2432,Action,7.6,2006
+2433,Adventure,5.7,2006
+2434,Action,7.9,2006
+2435,Comedy,5.4,2006
+2436,Drama,6.9,2006
+2437,Action,7.1,2006
+2438,Comedy,5.6,2006
+2439,Comedy,7.3,2006
+2440,Action,6.6,2006
+2441,Comedy,5.1,2006
+2442,Action,6.8,2006
+2443,Drama,6.8,2006
+2444,Horror,3.7,2006
+2445,Animation,6.1,2006
+2446,Adventure,6.3,2006
+2447,Drama,7.2,2006
+2448,Action,5.5,2006
+2449,Drama,7.5,2006
+2450,Comedy,6.7,2006
+2451,Animation,6.8,2006
+2452,Comedy,6.3,2006
+2453,Fantasy,5.1,2006
+2454,Drama,6.1,2006
+2455,Horror,5.4,2006
+2456,Crime,7.4,2006
+2457,Comedy,7.2,2006
+2458,Comedy,7.6,2006
+2459,Action,6.7,2006
+2460,Biography,7.1,2006
+2461,Action,5.8,2006
+2462,Drama,5.4,2006
+2463,Comedy,5.7,2006
+2464,Drama,7.1,2006
+2465,Comedy,5.4,2006
+2466,Comedy,5.3,2006
+2467,Action,4.7,2006
+2468,Drama,7.5,2006
+2469,Comedy,6,2006
+2470,Action,4.4,2006
+2471,Biography,6.4,2006
+2472,Drama,7.4,2006
+2473,Biography,6.7,2006
+2474,Drama,7.3,2006
+2475,Animation,5.6,2006
+2476,Animation,6,2006
+2477,Action,4.4,2006
+2478,Adventure,7.3,2006
+2479,Action,7,2006
+2480,Drama,7.3,2006
+2481,Comedy,2.8,2006
+2482,Action,6.5,2006
+2483,Biography,7,2006
+2484,Comedy,5.6,2006
+2485,Animation,6.5,2006
+2486,Animation,6.4,2006
+2487,Adventure,6.1,2006
+2488,Drama,7.7,2006
+2489,Biography,7.2,2006
+2490,Horror,4.6,2006
+2491,Comedy,7.3,2006
+2492,Action,5.1,2006
+2493,Comedy,6.5,2006
+2494,Comedy,5.8,2006
+2495,Drama,6.2,2006
+2496,Biography,6.5,2006
+2497,Action,7.1,2006
+2498,Comedy,6.2,2006
+2499,Action,5.1,2006
+2500,Action,7.6,2006
+2501,Comedy,6.7,2006
+2502,Biography,7,2006
+2503,Drama,7.2,2006
+2504,Animation,5.2,2006
+2505,Biography,7.1,2006
+2506,Comedy,5.8,2006
+2507,Drama,6.6,2006
+2508,Biography,6.9,2006
+2509,Animation,5.8,2006
+2510,Biography,6.4,2006
+2511,Comedy,8.1,2006
+2512,Drama,7.3,2006
+2513,Adventure,4.8,2006
+2514,Biography,7,2006
+2515,Comedy,4.8,2006
+2516,Horror,4.8,2006
+2517,Comedy,6.4,2006
+2518,Comedy,6.3,2006
+2519,Adventure,6.3,2006
+2520,Comedy,6.7,2006
+2521,Comedy,5.8,2006
+2522,Biography,6.4,2006
+2523,Crime,7,2006
+2524,Animation,5.7,2006
+2525,Comedy,6.5,2006
+2526,Drama,6.3,2006
+2527,Drama,6.1,2006
+2528,Drama,6.8,2006
+2529,Horror,5.1,2006
+2530,Comedy,6.3,2006
+2531,Action,6.1,2006
+2532,Action,5.1,2006
+2533,Action,4.6,2006
+2534,Adventure,5.5,2006
+2535,Animation,5,2006
+2536,Drama,8.2,2007
+2537,Crime,8.1,2007
+2538,Adventure,7.6,2007
+2539,Crime,7.6,2007
+2540,Crime,6.8,2007
+2541,Crime,7.7,2007
+2542,Comedy,7.6,2007
+2543,Action,7,2007
+2544,Action,7.5,2007
+2545,Adventure,8.1,2007
+2546,Animation,8,2007
+2547,Drama,7.8,2007
+2548,Action,7.2,2007
+2549,Biography,7.8,2007
+2550,Action,6.2,2007
+2551,Action,7.1,2007
+2552,Action,7.8,2007
+2553,Action,7.1,2007
+2554,Action,7.2,2007
+2555,Sci-Fi,7.2,2007
+2556,Comedy,7.4,2007
+2557,Horror,7,2007
+2558,Action,6.3,2007
+2559,Comedy,7,2007
+2560,Horror,7.1,2007
+2561,Comedy,6.6,2007
+2562,Comedy,6.9,2007
+2563,Drama,7.3,2007
+2564,Action,7.5,2007
+2565,Action,5.3,2007
+2566,Comedy,6.7,2007
+2567,Adventure,7.2,2007
+2568,Drama,7.1,2007
+2569,Comedy,6.2,2007
+2570,Crime,6.6,2007
+2571,Horror,6.1,2007
+2572,Action,7.6,2007
+2573,Action,8,2007
+2574,Comedy,4.1,2007
+2575,Crime,7.2,2007
+2576,Animation,6.2,2007
+2577,Action,6.2,2007
+2578,Action,7.7,2007
+2579,Drama,7.3,2007
+2580,Crime,6.9,2007
+2581,Comedy,6.3,2007
+2582,Animation,6.7,2007
+2583,Action,6.2,2007
+2584,Action,6.6,2007
+2585,Crime,6.5,2007
+2586,Horror,6.2,2007
+2587,Animation,6.1,2007
+2588,Comedy,5.8,2007
+2589,Action,4.6,2007
+2590,Animation,6.1,2007
+2591,Fantasy,6.8,2007
+2592,Action,7,2007
+2593,Biography,7.5,2007
+2594,Comedy,5.6,2007
+2595,Horror,5.5,2007
+2596,Action,5.6,2007
+2597,Adventure,6.1,2007
+2598,Action,6.2,2007
+2599,Drama,5.6,2007
+2600,Horror,7.2,2007
+2601,Adventure,2.4,2007
+2602,Animation,6.8,2007
+2603,Crime,7.2,2007
+2604,Adventure,7.4,2007
+2605,Drama,7.5,2007
+2606,Biography,7,2007
+2607,Horror,6.3,2007
+2608,Biography,7.6,2007
+2609,Crime,7.3,2007
+2610,Crime,7.1,2007
+2611,Animation,5.2,2007
+2612,Comedy,7,2007
+2613,Comedy,6.8,2007
+2614,Action,6.5,2007
+2615,Comedy,7.3,2007
+2616,Drama,7.4,2007
+2617,Comedy,6.1,2007
+2618,Action,6.2,2007
+2619,Crime,5.9,2007
+2620,Drama,5.9,2007
+2621,Animation,7.3,2007
+2622,Action,5.4,2007
+2623,Comedy,7.4,2007
+2624,Action,5.8,2007
+2625,Crime,7.3,2007
+2626,Horror,6.2,2007
+2627,Drama,8.4,2007
+2628,Comedy,6.4,2007
+2629,Crime,5.7,2007
+2630,Action,6,2007
+2631,Comedy,5.3,2007
+2632,Drama,7.5,2007
+2633,Comedy,6.5,2007
+2634,Crime,6.7,2007
+2635,Biography,6.9,2007
+2636,Comedy,5.9,2007
+2637,Crime,6.4,2007
+2638,Action,6.6,2007
+2639,Comedy,5.4,2007
+2640,Comedy,6.7,2007
+2641,Biography,7.7,2007
+2642,Crime,7,2007
+2643,Action,6.7,2007
+2644,Comedy,5.9,2007
+2645,Action,6.2,2007
+2646,Biography,7.6,2007
+2647,Drama,7.8,2007
+2648,Action,6.2,2007
+2649,Drama,7.6,2007
+2650,Biography,6.8,2007
+2651,Comedy,7,2007
+2652,Adventure,4.8,2007
+2653,Comedy,6.3,2007
+2654,Animation,6.2,2007
+2655,Horror,5.1,2007
+2656,Drama,7.7,2007
+2657,Crime,5.6,2007
+2658,Comedy,6.2,2007
+2659,Drama,7.6,2007
+2660,Drama,7.4,2007
+2661,Comedy,3.1,2007
+2662,Drama,5.8,2007
+2663,Biography,7,2007
+2664,Biography,7,2007
+2665,Action,3.8,2007
+2666,Comedy,5.3,2007
+2667,Action,5.4,2007
+2668,Comedy,4.3,2007
+2669,Action,6.8,2007
+2670,Drama,5.8,2007
+2671,Action,6.7,2007
+2672,Adventure,6.4,2007
+2673,Action,8,2007
+2674,Biography,8,2007
+2675,Drama,6.6,2007
+2676,Comedy,6,2007
+2677,Drama,5.4,2007
+2678,Drama,6.7,2007
+2679,Action,6.7,2007
+2680,Drama,6.6,2007
+2681,Comedy,5.9,2007
+2682,Drama,6.4,2007
+2683,Crime,5.9,2007
+2684,Horror,5.6,2007
+2685,Sci-Fi,5.9,2007
+2686,Crime,6.1,2007
+2687,Comedy,2.2,2007
+2688,Animation,8,2007
+2689,Biography,7.5,2007
+2690,Comedy,5.8,2007
+2691,Drama,6.3,2007
+2692,Crime,3.6,2007
+2693,Comedy,6.2,2007
+2694,Action,4.9,2007
+2695,Comedy,5.4,2007
+2696,Comedy,5.7,2007
+2697,Drama,7.9,2007
+2698,Comedy,5.6,2007
+2699,Comedy,5.9,2007
+2700,Crime,6.2,2007
+2701,Crime,4.6,2007
+2702,Comedy,7,2007
+2703,Crime,6.2,2007
+2704,Action,4.8,2007
+2705,Action,5.4,2007
+2706,Fantasy,5.6,2007
+2707,Animation,7.7,2007
+2708,Action,7.2,2007
+2709,Comedy,6.8,2007
+2710,Drama,6.9,2007
+2711,Drama,6.3,2007
+2712,Crime,7.6,2007
+2713,Drama,7.2,2007
+2714,Comedy,5.9,2007
+2715,Comedy,6.4,2007
+2716,Drama,5.9,2007
+2717,Comedy,7.9,2007
+2718,Drama,6.8,2007
+2719,Comedy,5.3,2007
+2720,Crime,5.9,2007
+2721,Action,6.2,2007
+2722,Action,4.8,2007
+2723,Comedy,5.8,2007
+2724,Drama,5.1,2007
+2725,Comedy,6.2,2007
+2726,Drama,5.4,2007
+2727,Drama,6.3,2007
+2728,Comedy,7.1,2007
+2729,Crime,6.7,2007
+2730,Biography,5.7,2007
+2731,Comedy,6.8,2007
+2732,Action,4.5,2007
+2733,Adventure,6.8,2007
+2734,Action,7,2007
+2735,Drama,7.2,2007
+2736,Action,9,2008
+2737,Drama,5.2,2008
+2738,Action,7.9,2008
+2739,Action,6.7,2008
+2740,Animation,7.6,2008
+2741,Action,7,2008
+2742,Comedy,6.9,2008
+2743,Action,6.6,2008
+2744,Comedy,6.4,2008
+2745,Horror,6.2,2008
+2746,Action,6.1,2008
+2747,Action,7.8,2008
+2748,Drama,7.8,2008
+2749,Action,6.7,2008
+2750,Comedy,7,2008
+2751,Drama,7.3,2008
+2752,Comedy,6.5,2008
+2753,Animation,8.4,2008
+2754,Comedy,7.1,2008
+2755,Drama,7.6,2008
+2756,Comedy,7.1,2008
+2757,Comedy,7.9,2008
+2758,Comedy,5.6,2008
+2759,Drama,8,2008
+2760,Comedy,5.5,2008
+2761,Action,7.3,2008
+2762,Drama,8.1,2008
+2763,Biography,6.9,2008
+2764,Drama,7.6,2008
+2765,Drama,7.5,2008
+2766,Action,7,2008
+2767,Horror,6.8,2008
+2768,Drama,5,2008
+2769,Drama,7.9,2008
+2770,Action,7,2008
+2771,Biography,7.7,2008
+2772,Action,6.6,2008
+2773,Adventure,5.9,2008
+2774,Biography,6.7,2008
+2775,Crime,6.8,2008
+2776,Action,6.6,2008
+2777,Action,5.2,2008
+2778,Action,6.4,2008
+2779,Action,5.8,2008
+2780,Thriller,7.4,2008
+2781,Animation,6.8,2008
+2782,Comedy,6.5,2008
+2783,Action,6.3,2008
+2784,Action,6.5,2008
+2785,Action,6.9,2008
+2786,Drama,7.8,2008
+2787,Drama,7.1,2008
+2788,Comedy,6.1,2008
+2789,Crime,7.9,2008
+2790,Comedy,6.8,2008
+2791,Action,7.2,2008
+2792,Comedy,6.1,2008
+2793,Comedy,7.1,2008
+2794,Action,6.6,2008
+2795,Action,7.1,2008
+2796,Adventure,6.6,2008
+2797,Comedy,6.8,2008
+2798,Action,7.1,2008
+2799,Comedy,1.9,2008
+2800,Action,4.6,2008
+2801,Animation,7.7,2008
+2802,Action,6.1,2008
+2803,Action,6,2008
+2804,Crime,7.2,2008
+2805,Action,6.8,2008
+2806,Action,6.5,2008
+2807,Action,5.9,2008
+2808,Comedy,5.5,2008
+2809,Action,7,2008
+2810,Drama,7.6,2008
+2811,Comedy,7.1,2008
+2812,Action,5.7,2008
+2813,Drama,7.3,2008
+2814,Comedy,6.6,2008
+2815,Action,6.5,2008
+2816,Action,5.9,2008
+2817,Action,5.3,2008
+2818,Drama,5.5,2008
+2819,Biography,7.5,2008
+2820,Animation,6.6,2008
+2821,Action,4.8,2008
+2822,Comedy,6.7,2008
+2823,Comedy,6.8,2008
+2824,Comedy,6.2,2008
+2825,Drama,6.2,2008
+2826,Comedy,5.8,2008
+2827,Horror,6.6,2008
+2828,Action,6.2,2008
+2829,Crime,5.8,2008
+2830,Comedy,7.1,2008
+2831,Biography,7.5,2008
+2832,Animation,6.8,2008
+2833,Comedy,5,2008
+2834,Comedy,6.4,2008
+2835,Drama,7.5,2008
+2836,Adventure,6,2008
+2837,Action,5.1,2008
+2838,Horror,6,2008
+2839,Action,5.7,2008
+2840,Comedy,5.9,2008
+2841,Comedy,6.1,2008
+2842,Action,6.8,2008
+2843,Adventure,6.1,2008
+2844,Action,6.7,2008
+2845,Action,6.6,2008
+2846,Biography,6.3,2008
+2847,Comedy,1.9,2008
+2848,Crime,6.2,2008
+2849,Action,7.4,2008
+2850,Comedy,6.8,2008
+2851,Biography,6.4,2008
+2852,Action,6.1,2008
+2853,Horror,3.9,2008
+2854,Comedy,4.9,2008
+2855,Drama,6.7,2008
+2856,Crime,6,2008
+2857,Comedy,6,2008
+2858,Comedy,2.8,2008
+2859,Animation,5.9,2008
+2860,Horror,6.1,2008
+2861,Adventure,6.6,2008
+2862,Comedy,6,2008
+2863,Adventure,6,2008
+2864,Adventure,6.5,2008
+2865,Horror,5.9,2008
+2866,Action,5.4,2008
+2867,Drama,6,2008
+2868,Comedy,5.7,2008
+2869,Comedy,6.2,2008
+2870,Crime,6.6,2008
+2871,Drama,6.6,2008
+2872,Biography,7.2,2008
+2873,Biography,6.2,2008
+2874,Drama,6.5,2008
+2875,Adventure,5.3,2008
+2876,Biography,7.7,2008
+2877,Crime,7,2008
+2878,Drama,6.4,2008
+2879,Drama,7,2008
+2880,Action,5.6,2008
+2881,Action,7,2008
+2882,Action,6,2008
+2883,Action,7.3,2008
+2884,Romance,5.9,2008
+2885,Horror,5.2,2008
+2886,Crime,6.1,2008
+2887,Action,7.3,2008
+2888,Crime,5.1,2008
+2889,Drama,5.4,2008
+2890,Comedy,3.8,2008
+2891,Crime,5,2008
+2892,Crime,5.9,2008
+2893,Adventure,5.2,2008
+2894,Drama,7.1,2008
+2895,Comedy,7.1,2008
+2896,Horror,4,2008
+2897,Crime,6.7,2008
+2898,Crime,6.1,2008
+2899,Drama,6.5,2008
+2900,Action,7,2008
+2901,Comedy,5.9,2008
+2902,Comedy,6.2,2008
+2903,Crime,7.2,2008
+2904,Biography,7,2008
+2905,Fantasy,6.6,2008
+2906,Comedy,7,2008
+2907,Adventure,3.8,2008
+2908,Animation,8,2008
+2909,Drama,6.7,2008
+2910,Drama,8.1,2008
+2911,Comedy,5.8,2008
+2912,Crime,6.8,2008
+2913,Drama,6.7,2008
+2914,Animation,6.1,2008
+2915,Comedy,4.4,2008
+2916,Crime,6,2008
+2917,Comedy,6.6,2008
+2918,Comedy,6.4,2008
+2919,Biography,7.3,2008
+2920,Comedy,6.7,2008
+2921,Action,7.4,2008
+2922,Comedy,5.6,2008
+2923,Adventure,5,2008
+2924,Action,7.1,2008
+2925,Action,5.1,2008
+2926,Animation,6,2008
+2927,Comedy,7,2008
+2928,Comedy,6.4,2008
+2929,Adventure,4.7,2008
+2930,Crime,7.1,2008
+2931,Comedy,4.7,2008
+2932,Drama,6.6,2008
+2933,Comedy,5.5,2008
+2934,Drama,5.8,2008
+2935,Crime,6.3,2008
+2936,Adventure,8.3,2009
+2937,Action,7.9,2009
+2938,Action,7.8,2009
+2939,Comedy,5.3,2009
+2940,Action,7.6,2009
+2941,Action,6.6,2009
+2942,Action,5.8,2009
+2943,Comedy,7.7,2009
+2944,Action,7.6,2009
+2945,Comedy,6.4,2009
+2946,Action,5.8,2009
+2947,Drama,6.7,2009
+2948,Crime,7.1,2009
+2949,Adventure,7.6,2009
+2950,Comedy,7.7,2009
+2951,Action,7.6,2009
+2952,Action,7.9,2009
+2953,Biography,7.6,2009
+2954,Animation,8.2,2009
+2955,Action,6.6,2009
+2956,Animation,7.9,2009
+2957,Action,7.1,2009
+2958,Horror,7,2009
+2959,Comedy,8.4,2009
+2960,Adventure,6.6,2009
+2961,Action,6,2009
+2962,Comedy,7.4,2009
+2963,Adventure,4.7,2009
+2964,Drama,6.6,2009
+2965,Horror,5.5,2009
+2966,Animation,7.1,2009
+2967,Action,6.5,2009
+2968,Animation,7.7,2009
+2969,Drama,7.8,2009
+2970,Comedy,7,2009
+2971,Biography,7,2009
+2972,Horror,4.4,2009
+2973,Action,7.4,2009
+2974,Comedy,6.7,2009
+2975,Drama,7.8,2009
+2976,Drama,7.3,2009
+2977,Comedy,6.4,2009
+2978,Action,6.2,2009
+2979,Comedy,6.1,2009
+2980,Drama,7.2,2009
+2981,Action,6.7,2009
+2982,Drama,7.2,2009
+2983,Drama,6.9,2009
+2984,Drama,8.2,2009
+2985,Action,6.7,2009
+2986,Animation,6.4,2009
+2987,Action,6.6,2009
+2988,Comedy,5.5,2009
+2989,Drama,6.8,2009
+2990,Horror,6.5,2009
+2991,Horror,6.5,2009
+2992,Crime,7.8,2009
+2993,Crime,5.6,2009
+2994,Adventure,6.7,2009
+2995,Horror,5.1,2009
+2996,Action,5.8,2009
+2997,Adventure,6.8,2009
+2998,Adventure,6,2009
+2999,Comedy,4.9,2009
+3000,Comedy,6.8,2009
+3001,Drama,7.3,2009
+3002,Drama,7.1,2009
+3003,Animation,6.9,2009
+3004,Drama,6.5,2009
+3005,Biography,7.3,2009
+3006,Crime,7.8,2009
+3007,Comedy,6.4,2009
+3008,Comedy,6.4,2009
+3009,Horror,5.9,2009
+3010,Comedy,7.1,2009
+3011,Comedy,6.1,2009
+3012,Horror,6.4,2009
+3013,Action,6.3,2009
+3014,Comedy,6.2,2009
+3015,Action,5.3,2009
+3016,Drama,7.5,2009
+3017,Drama,5.1,2009
+3018,Comedy,7.4,2009
+3019,Action,2.5,2009
+3020,Comedy,5.8,2009
+3021,Horror,6.2,2009
+3022,Action,6.4,2009
+3023,Comedy,6.5,2009
+3024,Horror,4.8,2009
+3025,Action,5.2,2009
+3026,Drama,6.3,2009
+3027,Adventure,7.2,2009
+3028,Comedy,6.4,2009
+3029,Action,6.4,2009
+3030,Drama,7.3,2009
+3031,Drama,7.2,2009
+3032,Animation,6.9,2009
+3033,Action,6.2,2009
+3034,Action,6.5,2009
+3035,Drama,6.3,2009
+3036,Horror,5.4,2009
+3037,Biography,7,2009
+3038,Comedy,5.9,2009
+3039,Action,5.7,2009
+3040,Animation,7.1,2009
+3041,Biography,7.3,2009
+3042,Drama,5.7,2009
+3043,Crime,7.9,2009
+3044,Drama,7.4,2009
+3045,Comedy,5.5,2009
+3046,Action,6.3,2009
+3047,Action,6.1,2009
+3048,Comedy,6.3,2009
+3049,Horror,6,2009
+3050,Drama,7.3,2009
+3051,Action,6.1,2009
+3052,Drama,5.9,2009
+3053,Drama,5.8,2009
+3054,Drama,5,2009
+3055,Action,5.2,2009
+3056,Drama,5.6,2009
+3057,Adventure,7.1,2009
+3058,Comedy,5.8,2009
+3059,Comedy,5.3,2009
+3060,Drama,4.8,2009
+3061,Drama,7.1,2009
+3062,Biography,6.7,2009
+3063,Comedy,5.4,2009
+3064,Comedy,4.8,2009
+3065,Comedy,5.3,2009
+3066,Biography,7.1,2009
+3067,Drama,5.5,2009
+3068,Action,7.2,2009
+3069,Comedy,5.8,2009
+3070,Drama,5.9,2009
+3071,Biography,6.6,2009
+3072,Crime,6.6,2009
+3073,Action,7.4,2009
+3074,Action,6.7,2009
+3075,Comedy,7.4,2009
+3076,Drama,7.8,2009
+3077,Action,6.3,2009
+3078,Comedy,7.1,2009
+3079,Comedy,4.6,2009
+3080,Drama,8,2009
+3081,Animation,4.5,2009
+3082,Action,5.6,2009
+3083,Comedy,4.9,2009
+3084,Comedy,5.1,2009
+3085,Drama,7,2009
+3086,Horror,6.4,2009
+3087,Comedy,6.8,2009
+3088,Animation,6.3,2009
+3089,Adventure,6,2009
+3090,Comedy,5.9,2009
+3091,Animation,5.1,2009
+3092,Comedy,4.9,2009
+3093,Adventure,7,2009
+3094,Drama,5.7,2009
+3095,Crime,7.3,2009
+3096,Comedy,6.4,2009
+3097,Comedy,5.8,2009
+3098,Biography,6.9,2009
+3099,Action,7.2,2009
+3100,Comedy,6.2,2009
+3101,Action,5.6,2009
+3102,Biography,6.4,2009
+3103,Comedy,6.4,2009
+3104,Animation,6,2009
+3105,Crime,6.7,2009
+3106,Comedy,4.5,2009
+3107,Animation,6.8,2009
+3108,Adventure,7.6,2009
+3109,Comedy,7.4,2009
+3110,Biography,6.7,2009
+3111,Comedy,6.3,2009
+3112,Animation,7.5,2009
+3113,Drama,7.1,2009
+3114,Action,4.5,2009
+3115,Biography,6.7,2009
+3116,Comedy,6.9,2009
+3117,Action,5.5,2009
+3118,Crime,5.9,2009
+3119,Comedy,6.6,2009
+3120,Animation,7.6,2009
+3121,Crime,6.7,2009
+3122,Comedy,5.8,2009
+3123,Comedy,5,2009
+3124,Action,5.8,2009
+3125,Adventure,5.4,2009
+3126,Action,3.7,2009
+3127,Drama,6.1,2009
+3128,Drama,7.2,2009
+3129,Action,5.6,2009
+3130,Biography,7.5,2009
+3131,Adventure,6.2,2009
+3132,Comedy,6.2,2009
+3133,Drama,5.8,2009
+3134,Drama,6.7,2009
+3135,Horror,6.5,2009
+3136,Action,8.8,2010
+3137,Action,7,2010
+3138,Mystery,8.2,2010
+3139,Action,7.5,2010
+3140,Comedy,5.9,2010
+3141,Comedy,6.4,2010
+3142,Action,7.6,2010
+3143,Drama,8,2010
+3144,Crime,7.5,2010
+3145,Adventure,7.7,2010
+3146,Comedy,7.7,2010
+3147,Biography,7.7,2010
+3148,Action,6.6,2010
+3149,Adventure,6.4,2010
+3150,Horror,6.8,2010
+3151,Animation,7.7,2010
+3152,Action,7,2010
+3153,Horror,6.3,2010
+3154,Action,4,2010
+3155,Animation,8.1,2010
+3156,Crime,6.3,2010
+3157,Drama,8.3,2010
+3158,Comedy,4.5,2010
+3159,Drama,6.4,2010
+3160,Adventure,6.4,2010
+3161,Animation,7.6,2010
+3162,Comedy,6.7,2010
+3163,Drama,7.6,2010
+3164,Action,6,2010
+3165,Action,5,2010
+3166,Adventure,5.9,2010
+3167,Action,5.8,2010
+3168,Action,6.9,2010
+3169,Drama,7.3,2010
+3170,Action,6.3,2010
+3171,Comedy,5.4,2010
+3172,Biography,7.5,2010
+3173,Action,6.5,2010
+3174,Action,6.6,2010
+3175,Action,6.8,2010
+3176,Comedy,6.5,2010
+3177,Action,7.8,2010
+3178,Animation,8.2,2010
+3179,Action,7.3,2010
+3180,Comedy,7,2010
+3181,Biography,8,2010
+3182,Biography,7.8,2010
+3183,Action,6.6,2010
+3184,Drama,6.8,2010
+3185,Animation,7.2,2010
+3186,Action,6.3,2010
+3187,Action,6.8,2010
+3188,Action,6.2,2010
+3189,Biography,5.8,2010
+3190,Action,6.3,2010
+3191,Action,6.7,2010
+3192,Crime,7.3,2010
+3193,Comedy,6.4,2010
+3194,Action,6.6,2010
+3195,Animation,6.2,2010
+3196,Drama,7.1,2010
+3197,Action,6.4,2010
+3198,Drama,7,2010
+3199,Action,5.3,2010
+3200,Drama,7.1,2010
+3201,Action,4.7,2010
+3202,Action,6.4,2010
+3203,Comedy,6.5,2010
+3204,Drama,7.2,2010
+3205,Crime,5.2,2010
+3206,Action,5.8,2010
+3207,Action,6.2,2010
+3208,Comedy,7.5,2010
+3209,Adventure,7.3,2010
+3210,Action,5.5,2010
+3211,Comedy,7.5,2010
+3212,Comedy,6.5,2010
+3213,Horror,6.2,2010
+3214,Action,6.8,2010
+3215,Action,6.4,2010
+3216,Action,6.7,2010
+3217,Comedy,7.1,2010
+3218,Horror,6.5,2010
+3219,Animation,6.3,2010
+3220,Adventure,6.3,2010
+3221,Crime,5.6,2010
+3222,Drama,7.1,2010
+3223,Drama,5.8,2010
+3224,Comedy,7,2010
+3225,Comedy,6.3,2010
+3226,Comedy,6.5,2010
+3227,Comedy,7.3,2010
+3228,Comedy,5.5,2010
+3229,Biography,6.5,2010
+3230,Action,6.1,2010
+3231,Action,5.5,2010
+3232,Adventure,6.1,2010
+3233,Horror,6,2010
+3234,Crime,7.2,2010
+3235,Action,4.4,2010
+3236,Drama,6.7,2010
+3237,Action,6.6,2010
+3238,Action,7.8,2010
+3239,Comedy,6.5,2010
+3240,Drama,7,2010
+3241,Comedy,5.7,2010
+3242,Adventure,6.5,2010
+3243,Drama,6.3,2010
+3244,Comedy,6.3,2010
+3245,Comedy,5.9,2010
+3246,Comedy,5.4,2010
+3247,Animation,7.6,2010
+3248,Adventure,4.9,2010
+3249,Comedy,7.3,2010
+3250,Comedy,5,2010
+3251,Comedy,6.1,2010
+3252,Drama,6.2,2010
+3253,Comedy,7.4,2010
+3254,Comedy,5.1,2010
+3255,Action,6.4,2010
+3256,Drama,7.3,2010
+3257,Drama,6.2,2010
+3258,Drama,6,2010
+3259,Action,5.6,2010
+3260,Comedy,5.8,2010
+3261,Drama,7.5,2010
+3262,Comedy,5.8,2010
+3263,Action,5.6,2010
+3264,Action,6.4,2010
+3265,Action,7.6,2010
+3266,Comedy,6.1,2010
+3267,Crime,6.3,2010
+3268,Action,6.8,2010
+3269,Comedy,5.6,2010
+3270,Comedy,6.3,2010
+3271,Comedy,6.3,2010
+3272,Biography,7.2,2010
+3273,Action,7.5,2010
+3274,Comedy,5.7,2010
+3275,Action,5.5,2010
+3276,Drama,6.4,2010
+3277,Action,6.3,2010
+3278,Comedy,3.4,2010
+3279,Comedy,6.2,2010
+3280,Biography,7.1,2010
+3281,Comedy,6.2,2010
+3282,Action,5.6,2010
+3283,Drama,6.4,2010
+3284,Comedy,7.2,2010
+3285,Animation,6.9,2010
+3286,Drama,7,2010
+3287,Adventure,6.6,2010
+3288,Biography,7.2,2010
+3289,Crime,6.9,2010
+3290,Drama,8,2010
+3291,Drama,6.6,2010
+3292,Drama,6.7,2010
+3293,Comedy,6.3,2010
+3294,Horror,5.7,2010
+3295,Crime,6.1,2010
+3296,Comedy,5.8,2010
+3297,Comedy,6.1,2010
+3298,Drama,5.4,2010
+3299,Comedy,4.7,2010
+3300,Horror,5.7,2010
+3301,Comedy,6.4,2010
+3302,Crime,6.2,2010
+3303,Biography,6.8,2010
+3304,Crime,7,2010
+3305,Comedy,5.4,2010
+3306,Drama,6.4,2010
+3307,Drama,8.2,2010
+3308,Fantasy,5.6,2010
+3309,Drama,6.3,2010
+3310,Comedy,7.1,2010
+3311,Drama,6.4,2010
+3312,Action,6.7,2010
+3313,Drama,6.5,2010
+3314,Horror,4.9,2010
+3315,Comedy,7.3,2010
+3316,Comedy,6.3,2010
+3317,Crime,6.9,2010
+3318,Comedy,3.8,2010
+3319,Comedy,5.4,2010
+3320,Comedy,6,2010
+3321,Drama,6.4,2010
+3322,Animation,4.6,2010
+3323,Horror,4.8,2010
+3324,Drama,7.5,2010
+3325,Action,6.3,2010
+3326,Action,5.5,2010
+3327,Comedy,7,2010
+3328,Drama,7,2010
+3329,Drama,6.1,2010
+3330,Comedy,6.8,2010
+3331,Biography,5.6,2010
+3332,Crime,6.5,2010
+3333,Drama,4.6,2010
+3334,Comedy,5.7,2010
+3335,Drama,6.4,2010
+3336,Action,6.9,2011
+3337,Action,7,2011
+3338,Adventure,8.1,2011
+3339,Drama,7.4,2011
+3340,Comedy,6.8,2011
+3341,Action,7.3,2011
+3342,Comedy,7.7,2011
+3343,Biography,7.6,2011
+3344,Crime,7.8,2011
+3345,Comedy,6.4,2011
+3346,Biography,8.5,2011
+3347,Crime,7.8,2011
+3348,Action,5.5,2011
+3349,Horror,7,2011
+3350,Drama,8,2011
+3351,Comedy,7.4,2011
+3352,Comedy,6.2,2011
+3353,Action,6.6,2011
+3354,Action,6,2011
+3355,Action,8.1,2011
+3356,Animation,7.2,2011
+3357,Comedy,6.5,2011
+3358,Action,6,2011
+3359,Action,7.7,2011
+3360,Drama,6.7,2011
+3361,Comedy,5.6,2011
+3362,Action,6.7,2011
+3363,Drama,7,2011
+3364,Horror,6.1,2011
+3365,Drama,7.2,2011
+3366,Action,7.4,2011
+3367,Mystery,7,2011
+3368,Drama,7.5,2011
+3369,Sci-Fi,7.4,2011
+3370,Action,6.8,2011
+3371,Action,6.2,2011
+3372,Action,6,2011
+3373,Drama,7.1,2011
+3374,Adventure,4.9,2011
+3375,Action,5.2,2011
+3376,Animation,6.1,2011
+3377,Animation,7.2,2011
+3378,Drama,7.2,2011
+3379,Action,7.5,2011
+3380,Action,7,2011
+3381,Comedy,6.8,2011
+3382,Animation,6.9,2011
+3383,Drama,7.6,2011
+3384,Action,7.5,2011
+3385,Action,5.7,2011
+3386,Drama,5.3,2011
+3387,Action,6.2,2011
+3388,Adventure,7,2011
+3389,Comedy,7.1,2011
+3390,Action,7.5,2011
+3391,Adventure,5.5,2011
+3392,Crime,7.3,2011
+3393,Action,6.4,2011
+3394,Comedy,6.1,2011
+3395,Action,5.1,2011
+3396,Drama,8.3,2011
+3397,Drama,7.5,2011
+3398,Romance,7,2011
+3399,Comedy,6.1,2011
+3400,Drama,6.8,2011
+3401,Drama,6.2,2011
+3402,Crime,6.7,2011
+3403,Drama,7.3,2011
+3404,Biography,7.1,2011
+3405,Action,7.2,2011
+3406,Comedy,6.3,2011
+3407,Action,7.6,2011
+3408,Drama,7.1,2011
+3409,Drama,6.9,2011
+3410,Action,6.8,2011
+3411,Comedy,7.6,2011
+3412,Comedy,7.3,2011
+3413,Animation,7.3,2011
+3414,Action,4.9,2011
+3415,Action,5.8,2011
+3416,Action,6.1,2011
+3417,Comedy,5.9,2011
+3418,Horror,6.6,2011
+3419,Comedy,8.2,2011
+3420,Adventure,6.7,2011
+3421,Horror,6.2,2011
+3422,Action,5.4,2011
+3423,Comedy,3.3,2011
+3424,Comedy,5.2,2011
+3425,Comedy,6.4,2011
+3426,Comedy,5.8,2011
+3427,Comedy,7.3,2011
+3428,Action,6.8,2011
+3429,Comedy,5.7,2011
+3430,Comedy,6.3,2011
+3431,Action,6.6,2011
+3432,Action,4.3,2011
+3433,Action,5.7,2011
+3434,Action,5.8,2011
+3435,Action,6.4,2011
+3436,Horror,4,2011
+3437,Biography,6.5,2011
+3438,Drama,6,2011
+3439,Action,5.8,2011
+3440,Biography,6.4,2011
+3441,Adventure,7.1,2011
+3442,Animation,5.4,2011
+3443,Drama,7.1,2011
+3444,Comedy,6.4,2011
+3445,Biography,7,2011
+3446,Comedy,7.9,2011
+3447,Drama,6.9,2011
+3448,Drama,7.6,2011
+3449,Biography,6.6,2011
+3450,Comedy,5.9,2011
+3451,Horror,3.8,2011
+3452,Action,5.7,2011
+3453,Action,6.3,2011
+3454,Comedy,6.7,2011
+3455,Comedy,3.2,2011
+3456,Animation,6.5,2011
+3457,Action,6.4,2011
+3458,Comedy,7.2,2011
+3459,Action,6.7,2011
+3460,Comedy,7.3,2011
+3461,Comedy,6.3,2011
+3462,Biography,7.1,2011
+3463,Drama,6.9,2011
+3464,Drama,7.1,2011
+3465,Drama,6.7,2011
+3466,Comedy,6.1,2011
+3467,Drama,7.7,2011
+3468,Animation,5.9,2011
+3469,Animation,6.6,2011
+3470,Drama,5.6,2011
+3471,Drama,6.6,2011
+3472,Biography,6.9,2011
+3473,Adventure,6.7,2011
+3474,Comedy,6.2,2011
+3475,Biography,6.8,2011
+3476,Action,5.4,2011
+3477,Drama,5.3,2011
+3478,Animation,7.2,2011
+3479,Action,6.1,2011
+3480,Action,6.2,2011
+3481,Comedy,6.2,2011
+3482,Animation,3.5,2011
+3483,Drama,5.8,2011
+3484,Fantasy,5.5,2011
+3485,Drama,4.8,2011
+3486,Comedy,6.8,2011
+3487,Adventure,5.8,2011
+3488,Drama,6,2011
+3489,Comedy,5.7,2011
+3490,Drama,6.6,2011
+3491,Drama,6.3,2011
+3492,Comedy,6.8,2011
+3493,Adventure,6.9,2011
+3494,Animation,4.3,2011
+3495,Drama,6.7,2011
+3496,Comedy,6.4,2011
+3497,Drama,7.6,2011
+3498,Drama,6.2,2011
+3499,Action,5.9,2011
+3500,Comedy,6.2,2011
+3501,Action,7.5,2011
+3502,Action,5.8,2011
+3503,Action,6.2,2011
+3504,Crime,5.3,2011
+3505,Action,6.8,2011
+3506,Animation,7.4,2011
+3507,Action,6.1,2011
+3508,Biography,6.4,2011
+3509,Comedy,6.7,2011
+3510,Comedy,6,2011
+3511,Crime,5.7,2011
+3512,Comedy,6.6,2011
+3513,Comedy,6.1,2011
+3514,Action,6.4,2011
+3515,Drama,7,2011
+3516,Drama,7.6,2011
+3517,Horror,5.2,2011
+3518,Drama,6.9,2011
+3519,Animation,5.4,2011
+3520,Drama,5.6,2011
+3521,Drama,6.1,2011
+3522,Drama,5.6,2011
+3523,Drama,5.8,2011
+3524,Animation,5.9,2011
+3525,Biography,6.7,2011
+3526,Drama,6.6,2011
+3527,Action,6.7,2011
+3528,Drama,6,2011
+3529,Comedy,7.1,2011
+3530,Drama,7.7,2011
+3531,Action,4.4,2011
+3532,Drama,7.6,2011
+3533,Crime,7.9,2011
+3534,Comedy,5.3,2011
+3535,Drama,6.8,2011
+3536,Action,8,2012
+3537,Drama,8.4,2012
+3538,Adventure,7.8,2012
+3539,Action,7.2,2012
+3540,Action,8.4,2012
+3541,Comedy,7.1,2012
+3542,Comedy,6.2,2012
+3543,Drama,8.3,2012
+3544,Adventure,7,2012
+3545,Comedy,7.8,2012
+3546,Drama,7.6,2012
+3547,Biography,7.7,2012
+3548,Adventure,5.5,2012
+3549,Action,7,2012
+3550,Drama,7.4,2012
+3551,Action,7.4,2012
+3552,Action,7.7,2012
+3553,Drama,7.9,2012
+3554,Action,6.9,2012
+3555,Drama,7.6,2012
+3556,Comedy,7.7,2012
+3557,Action,6.1,2012
+3558,Drama,7.2,2012
+3559,Action,7.4,2012
+3560,Crime,6.2,2012
+3561,Drama,7.3,2012
+3562,Action,7.2,2012
+3563,Comedy,6.9,2012
+3564,Horror,6.8,2012
+3565,Action,6.3,2012
+3566,Comedy,5.5,2012
+3567,Biography,7.3,2012
+3568,Animation,7.1,2012
+3569,Crime,7.3,2012
+3570,Action,7.1,2012
+3571,Comedy,6.2,2012
+3572,Action,6.6,2012
+3573,Action,5.8,2012
+3574,Comedy,6.1,2012
+3575,Animation,7.1,2012
+3576,Crime,7.3,2012
+3577,Crime,5.3,2012
+3578,Action,6.3,2012
+3579,Comedy,3.7,2012
+3580,Action,6.7,2012
+3581,Adventure,6.7,2012
+3582,Drama,7.1,2012
+3583,Action,6.6,2012
+3584,Action,5.9,2012
+3585,Animation,7.7,2012
+3586,Action,6.2,2012
+3587,Comedy,6.6,2012
+3588,Comedy,6.7,2012
+3589,Comedy,5.6,2012
+3590,Crime,6.5,2012
+3591,Adventure,7.9,2012
+3592,Drama,6.6,2012
+3593,Action,5.4,2012
+3594,Action,6.8,2012
+3595,Action,5.8,2012
+3596,Comedy,7.2,2012
+3597,Comedy,5.9,2012
+3598,Comedy,6.4,2012
+3599,Comedy,5.7,2012
+3600,Action,6.6,2012
+3601,Comedy,7,2012
+3602,Adventure,7,2012
+3603,Action,5.4,2012
+3604,Action,7.6,2012
+3605,Action,5.7,2012
+3606,Drama,7.4,2012
+3607,Animation,6.4,2012
+3608,Action,6.6,2012
+3609,Animation,6.3,2012
+3610,Drama,6.5,2012
+3611,Animation,7.3,2012
+3612,Biography,6.8,2012
+3613,Horror,6.1,2012
+3614,Drama,6.5,2012
+3615,Comedy,7.5,2012
+3616,Animation,6.8,2012
+3617,Comedy,6.2,2012
+3618,Drama,5.6,2012
+3619,Biography,7.2,2012
+3620,Drama,6.4,2012
+3621,Comedy,5.1,2012
+3622,Comedy,6.5,2012
+3623,Drama,6.8,2012
+3624,Action,6.3,2012
+3625,Crime,6.4,2012
+3626,Drama,7.5,2012
+3627,Drama,6.4,2012
+3628,Action,6.1,2012
+3629,Action,6.5,2012
+3630,Adventure,5.3,2012
+3631,Adventure,6.1,2012
+3632,Action,5.7,2012
+3633,Comedy,4.4,2012
+3634,Action,5.9,2012
+3635,Comedy,6.8,2012
+3636,Animation,6.5,2012
+3637,Horror,5.8,2012
+3638,Horror,6,2012
+3639,Adventure,5.6,2012
+3640,Drama,4.8,2012
+3641,Biography,6.8,2012
+3642,Horror,5.2,2012
+3643,Drama,6.4,2012
+3644,Comedy,7.2,2012
+3645,Comedy,7.2,2012
+3646,Crime,5.8,2012
+3647,Horror,5.9,2012
+3648,Action,5,2012
+3649,Action,6.5,2012
+3650,Comedy,6.4,2012
+3651,Action,5.2,2012
+3652,Drama,7.9,2012
+3653,Comedy,5.7,2012
+3654,Drama,6.8,2012
+3655,Action,6.4,2012
+3656,Horror,6.1,2012
+3657,Comedy,6.4,2012
+3658,Comedy,6.3,2012
+3659,Comedy,6.7,2012
+3660,Animation,7,2012
+3661,Action,6.4,2012
+3662,Drama,6.2,2012
+3663,Drama,6.6,2012
+3664,Action,5.4,2012
+3665,Crime,5.1,2012
+3666,Comedy,6.1,2012
+3667,Animation,6.9,2012
+3668,Biography,7.5,2012
+3669,Comedy,5.7,2012
+3670,Comedy,6.5,2012
+3671,Crime,6.3,2012
+3672,Horror,5.7,2012
+3673,Drama,7,2012
+3674,Drama,7.7,2012
+3675,Comedy,6.4,2012
+3676,Drama,6.9,2012
+3677,Comedy,7,2012
+3678,Action,5,2012
+3679,Drama,6.6,2012
+3680,Adventure,7.3,2012
+3681,Action,5.9,2012
+3682,Drama,7.4,2012
+3683,Action,4.9,2012
+3684,Horror,4.1,2012
+3685,Drama,5.9,2012
+3686,Action,6.1,2012
+3687,Biography,7.1,2012
+3688,Action,5.3,2012
+3689,Comedy,5.3,2012
+3690,Comedy,4.8,2012
+3691,Mystery,8.1,2012
+3692,Comedy,6,2012
+3693,Crime,6.4,2012
+3694,Comedy,6.7,2012
+3695,Action,5.5,2012
+3696,Adventure,7.2,2012
+3697,Horror,4.6,2012
+3698,Comedy,6.8,2012
+3699,Drama,5.8,2012
+3700,Comedy,5.7,2012
+3701,Drama,6.4,2012
+3702,Drama,6.4,2012
+3703,Comedy,6.6,2012
+3704,Action,6.5,2012
+3705,Drama,6,2012
+3706,Drama,7.5,2012
+3707,Adventure,6.5,2012
+3708,Animation,6.7,2012
+3709,Horror,5,2012
+3710,Comedy,6.6,2012
+3711,Crime,7.2,2012
+3712,Comedy,6.3,2012
+3713,Comedy,7.1,2012
+3714,Comedy,4.7,2012
+3715,Action,7.2,2012
+3716,Action,6.1,2012
+3717,Comedy,5.2,2012
+3718,Comedy,8.1,2012
+3719,Crime,5.4,2012
+3720,Comedy,7,2012
+3721,Comedy,5.9,2012
+3722,Drama,7,2012
+3723,Animation,5.9,2012
+3724,Drama,6.9,2012
+3725,Comedy,7.1,2012
+3726,Drama,6.3,2012
+3727,Comedy,6,2012
+3728,Biography,6.5,2012
+3729,Drama,7.4,2012
+3730,Horror,4.2,2012
+3731,Comedy,6.3,2012
+3732,Adventure,5.4,2012
+3733,Drama,6.2,2012
+3734,Comedy,7,2012
+3735,Comedy,7.1,2012
+3736,Biography,8.2,2013
+3737,Action,7.1,2013
+3738,Horror,7.5,2013
+3739,Crime,8.1,2013
+3740,Action,6.8,2013
+3741,Horror,5.7,2013
+3742,Comedy,5.4,2013
+3743,Action,7,2013
+3744,Drama,7.7,2013
+3745,Comedy,7.8,2013
+3746,Adventure,7.8,2013
+3747,Action,7,2013
+3748,Drama,6.3,2013
+3749,Drama,7.7,2013
+3750,Comedy,7.3,2013
+3751,Drama,8,2013
+3752,Action,7.1,2013
+3753,Comedy,7,2013
+3754,Action,6.5,2013
+3755,Animation,7.4,2013
+3756,Drama,7.2,2013
+3757,Crime,7.2,2013
+3758,Adventure,5.3,2013
+3759,Action,8.1,2013
+3760,Animation,7.2,2013
+3761,Comedy,6.5,2013
+3762,Crime,7.2,2013
+3763,Action,7,2013
+3764,Comedy,5.7,2013
+3765,Drama,6.9,2013
+3766,Action,7.7,2013
+3767,Action,7.5,2013
+3768,Action,6.5,2013
+3769,Comedy,4.3,2013
+3770,Action,7,2013
+3771,Biography,8.1,2013
+3772,Action,5.8,2013
+3773,Biography,8,2013
+3774,Adventure,7.3,2013
+3775,Action,6.9,2013
+3776,Animation,7.2,2013
+3777,Comedy,6.6,2013
+3778,Comedy,7.4,2013
+3779,Comedy,6.3,2013
+3780,Action,6.6,2013
+3781,Action,6.1,2013
+3782,Adventure,7.8,2013
+3783,Horror,6.5,2013
+3784,Action,6.3,2013
+3785,Drama,6.9,2013
+3786,Action,6.5,2013
+3787,Action,7.5,2013
+3788,Adventure,6.3,2013
+3789,Action,6.4,2013
+3790,Action,5.7,2013
+3791,Action,6.8,2013
+3792,Drama,7.2,2013
+3793,Action,6.6,2013
+3794,Comedy,6.3,2013
+3795,Comedy,7,2013
+3796,Drama,6.8,2013
+3797,Action,5.9,2013
+3798,Fantasy,6.2,2013
+3799,Action,6.4,2013
+3800,Action,5.3,2013
+3801,Action,6.7,2013
+3802,Action,6.7,2013
+3803,Horror,4.8,2013
+3804,Animation,7.3,2013
+3805,Action,6.3,2013
+3806,Drama,6.2,2013
+3807,Action,5.6,2013
+3808,Comedy,6.8,2013
+3809,Adventure,5.8,2013
+3810,Comedy,7.3,2013
+3811,Drama,6.7,2013
+3812,Drama,6.7,2013
+3813,Action,6.7,2013
+3814,Comedy,7.2,2013
+3815,Drama,7.1,2013
+3816,Drama,7.9,2013
+3817,Drama,6.7,2013
+3818,Comedy,7.4,2013
+3819,Horror,6.5,2013
+3820,Drama,6.8,2013
+3821,Crime,5.3,2013
+3822,Action,6.2,2013
+3823,Crime,6.7,2013
+3824,Comedy,3.5,2013
+3825,Action,5.6,2013
+3826,Comedy,7.5,2013
+3827,Comedy,5.8,2013
+3828,Drama,5.9,2013
+3829,Action,6.4,2013
+3830,Action,5.9,2013
+3831,Animation,6.4,2013
+3832,Comedy,6.8,2013
+3833,Action,6.7,2013
+3834,Comedy,7,2013
+3835,Crime,7.1,2013
+3836,Action,6.6,2013
+3837,Horror,6.6,2013
+3838,Action,6.2,2013
+3839,Biography,7.3,2013
+3840,Comedy,6.5,2013
+3841,Action,4.8,2013
+3842,Biography,7.2,2013
+3843,Action,5.7,2013
+3844,Action,6.6,2013
+3845,Action,6.5,2013
+3846,Drama,7.8,2013
+3847,Action,6.5,2013
+3848,Comedy,7.1,2013
+3849,Biography,7.5,2013
+3850,Crime,7.8,2013
+3851,Action,6.3,2013
+3852,Comedy,7.1,2013
+3853,Comedy,7,2013
+3854,Horror,5.7,2013
+3855,Drama,8,2013
+3856,Biography,7.5,2013
+3857,Drama,7.5,2013
+3858,Comedy,5.8,2013
+3859,Biography,6.2,2013
+3860,Biography,5.6,2013
+3861,Comedy,6.3,2013
+3862,Animation,7.8,2013
+3863,Comedy,5.8,2013
+3864,Drama,6.1,2013
+3865,Crime,6.9,2013
+3866,Comedy,6.4,2013
+3867,Comedy,5.7,2013
+3868,Comedy,6.4,2013
+3869,Animation,5.7,2013
+3870,Animation,6.4,2013
+3871,Adventure,6.2,2013
+3872,Crime,7.1,2013
+3873,Animation,6.7,2013
+3874,Horror,6.3,2013
+3875,Adventure,7.7,2013
+3876,Adventure,7.1,2013
+3877,Biography,8.2,2013
+3878,Drama,6.9,2013
+3879,Crime,6.9,2013
+3880,Action,6.2,2013
+3881,Comedy,6.1,2013
+3882,Action,6.9,2013
+3883,Drama,6.5,2013
+3884,Drama,6.3,2013
+3885,Biography,6.8,2013
+3886,Action,6.6,2013
+3887,Comedy,5.9,2013
+3888,Comedy,6.3,2013
+3889,Comedy,5.6,2013
+3890,Biography,6.5,2013
+3891,Action,6.4,2013
+3892,Animation,5.3,2013
+3893,Comedy,6.6,2013
+3894,Biography,7.5,2013
+3895,Drama,6.2,2013
+3896,Comedy,6.5,2013
+3897,Biography,7.6,2013
+3898,Drama,3.8,2013
+3899,Biography,6,2013
+3900,Action,6.4,2013
+3901,Drama,6.6,2013
+3902,Comedy,5.7,2013
+3903,Crime,7.4,2013
+3904,Comedy,5.8,2013
+3905,Drama,7.5,2013
+3906,Drama,5.8,2013
+3907,Crime,5.6,2013
+3908,Comedy,5,2013
+3909,Animation,8,2013
+3910,Comedy,6.5,2013
+3911,Drama,7.2,2013
+3912,Action,6.5,2013
+3913,Drama,6.7,2013
+3914,Drama,6.4,2013
+3915,Drama,6.3,2013
+3916,Crime,6.1,2013
+3917,Drama,5.7,2013
+3918,Drama,7.7,2013
+3919,Drama,6.4,2013
+3920,Horror,6,2013
+3921,Action,5.6,2013
+3922,Animation,6.5,2013
+3923,Biography,6.2,2013
+3924,Drama,7.4,2013
+3925,Comedy,5.8,2013
+3926,Adventure,7.2,2013
+3927,Comedy,6.6,2013
+3928,Comedy,6.7,2013
+3929,Crime,6.4,2013
+3930,Action,6.1,2013
+3931,Crime,6.8,2013
+3932,Drama,7.8,2013
+3933,Action,7.6,2013
+3934,Action,6.4,2013
+3935,Action,4.4,2013
+3936,Action,8,2014
+3937,Adventure,8.6,2014
+3938,Action,7.4,2014
+3939,Action,7.9,2014
+3940,Drama,8.1,2014
+3941,Action,7.7,2014
+3942,Adventure,8.1,2014
+3943,Drama,8.5,2014
+3944,Action,7.7,2014
+3945,Drama,7.7,2014
+3946,Action,6.6,2014
+3947,Crime,7.8,2014
+3948,Adventure,7.4,2014
+3949,Action,7.2,2014
+3950,Action,6.8,2014
+3951,Action,6.4,2014
+3952,Adventure,7.3,2014
+3953,Comedy,7.7,2014
+3954,Biography,8,2014
+3955,Action,7.6,2014
+3956,Action,7.9,2014
+3957,Action,7.5,2014
+3958,Action,6.4,2014
+3959,Comedy,7.7,2014
+3960,Horror,6.8,2014
+3961,Comedy,6.5,2014
+3962,Action,6,2014
+3963,Crime,7.4,2014
+3964,Comedy,5.3,2014
+3965,Action,6.4,2014
+3966,Drama,6.5,2014
+3967,Action,6.2,2014
+3968,Action,7.3,2014
+3969,Comedy,7.2,2014
+3970,Animation,7.8,2014
+3971,Action,6.6,2014
+3972,Action,7,2014
+3973,Adventure,5.9,2014
+3974,Action,7.2,2014
+3975,Animation,7.7,2014
+3976,Action,6.6,2014
+3977,Comedy,5.3,2014
+3978,Adventure,6.2,2014
+3979,Drama,7.7,2014
+3980,Horror,6.2,2014
+3981,Horror,5.4,2014
+3982,Drama,7.9,2014
+3983,Biography,7.7,2014
+3984,Action,6.1,2014
+3985,Action,6.5,2014
+3986,Crime,7.1,2014
+3987,Action,5.6,2014
+3988,Comedy,6.7,2014
+3989,Comedy,6.3,2014
+3990,Drama,6.8,2014
+3991,Comedy,5.1,2014
+3992,Comedy,6,2014
+3993,Comedy,8.1,2014
+3994,Adventure,7.1,2014
+3995,Biography,7,2014
+3996,Action,6.7,2014
+3997,Action,5.8,2014
+3998,Action,6.1,2014
+3999,Action,7,2014
+4000,Action,7.6,2014
+4001,Action,6.5,2014
+4002,Action,5.7,2014
+4003,Action,5.5,2014
+4004,Comedy,6.1,2014
+4005,Drama,5.7,2014
+4006,Comedy,5.6,2014
+4007,Comedy,6.8,2014
+4008,Animation,7.8,2014
+4009,Action,5.7,2014
+4010,Action,6.5,2014
+4011,Action,6.4,2014
+4012,Animation,6.3,2014
+4013,Action,5.5,2014
+4014,Action,6,2014
+4015,Comedy,6.1,2014
+4016,Action,5.7,2014
+4017,Animation,7.2,2014
+4018,Action,6.9,2014
+4019,Drama,6.7,2014
+4020,Comedy,6.3,2014
+4021,Comedy,6.6,2014
+4022,Action,5.8,2014
+4023,Animation,6.7,2014
+4024,Action,6.2,2014
+4025,Drama,8.1,2014
+4026,Biography,7.3,2014
+4027,Action,5.7,2014
+4028,Animation,7.3,2014
+4029,Horror,6.7,2014
+4030,Action,6.3,2014
+4031,Action,6.3,2014
+4032,Horror,5.5,2014
+4033,Drama,7.4,2014
+4034,Action,6.2,2014
+4035,Drama,6.3,2014
+4036,Comedy,6.4,2014
+4037,Drama,6.4,2014
+4038,Biography,7.4,2014
+4039,Action,6.2,2014
+4040,Action,8,2014
+4041,Action,6,2014
+4042,Action,5.5,2014
+4043,Action,5.9,2014
+4044,Action,6.2,2014
+4045,Comedy,6.1,2014
+4046,Drama,6.6,2014
+4047,Adventure,6.4,2014
+4048,Comedy,6.7,2014
+4049,Action,6.4,2014
+4050,Action,7,2014
+4051,Comedy,8.1,2014
+4052,Drama,6.5,2014
+4053,Mystery,6.3,2014
+4054,Crime,6.8,2014
+4055,Horror,5.7,2014
+4056,Drama,6.1,2014
+4057,Comedy,7.3,2014
+4058,Drama,6.9,2014
+4059,Comedy,6.2,2014
+4060,Drama,6.7,2014
+4061,Comedy,6.1,2014
+4062,Action,7.2,2014
+4063,Drama,7.5,2014
+4064,Action,6.2,2014
+4065,Horror,6.7,2014
+4066,Biography,7.4,2014
+4067,Biography,7,2014
+4068,Drama,5.1,2014
+4069,Drama,7,2014
+4070,Biography,7.5,2014
+4071,Crime,6.8,2014
+4072,Biography,7,2014
+4073,Comedy,7.1,2014
+4074,Biography,6.8,2014
+4075,Comedy,6,2014
+4076,Drama,6.8,2014
+4077,Comedy,5.8,2014
+4078,Comedy,4.7,2014
+4079,Crime,6.1,2014
+4080,Drama,6.4,2014
+4081,Action,5.1,2014
+4082,Adventure,6.4,2014
+4083,Comedy,6.4,2014
+4084,Action,6.4,2014
+4085,Biography,7,2014
+4086,Action,3.1,2014
+4087,Comedy,6.2,2014
+4088,Comedy,7.2,2014
+4089,Action,4.2,2014
+4090,Biography,6.9,2014
+4091,Drama,6,2014
+4092,Action,6.7,2014
+4093,Drama,4.7,2014
+4094,Drama,6.2,2014
+4095,Animation,7.7,2014
+4096,Animation,6.8,2014
+4097,Comedy,4.9,2014
+4098,Action,5.4,2014
+4099,Comedy,6.4,2014
+4100,Action,6.4,2014
+4101,Comedy,7.3,2014
+4102,Drama,7.3,2014
+4103,Drama,5.7,2014
+4104,Comedy,6.5,2014
+4105,Animation,8.1,2014
+4106,Adventure,7,2014
+4107,Horror,5.1,2014
+4108,Action,4.8,2014
+4109,Comedy,6.6,2014
+4110,Thriller,5.6,2014
+4111,Crime,7.6,2014
+4112,Drama,5.4,2014
+4113,Drama,6.5,2014
+4114,Biography,6,2014
+4115,Comedy,6.7,2014
+4116,Comedy,7,2014
+4117,Biography,6.9,2014
+4118,Drama,6.9,2014
+4119,Horror,4.5,2014
+4120,Biography,5.8,2014
+4121,Comedy,6.3,2014
+4122,Drama,8.1,2014
+4123,Drama,6.4,2014
+4124,Comedy,6.1,2014
+4125,Drama,7.4,2014
+4126,Comedy,5.8,2014
+4127,Crime,6.8,2014
+4128,Drama,6,2014
+4129,Animation,6,2014
+4130,Comedy,6.4,2014
+4131,Drama,7.1,2014
+4132,Drama,6.6,2014
+4133,Drama,6.7,2014
+4134,Comedy,5.7,2014
+4135,Comedy,6.4,2014
+4136,Action,8.1,2015
+4137,Action,7.3,2015
+4138,Drama,6.5,2015
+4139,Action,7.1,2015
+4140,Crime,7.8,2015
+4141,Action,7.3,2015
+4142,Drama,4.1,2015
+4143,Action,7.6,2015
+4144,Drama,6.9,2015
+4145,Biography,7.8,2015
+4146,Action,7,2015
+4147,Action,8,2015
+4148,Adventure,8,2015
+4149,Drama,8.1,2015
+4150,Animation,8.1,2015
+4151,Biography,8.1,2015
+4152,Action,6.1,2015
+4153,Action,7.3,2015
+4154,Action,6.3,2015
+4155,Drama,6.9,2015
+4156,Action,7.8,2015
+4157,Comedy,7.2,2015
+4158,Action,6.8,2015
+4159,Drama,5.6,2015
+4160,Biography,6.9,2015
+4161,Action,6.8,2015
+4162,Drama,4.9,2015
+4163,Action,6.9,2015
+4164,Comedy,6.1,2015
+4165,Comedy,7.1,2015
+4166,Action,6.6,2015
+4167,Action,7.1,2015
+4168,Action,5.4,2015
+4169,Action,7,2015
+4170,Action,4.2,2015
+4171,Action,7.4,2015
+4172,Horror,6.2,2015
+4173,Adventure,6.1,2015
+4174,Drama,7.6,2015
+4175,Drama,7.2,2015
+4176,Biography,6.9,2015
+4177,Comedy,6.6,2015
+4178,Animation,6.6,2015
+4179,Action,5.3,2015
+4180,Biography,5.8,2015
+4181,Animation,6.4,2015
+4182,Comedy,6.4,2015
+4183,Action,6.1,2015
+4184,Comedy,6.2,2015
+4185,Action,6.4,2015
+4186,Drama,7.6,2015
+4187,Biography,7.1,2015
+4188,Action,6.2,2015
+4189,Biography,7.8,2015
+4190,Drama,7.2,2015
+4191,Action,6.8,2015
+4192,Thriller,4.7,2015
+4193,Action,7.4,2015
+4194,Comedy,7.1,2015
+4195,Action,6.3,2015
+4196,Drama,6.4,2015
+4197,Action,6,2015
+4198,Horror,7,2015
+4199,Comedy,6.6,2015
+4200,Animation,6.7,2015
+4201,Drama,7.1,2015
+4202,Drama,6.6,2015
+4203,Drama,7,2015
+4204,Action,5.3,2015
+4205,Comedy,6,2015
+4206,Action,5.7,2015
+4207,Comedy,6.6,2015
+4208,Biography,7.2,2015
+4209,Action,6.3,2015
+4210,Action,6.7,2015
+4211,Biography,6.6,2015
+4212,Biography,5.8,2015
+4213,Drama,7.5,2015
+4214,Comedy,7.3,2015
+4215,Action,6.5,2015
+4216,Comedy,6.3,2015
+4217,Adventure,5.7,2015
+4218,Action,5.5,2015
+4219,Comedy,7,2015
+4220,Drama,6.6,2015
+4221,Comedy,6.2,2015
+4222,Action,6.6,2015
+4223,Action,6.4,2015
+4224,Comedy,5.6,2015
+4225,Comedy,6.5,2015
+4226,Biography,7.5,2015
+4227,Animation,6.7,2015
+4228,Drama,5.7,2015
+4229,Biography,6.9,2015
+4230,Drama,7.1,2015
+4231,Drama,6,2015
+4232,Horror,6.1,2015
+4233,Adventure,6.3,2015
+4234,Comedy,5.4,2015
+4235,Action,8,2015
+4236,Drama,6.4,2015
+4237,Comedy,6.6,2015
+4238,Comedy,6,2015
+4239,Crime,6.3,2015
+4240,Comedy,6.6,2015
+4241,Action,5.6,2015
+4242,Adventure,6.2,2015
+4243,Biography,6.7,2015
+4244,Animation,6,2015
+4245,Crime,6.5,2015
+4246,Action,6.7,2015
+4247,Comedy,7.7,2015
+4248,Drama,7.7,2015
+4249,Comedy,7.7,2015
+4250,Comedy,6.5,2015
+4251,Biography,7.1,2015
+4252,Comedy,6.9,2015
+4253,Drama,7.6,2015
+4254,Action,7.3,2015
+4255,Comedy,7.1,2015
+4256,Adventure,6.4,2015
+4257,Horror,5.3,2015
+4258,Drama,6.7,2015
+4259,Animation,7.3,2015
+4260,Horror,5.9,2015
+4261,Comedy,6.4,2015
+4262,Crime,8.2,2015
+4263,Action,5,2015
+4264,Biography,7.3,2015
+4265,Biography,7.4,2015
+4266,Action,7.3,2015
+4267,Comedy,6.6,2015
+4268,Comedy,6.2,2015
+4269,Horror,4.9,2015
+4270,Comedy,6.3,2015
+4271,Drama,6.2,2015
+4272,Drama,5.8,2015
+4273,Comedy,6.7,2015
+4274,Action,7.3,2015
+4275,Drama,5.3,2015
+4276,Action,5.5,2015
+4277,Comedy,6.7,2015
+4278,Drama,5.6,2015
+4279,Drama,6.4,2015
+4280,Crime,5.7,2015
+4281,Biography,6.3,2015
+4282,Biography,7.2,2015
+4283,Action,5.2,2015
+4284,Drama,6,2015
+4285,Drama,6.1,2015
+4286,Adventure,7.2,2015
+4287,Drama,7.8,2015
+4288,Action,5.2,2015
+4289,Comedy,6.2,2015
+4290,Action,8,2015
+4291,Drama,6.3,2015
+4292,Action,5.8,2015
+4293,Comedy,6.4,2015
+4294,Drama,4.8,2015
+4295,Drama,6.4,2015
+4296,Action,7.1,2015
+4297,Biography,7.4,2015
+4298,Animation,5.8,2015
+4299,Animation,7.1,2015
+4300,Comedy,5.5,2015
+4301,Drama,6.1,2015
+4302,Animation,5,2015
+4303,Horror,5.2,2015
+4304,Comedy,5.8,2015
+4305,Biography,6.9,2015
+4306,Animation,7.7,2015
+4307,Drama,6.6,2015
+4308,Horror,4.3,2015
+4309,Drama,6.1,2015
+4310,Horror,5.9,2015
+4311,Comedy,6.7,2015
+4312,Action,6.5,2015
+4313,Action,6.9,2015
+4314,Biography,7.3,2015
+4315,Crime,6.3,2015
+4316,Drama,6.6,2015
+4317,Adventure,4.2,2015
+4318,Drama,6.8,2015
+4319,Action,5.4,2015
+4320,Comedy,6.1,2015
+4321,Comedy,5.4,2015
+4322,Comedy,5.1,2015
+4323,Action,6.7,2015
+4324,Comedy,6.1,2015
+4325,Comedy,6.6,2015
+4326,Comedy,5.9,2015
+4327,Biography,7,2015
+4328,Drama,7.5,2015
+4329,Drama,6.9,2015
+4330,Action,6,2015
+4331,Action,4.4,2015
+4332,Drama,7.5,2015
+4333,Drama,6.5,2015
+4334,Action,6,2015
+4335,Drama,7.1,2015
+4336,Comedy,5.7,2016
+4337,Action,5.9,2016
+4338,Action,6.9,2016
+4339,Action,7.8,2016
+4340,Action,6.8,2016
+4341,Action,8,2016
+4342,Action,7.5,2016
+4343,Horror,7.3,2016
+4344,Drama,7.4,2016
+4345,Crime,7.1,2016
+4346,Drama,6.8,2016
+4347,Animation,7.6,2016
+4348,Drama,7.9,2016
+4349,Action,6.9,2016
+4350,Comedy,7.9,2016
+4351,Action,7,2016
+4352,Animation,7.1,2016
+4353,Comedy,8,2016
+4354,Horror,7.3,2016
+4355,Drama,7,2016
+4356,Animation,8,2016
+4357,Action,6.1,2016
+4358,Biography,8.1,2016
+4359,Drama,8.1,2016
+4360,Action,7.3,2016
+4361,Drama,7.5,2016
+4362,Action,7.8,2016
+4363,Action,6.4,2016
+4364,Animation,8.4,2016
+4365,Animation,7.1,2016
+4366,Action,7.4,2016
+4367,Action,5.2,2016
+4368,Drama,7,2016
+4369,Adventure,6.7,2016
+4370,Adventure,7.3,2016
+4371,Action,7.6,2016
+4372,Action,5.5,2016
+4373,Action,6.3,2016
+4374,Action,5.8,2016
+4375,Action,6.3,2016
+4376,Biography,7.8,2016
+4377,Animation,6.1,2016
+4378,Crime,6.5,2016
+4379,Action,7.6,2016
+4380,Action,6,2016
+4381,Action,6.7,2016
+4382,Action,7.3,2016
+4383,Horror,6.2,2016
+4384,Drama,7.4,2016
+4385,Action,6.6,2016
+4386,Drama,7.8,2016
+4387,Action,6.3,2016
+4388,Biography,7.1,2016
+4389,Action,6.2,2016
+4390,Drama,7.2,2016
+4391,Adventure,7,2016
+4392,Action,5.4,2016
+4393,Adventure,7.9,2016
+4394,Biography,7.2,2016
+4395,Action,6.2,2016
+4396,Action,6.5,2016
+4397,Drama,7.5,2016
+4398,Adventure,7.4,2016
+4399,Action,7.2,2016
+4400,Biography,6.6,2016
+4401,Animation,7.3,2016
+4402,Biography,8,2016
+4403,Drama,6.3,2016
+4404,Comedy,4.8,2016
+4405,Action,7.1,2016
+4406,Action,6.1,2016
+4407,Comedy,6.5,2016
+4408,Comedy,6.1,2016
+4409,Biography,7.3,2016
+4410,Action,8.4,2016
+4411,Action,5.3,2016
+4412,Action,6.3,2016
+4413,Action,7.1,2016
+4414,Drama,6.6,2016
+4415,Biography,7.4,2016
+4416,Action,5.8,2016
+4417,Action,5.8,2016
+4418,Biography,7,2016
+4419,Comedy,7.3,2016
+4420,Drama,6.4,2016
+4421,Action,5.9,2016
+4422,Comedy,5.9,2016
+4423,Comedy,6.3,2016
+4424,Action,5.2,2016
+4425,Animation,6.5,2016
+4426,Action,5.7,2016
+4427,Comedy,7.4,2016
+4428,Comedy,7,2016
+4429,Action,5.9,2016
+4430,Comedy,6,2016
+4431,Comedy,6.2,2016
+4432,Drama,6.8,2016
+4433,Horror,6,2016
+4434,Drama,7.2,2016
+4435,Adventure,6.2,2016
+4436,Action,6.2,2016
+4437,Animation,5.7,2016
+4438,Action,7.4,2016
+4439,Action,5.9,2016
+4440,Biography,6.6,2016
+4441,Animation,6.5,2016
+4442,Comedy,6.7,2016
+4443,Crime,6.5,2016
+4444,Comedy,7.3,2016
+4445,Action,5.7,2016
+4446,Action,6,2016
+4447,Crime,5.7,2016
+4448,Comedy,6.9,2016
+4449,Action,6.3,2016
+4450,Action,6.8,2016
+4451,Biography,7.3,2016
+4452,Comedy,6.2,2016
+4453,Horror,6.1,2016
+4454,Adventure,6.4,2016
+4455,Action,4.7,2016
+4456,Drama,6.6,2016
+4457,Animation,6.3,2016
+4458,Action,6.4,2016
+4459,Action,6.5,2016
+4460,Action,5.7,2016
+4461,Comedy,7.9,2016
+4462,Drama,7.2,2016
+4463,Action,6.8,2016
+4464,Comedy,6.2,2016
+4465,Biography,7.1,2016
+4466,Comedy,6.2,2016
+4467,Action,6.4,2016
+4468,Horror,5.9,2016
+4469,Drama,6.8,2016
+4470,Comedy,5.7,2016
+4471,Action,5.7,2016
+4472,Action,6.9,2016
+4473,Biography,6.7,2016
+4474,Crime,6.7,2016
+4475,Action,6.7,2016
+4476,Horror,5.1,2016
+4477,Action,6.3,2016
+4478,Drama,5.7,2016
+4479,Animation,6.8,2016
+4480,Adventure,7.5,2016
+4481,Action,7.2,2016
+4482,Animation,7.8,2016
+4483,Comedy,6.6,2016
+4484,Horror,5,2016
+4485,Drama,7.8,2016
+4486,Action,6,2016
+4487,Animation,5.6,2016
+4488,Action,6.3,2016
+4489,Comedy,5.7,2016
+4490,Comedy,5.9,2016
+4491,Comedy,6.5,2016
+4492,Biography,6.8,2016
+4493,Animation,6.4,2016
+4494,Animation,6.8,2016
+4495,Drama,6.1,2016
+4496,Comedy,6.1,2016
+4497,Drama,6.1,2016
+4498,Drama,5.4,2016
+4499,Horror,4.8,2016
+4500,Crime,6.5,2016
+4501,Animation,5.7,2016
+4502,Comedy,6.6,2016
+4503,Comedy,3.5,2016
+4504,Comedy,7.4,2016
+4505,Comedy,6.8,2016
+4506,Comedy,6,2016
+4507,Action,6.2,2016
+4508,Drama,6.1,2016
+4509,Crime,6.2,2016
+4510,Comedy,6.4,2016
+4511,Biography,6.8,2016
+4512,Biography,6.6,2016
+4513,Biography,7,2016
+4514,Drama,7.9,2016
+4515,Drama,7.5,2016
+4516,Horror,5.7,2016
+4517,Animation,6.8,2016
+4518,Comedy,7.7,2016
+4519,Biography,6.6,2016
+4520,Drama,5.8,2016
+4521,Biography,6.7,2016
+4522,Comedy,6.7,2016
+4523,Action,5.9,2016
+4524,Crime,8.1,2016
+4525,Drama,6.9,2016
+4526,Animation,6,2016
+4527,Biography,7.1,2016
+4528,Biography,6.9,2016
+4529,Drama,7.1,2016
+4530,Crime,6.1,2016
+4531,Crime,6.2,2016
+4532,Drama,5.4,2016
+4533,Comedy,6.9,2016
+4534,Horror,5.3,2016
+4535,Drama,7.3,2016
+4536,Action,7.9,2017
+4537,Biography,7.4,2017
+4538,Action,6.9,2017
+4539,Horror,7.3,2017
+4540,Action,7.4,2017
+4541,Action,8,2017
+4542,Action,7.6,2017
+4543,Biography,7.6,2017
+4544,Action,6.9,2017
+4545,Action,5.5,2017
+4546,Drama,7.9,2017
+4547,Comedy,5.8,2017
+4548,Action,6.6,2017
+4549,Horror,7.7,2017
+4550,Action,7.8,2017
+4551,Animation,8.4,2017
+4552,Action,7.6,2017
+4553,Animation,6.3,2017
+4554,Action,8.1,2017
+4555,Action,7.4,2017
+4556,Horror,6.4,2017
+4557,Action,7.5,2017
+4558,Drama,8,2017
+4559,Action,6.1,2017
+4560,Drama,6.6,2017
+4561,Action,6.5,2017
+4562,Adventure,7.3,2017
+4563,Drama,6.6,2017
+4564,Action,6.6,2017
+4565,Family,7.1,2017
+4566,Action,6.7,2017
+4567,Comedy,8.1,2017
+4568,Action,7,2017
+4569,Crime,6.8,2017
+4570,Biography,7.5,2017
+4571,Action,6.7,2017
+4572,Crime,7.7,2017
+4573,Crime,6.5,2017
+4574,Action,6.7,2017
+4575,Comedy,7.4,2017
+4576,Drama,7,2017
+4577,Comedy,7,2017
+4578,Drama,4.6,2017
+4579,Comedy,6.6,2017
+4580,Action,5.2,2017
+4581,Crime,7.4,2017
+4582,Action,6.3,2017
+4583,Comedy,6,2017
+4584,Biography,7.4,2017
+4585,Drama,7.2,2017
+4586,Action,6.5,2017
+4587,Action,5.6,2017
+4588,Comedy,5.8,2017
+4589,Action,6.2,2017
+4590,Crime,6.8,2017
+4591,Drama,7.6,2017
+4592,Horror,6.6,2017
+4593,Comedy,7.2,2017
+4594,Drama,7.6,2017
+4595,Drama,7.5,2017
+4596,Comedy,7,2017
+4597,Drama,6.3,2017
+4598,Horror,6.5,2017
+4599,Action,7.2,2017
+4600,Action,7.4,2017
+4601,Action,5.3,2017
+4602,Drama,5.3,2017
+4603,Animation,6.7,2017
+4604,Comedy,5.2,2017
+4605,Action,5.2,2017
+4606,Action,5.4,2017
+4607,Action,6,2017
+4608,Animation,6.7,2017
+4609,Action,7.6,2017
+4610,Drama,6.3,2017
+4611,Biography,7.1,2017
+4612,Animation,7.3,2017
+4613,Adventure,7.2,2017
+4614,Comedy,7.5,2017
+4615,Drama,6.5,2017
+4616,Comedy,6.7,2017
+4617,Action,7,2017
+4618,Action,6.4,2017
+4619,Crime,5.8,2017
+4620,Crime,5.1,2017
+4621,Biography,7.4,2017
+4622,Adventure,5.7,2017
+4623,Drama,7.2,2017
+4624,Drama,6.4,2017
+4625,Drama,6.9,2017
+4626,Action,6.2,2017
+4627,Action,5.9,2017
+4628,Comedy,7.4,2017
+4629,Biography,6.8,2017
+4630,Comedy,5.7,2017
+4631,Drama,7.2,2017
+4632,Horror,6.2,2017
+4633,Animation,6.3,2017
+4634,Comedy,6.6,2017
+4635,Drama,5.7,2017
+4636,Drama,6.5,2017
+4637,Drama,6.2,2017
+4638,Animation,3.3,2017
+4639,Comedy,6.6,2017
+4640,Drama,5.1,2017
+4641,Animation,7.8,2017
+4642,Adventure,6.2,2017
+4643,Animation,7.8,2017
+4644,Drama,6.4,2017
+4645,Drama,6.2,2017
+4646,Action,6.4,2017
+4647,Drama,7.2,2017
+4648,Comedy,7.2,2017
+4649,Drama,6.5,2017
+4650,Biography,6.7,2017
+4651,Drama,7.7,2017
+4652,Crime,6.6,2017
+4653,Biography,6.9,2017
+4654,Comedy,6,2017
+4655,Biography,6.4,2017
+4656,Adventure,7.2,2017
+4657,Drama,7.2,2017
+4658,Comedy,5.8,2017
+4659,Drama,6.3,2017
+4660,Drama,7,2017
+4661,Drama,5.2,2017
+4662,Drama,4.5,2017
+4663,Comedy,4.1,2017
+4664,Biography,7.1,2017
+4665,Drama,7.5,2017
+4666,Drama,7.1,2017
+4667,Animation,6,2017
+4668,Biography,6.2,2017
+4669,Comedy,5.6,2017
+4670,Drama,6.7,2017
+4671,Biography,7,2017
+4672,Comedy,6,2017
+4673,Drama,5.7,2017
+4674,Crime,7.3,2017
+4675,Comedy,6.9,2017
+4676,Biography,7.1,2017
+4677,Biography,5.9,2017
+4678,Action,5.6,2017
+4679,Drama,7.4,2017
+4680,Drama,6.2,2017
+4681,Biography,6.9,2017
+4682,Horror,3.9,2017
+4683,Drama,6,2017
+4684,Action,8.2,2017
+4685,Biography,7.2,2017
+4686,Drama,6.3,2017
+4687,Action,7.9,2017
+4688,Comedy,6.5,2017
+4689,Drama,5.7,2017
+4690,Animation,6,2017
+4691,Drama,7,2017
+4692,Adventure,6.2,2017
+4693,Crime,7.1,2017
+4694,Action,4.5,2017
+4695,Crime,6.5,2017
+4696,Biography,6.8,2017
+4697,Comedy,5.6,2017
+4698,Action,6.2,2017
+4699,Comedy,6,2017
+4700,Adventure,6.7,2017
+4701,Biography,6.6,2017
+4702,Animation,6.1,2017
+4703,Biography,7.1,2017
+4704,Comedy,5.8,2017
+4705,Comedy,5.5,2017
+4706,Action,5.9,2017
+4707,Animation,4.3,2017
+4708,Drama,6.4,2017
+4709,Biography,6.1,2017
+4710,Drama,6.4,2017
+4711,Drama,6.5,2017
+4712,Biography,6.5,2017
+4713,Comedy,5.6,2017
+4714,Drama,7.6,2017
+4715,Animation,6.2,2017
+4716,Comedy,6,2017
+4717,Drama,5,2017
+4718,Crime,6.6,2017
+4719,Action,6.8,2017
+4720,Drama,6.7,2017
+4721,Biography,6.6,2017
+4722,Biography,7.3,2017
+4723,Drama,7.4,2017
+4724,Adventure,7.2,2017
+4725,Action,7.2,2017
+4726,Comedy,6.1,2017
+4727,Drama,7,2017
+4728,Drama,6.3,2017
+4729,Adventure,6.7,2017
+4730,Action,6.7,2017
+4731,Comedy,5.7,2017
+4732,Horror,4.8,2017
+4733,Comedy,6.3,2017
+4734,Drama,4.2,2017
+4735,Action,7.3,2017
+4736,Drama,7.5,2018
+4737,Action,8.4,2018
+4738,Action,7.7,2018
+4739,Biography,7.9,2018
+4740,Action,7.3,2018
+4741,Drama,7.3,2018
+4742,Comedy,6.8,2018
+4743,Action,6.9,2018
+4744,Action,7.4,2018
+4745,Animation,8.4,2018
+4746,Action,7.7,2018
+4747,Action,6.7,2018
+4748,Biography,8.2,2018
+4749,Comedy,6.9,2018
+4750,Action,7,2018
+4751,Biography,7.5,2018
+4752,Action,5.3,2018
+4753,Crime,6.5,2018
+4754,Action,6.9,2018
+4755,Drama,6.6,2018
+4756,Crime,6.5,2018
+4757,Action,7,2018
+4758,Adventure,6.8,2018
+4759,Action,6.6,2018
+4760,Drama,7.6,2018
+4761,Comedy,6.6,2018
+4762,Action,6.3,2018
+4763,Comedy,7.3,2018
+4764,Action,6.2,2018
+4765,Comedy,7.4,2018
+4766,Action,6.3,2018
+4767,Fantasy,6.7,2018
+4768,Biography,7.5,2018
+4769,Action,5.6,2018
+4770,Horror,6.5,2018
+4771,Action,7.1,2018
+4772,Drama,4.5,2018
+4773,Crime,6.5,2018
+4774,Animation,7.6,2018
+4775,Action,5.2,2018
+4776,Crime,6.8,2018
+4777,Drama,6.6,2018
+4778,Horror,5.3,2018
+4779,Biography,5.9,2018
+4780,Action,6.7,2018
+4781,Drama,7,2018
+4782,Action,6.3,2018
+4783,Action,6.9,2018
+4784,Biography,6.4,2018
+4785,Action,6.5,2018
+4786,Crime,7.5,2018
+4787,Crime,7.1,2018
+4788,Animation,7.9,2018
+4789,Adventure,6.5,2018
+4790,Action,6.6,2018
+4791,Crime,7,2018
+4792,Crime,6.6,2018
+4793,Action,5.3,2018
+4794,Biography,7.3,2018
+4795,Drama,8.4,2018
+4796,Action,6.6,2018
+4797,Comedy,7.6,2018
+4798,Comedy,6.7,2018
+4799,Adventure,7.2,2018
+4800,Action,6.7,2018
+4801,Biography,7.2,2018
+4802,Animation,6.3,2018
+4803,Action,6.1,2018
+4804,Animation,6.6,2018
+4805,Action,6.6,2018
+4806,Action,6.1,2018
+4807,Action,7.5,2018
+4808,Biography,6.3,2018
+4809,Animation,7,2018
+4810,Action,6.6,2018
+4811,Action,6.3,2018
+4812,Action,6.1,2018
+4813,Action,6.1,2018
+4814,Action,6.3,2018
+4815,Biography,7.3,2018
+4816,Drama,7.1,2018
+4817,Action,6.1,2018
+4818,Crime,6.9,2018
+4819,Comedy,7.4,2018
+4820,Drama,5.5,2018
+4821,Crime,6.9,2018
+4822,Drama,7.5,2018
+4823,Drama,7.6,2018
+4824,Drama,6.9,2018
+4825,Comedy,6.2,2018
+4826,Horror,5.2,2018
+4827,Action,6.5,2018
+4828,Adventure,5.8,2018
+4829,Drama,6.5,2018
+4830,Biography,6.6,2018
+4831,Crime,7.9,2018
+4832,Comedy,7.4,2018
+4833,Crime,7,2018
+4834,Adventure,7.3,2018
+4835,Drama,6,2018
+4836,Comedy,5.5,2018
+4837,Action,6.1,2018
+4838,Horror,3.2,2018
+4839,Biography,7,2018
+4840,Drama,6.8,2018
+4841,Comedy,6.1,2018
+4842,Action,5.3,2018
+4843,Comedy,6.9,2018
+4844,Action,5.6,2018
+4845,Comedy,3.8,2018
+4846,Action,5.7,2018
+4847,Drama,7.6,2018
+4848,Horror,5.2,2018
+4849,Action,6.7,2018
+4850,Biography,6.9,2018
+4851,Comedy,6,2018
+4852,Drama,6.7,2018
+4853,Adventure,6.8,2018
+4854,Adventure,4.2,2018
+4855,Crime,4,2018
+4856,Crime,8.2,2018
+4857,Action,7.6,2018
+4858,Comedy,5.6,2018
+4859,Biography,7,2018
+4860,Comedy,6.1,2018
+4861,Biography,7.2,2018
+4862,Biography,4.7,2018
+4863,Adventure,7.3,2018
+4864,Action,6.2,2018
+4865,Drama,5.6,2018
+4866,Drama,6.6,2018
+4867,Horror,5.7,2018
+4868,Biography,5.9,2018
+4869,Biography,6.9,2018
+4870,Biography,7.1,2018
+4871,Drama,6.4,2018
+4872,Biography,6.9,2018
+4873,Action,6.2,2018
+4874,Action,5.8,2018
+4875,Drama,6.8,2018
+4876,Biography,6.7,2018
+4877,Comedy,6.7,2018
+4878,Biography,7.1,2018
+4879,Animation,8,2018
+4880,Adventure,6.4,2018
+4881,Biography,6.2,2018
+4882,Biography,6.2,2018
+4883,Crime,6.5,2018
+4884,Crime,7,2018
+4885,Action,6.1,2018
+4886,Action,6,2018
+4887,Horror,6,2018
+4888,Adventure,5.6,2018
+4889,Comedy,5.7,2018
+4890,Action,5.4,2018
+4891,Comedy,7,2018
+4892,Comedy,5.6,2018
+4893,Biography,6.6,2018
+4894,Animation,6.6,2018
+4895,Horror,5.5,2018
+4896,Biography,6.7,2018
+4897,Comedy,5.8,2018
+4898,Comedy,5.8,2018
+4899,Comedy,7.2,2018
+4900,Horror,5.2,2018
+4901,Drama,7.1,2018
+4902,Crime,4.8,2018
+4903,Animation,6.3,2018
+4904,Biography,6.7,2018
+4905,Biography,5.5,2018
+4906,Biography,5.3,2018
+4907,Comedy,5.1,2018
+4908,Comedy,6.6,2018
+4909,Crime,7.5,2018
+4910,Biography,7.7,2018
+4911,Drama,5.8,2018
+4912,Horror,5.6,2018
+4913,Comedy,6.1,2018
+4914,Comedy,5.5,2018
+4915,Drama,5.4,2018
+4916,Drama,6.2,2018
+4917,Comedy,5.3,2018
+4918,Adventure,4.3,2018
+4919,Drama,7,2018
+4920,Biography,7.2,2018
+4921,Action,5.2,2018
+4922,Animation,6.1,2018
+4923,Biography,7.3,2018
+4924,Drama,6.2,2018
+4925,Animation,7.8,2018
+4926,Comedy,6.3,2018
+4927,Action,5.8,2018
+4928,Drama,6.3,2018
+4929,Biography,7.1,2018
+4930,Animation,5.6,2018
+4931,Action,6.2,2018
+4932,Comedy,4.9,2018
+4933,Action,5.8,2018
+4934,Animation,7.5,2018
+4935,Drama,5.8,2018
+4936,Drama,7.1,2019
+4937,Comedy,7.6,2019
+4938,Action,8.4,2019
+4939,Biography,7.1,2019
+4940,Drama,7.8,2019
+4941,Action,6.4,2019
+4942,Comedy,5.5,2019
+4943,Crime,8.4,2019
+4944,Comedy,6.8,2019
+4945,Comedy,8.6,2019
+4946,Action,7.4,2019
+4947,Comedy,7.9,2019
+4948,Action,6.4,2019
+4949,Action,6.8,2019
+4950,Drama,5.3,2019
+4951,Action,7.5,2019
+4952,Comedy,7.9,2019
+4953,Action,7,2019
+4954,Drama,6.5,2019
+4955,Drama,8.3,2019
+4956,Action,6.5,2019
+4957,Action,8.1,2019
+4958,Biography,7.8,2019
+4959,Drama,7.5,2019
+4960,Action,6.6,2019
+4961,Action,7.3,2019
+4962,Horror,6.8,2019
+4963,Action,6.9,2019
+4964,Action,5.2,2019
+4965,Action,6.2,2019
+4966,Drama,7.4,2019
+4967,Action,5.7,2019
+4968,Comedy,7.2,2019
+4969,Adventure,6.1,2019
+4970,Drama,6.6,2019
+4971,Biography,7.2,2019
+4972,Biography,7.3,2019
+4973,Animation,6.9,2019
+4974,Adventure,6.9,2019
+4975,Comedy,7.9,2019
+4976,Action,6,2019
+4977,Biography,7.3,2019
+4978,Comedy,6.3,2019
+4979,Action,6.6,2019
+4980,Drama,8.1,2019
+4981,Animation,7.7,2019
+4982,Action,6.7,2019
+4983,Comedy,6.8,2019
+4984,Action,6.4,2019
+4985,Action,5.6,2019
+4986,Action,5.7,2019
+4987,Animation,6.8,2019
+4988,Drama,6.1,2019
+4989,Adventure,6.5,2019
+4990,Adventure,7.6,2019
+4991,Adventure,6.7,2019
+4992,Horror,5.6,2019
+4993,Drama,7.2,2019
+4994,Action,6.2,2019
+4995,Action,6.1,2019
+4996,Horror,5.9,2019
+4997,Action,6.1,2019
+4998,Comedy,6.5,2019
+4999,Animation,5.8,2019
+5000,Drama,6.3,2019
+5001,Biography,7.3,2019
+5002,Animation,7.5,2019
+5003,Action,6.6,2019
+5004,Drama,5.4,2019
+5005,Adventure,6.6,2019
+5006,Drama,7.3,2019
+5007,Animation,6.5,2019
+5008,Horror,5.3,2019
+5009,Action,6,2019
+5010,Adventure,6.2,2019
+5011,Thriller,5.6,2019
+5012,Animation,6.4,2019
+5013,Comedy,5.3,2019
+5014,Horror,5.7,2019
+5015,Adventure,5,2019
+5016,Action,6.6,2019
+5017,Comedy,6.2,2019
+5018,Animation,7.5,2019
+5019,Biography,5.9,2019
+5020,Comedy,6.3,2019
+5021,Animation,6.6,2019
+5022,Drama,5.8,2019
+5023,Drama,6.7,2019
+5024,Drama,6.4,2019
+5025,Comedy,7.6,2019
+5026,Adventure,6.3,2019
+5027,Comedy,5.4,2019
+5028,Comedy,6.4,2019
+5029,Action,6.4,2019
+5030,Comedy,5.5,2019
+5031,Action,5.5,2019
+5032,Comedy,5.3,2019
+5033,Action,6.2,2019
+5034,Comedy,7.6,2019
+5035,Comedy,6.9,2019
+5036,Comedy,6.5,2019
+5037,Action,7,2019
+5038,Animation,7,2019
+5039,Drama,6.3,2019
+5040,Comedy,5.9,2019
+5041,Action,5.4,2019
+5042,Adventure,7.5,2019
+5043,Drama,6.4,2019
+5044,Animation,5,2019
+5045,Biography,6.8,2019
+5046,Drama,5.7,2019
+5047,Comedy,6.8,2019
+5048,Comedy,8.3,2019
+5049,Drama,6.3,2019
+5050,Action,5.8,2019
+5051,Adventure,6.7,2019
+5052,Biography,8,2019
+5053,Animation,5.9,2019
+5054,Action,6.9,2019
+5055,Crime,4.1,2019
+5056,Drama,6.9,2019
+5057,Action,5.6,2019
+5058,Action,6,2019
+5059,Action,6,2019
+5060,Drama,6,2019
+5061,Animation,6.7,2019
+5062,Biography,6.3,2019
+5063,Comedy,6,2019
+5064,Comedy,5.5,2019
+5065,Fantasy,5.9,2019
+5066,Animation,7.5,2019
+5067,Drama,6.9,2019
+5068,Drama,8,2019
+5069,Crime,5.3,2019
+5070,Drama,6.6,2019
+5071,Crime,6.2,2019
+5072,Comedy,4.5,2019
+5073,Crime,5.2,2019
+5074,Action,7.1,2019
+5075,Drama,5.7,2019
+5076,Drama,5.9,2019
+5077,Comedy,6.2,2019
+5078,Drama,3.6,2019
+5079,Action,8.1,2019
+5080,Drama,6.5,2019
+5081,Fantasy,6.5,2019
+5082,Action,7.2,2019
+5083,Action,5.2,2019
+5084,Action,7,2019
+5085,Drama,6.3,2019
+5086,Drama,5.4,2019
+5087,Biography,5.8,2019
+5088,Action,2.2,2019
+5089,Action,6.2,2019
+5090,Comedy,6.3,2019
+5091,Comedy,6.6,2019
+5092,Drama,6.9,2019
+5093,Sport,5.9,2019
+5094,Animation,7.4,2019
+5095,Comedy,5.1,2019
+5096,Animation,6.1,2019
+5097,Drama,6.4,2019
+5098,Comedy,6.7,2019
+5099,Action,6.6,2019
+5100,Action,6.3,2019
+5101,Drama,6.9,2019
+5102,Comedy,5.5,2019
+5103,Horror,4.8,2019
+5104,Action,5.6,2019
+5105,Action,4.9,2019
+5106,Musical,7.9,2019
+5107,Crime,6.3,2019
+5108,Horror,5.9,2019
+5109,Action,3.5,2019
+5110,Musical,8.2,2019
+5111,Drama,6.9,2019
+5112,Action,5.9,2019
+5113,Comedy,4.7,2019
+5114,Comedy,5.9,2019
+5115,Action,5.6,2019
+5116,Action,6.2,2019
+5117,Action,4.2,2019
+5118,Comedy,5.7,2019
+5119,Comedy,4.2,2019
+5120,Action,6,2019
+5121,Crime,5.9,2019
+5122,Drama,6.5,2019
+5123,Drama,7.9,2019
+5124,Drama,6.4,2019
+5125,Animation,7.6,2019
+5126,Comedy,4.9,2019
+5127,Drama,6.5,2019
+5128,Drama,6.8,2019
+5129,Adventure,5.6,2019
+5130,Action,4.5,2019
+5131,Action,5.8,2019
+5132,Family,4.6,2019
+5133,Action,3,2019
+5134,Drama,4.8,2019
+5135,Drama,6.8,2019
+5136,Action,7.4,2020
+5137,Action,5.4,2020
+5138,Action,6.1,2020
+5139,Drama,7.1,2020
+5140,Animation,7.4,2020
+5141,Action,6.6,2020
+5142,Action,6.5,2020
+5143,Adventure,5.6,2020
+5144,Adventure,6.8,2020
+5145,Action,6.8,2020
+5146,Crime,5.4,2020
+5147,Sci-Fi,5.7,2020
+5148,Animation,6.6,2020
+5149,Comedy,5,2020
+5150,Drama,6.7,2020
+5151,Drama,6.6,2020
+5152,Horror,3.4,2020
+5153,Comedy,7.1,2020
